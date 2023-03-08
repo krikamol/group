@@ -1,14 +1,14 @@
 # Machine Learning Reading Group
 
-The Machine Learning Reading Group (MLRG) aims to enhance our understanding in broader areas of machine learning (ML), to incubate innovative ideas, and to foster cross-domain research collaborations. The topics of interest include, but are not limited to, learning theory, out-of-distribution (OOD) generalization, causal inference, game-theoretic learning, collaborative/cooperative learning, economics and econometrics, etc. 
+The Machine Learning Reading Group (MLRG) aims at enhancing our understanding in the broad areas of machine learning (ML), incubating innovative ideas, and fostering cross-domain research collaborations. The topics of interest include, but not limited to, learning theory, out-of-distribution (OOD) generalization, causal inference, game-theoretic learning, collaborative/cooperative learning, economics and econometrics, etc. 
 
 - **Date/Time**: Bi-weekly on Tuesday, 13:30pm-15:00pm
 - **Location**: CISPA-C0 Room 2.01 & [Zoom](https://cispa-de.zoom.us/j/67376706036)
 - **Organiser**: Alan Chau (siu-lun.chau-at-cispa.de)
 
-A person will present a paper of their choice and lead the discussion. Other participants are encouraged but not compulsory to read the paper beforehand.
+Each MLRG session is led by a presenter(s) who presents a paper of their choice and leads the discussion. The participants are encouraged to read the paper beforehand.
 
-The MLRG is initially hosted by the scientific group Muandet at [CISPA--Helmholtz Center for Information Security](https://cispa.de/en). If you are interested in presenting a paper at the reading group, please contact the organiser.
+The MLRG is hosted by the scientific group Muandet at [CISPA--Helmholtz Center for Information Security](https://cispa.de/en) and is open to everyone. If you are interested in presenting a paper at the reading group, please contact the organiser.
 
 | Date | Presenter | Paper |
 | --- | --- | --- |
