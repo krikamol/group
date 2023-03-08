@@ -6,7 +6,7 @@ The Machine Learning Reading Group (MLRG) aims at enhancing our understanding in
 - **Location**: CISPA-C0 Room 2.01 & [Zoom](https://cispa-de.zoom.us/j/67376706036)
 - **Organiser**: Alan Chau (siu-lun.chau-at-cispa.de)
 
-Each MLRG session is led by a presenter(s) who presents a paper of their choice and leads the discussion. The participants are encouraged to read the paper beforehand.
+Each session is led by a presenter(s) who presents a paper of their choice and leads the discussion. The participants are encouraged to read the paper beforehand.
 
 The MLRG is hosted by the scientific group Muandet at [CISPA--Helmholtz Center for Information Security](https://cispa.de/en) and is open to everyone. If you are interested in presenting a paper at the reading group, please contact the organiser.
 
