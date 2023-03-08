@@ -4,9 +4,9 @@ Welcome to the Machine Learning Reading Group (MLRG).
 
 This is where we organise our reading group materials and presentations.
 
-- Time: Biweekly on Tuesday 13:30pm-15:00pm <br>
-- Location: C0 Room 2.01 & [Zoom](https://cispa-de.zoom.us/j/3201305684?pwd=VWFoWWJBK25iK21zRzRNRHhJOGtyZz09) <br>
-- Organiser: Alan Chau 
+- **Time**: Bi-weekly on Tuesday, 13:30pm-15:00pm
+- **Location**: C0 Room 2.01 & [Zoom](https://cispa-de.zoom.us/j/67376706036)
+- **Organiser**: Alan Chau 
 
 | Date | Speaker | Paper | Link |
 | --- | --- | --- | --- |
