@@ -1,8 +1,8 @@
 # Machine Learning Reading Group
 
-The Machine Learning Reading Group (MLRG) aims to enhance our understanding in broad areas of machine learning (ML), especially out-of-domain generalisation and adaptation, causal inference and econometrics, collaborative learning of multiple agents, and other interesting machine learning topics.
+The Machine Learning Reading Group (MLRG) aims to enhance our understanding in broader areas of machine learning (ML), to incubate innovative ideas, and to foster cross-domain research collaborations.
 
-- **Time**: Bi-weekly on Tuesday, 13:30pm-15:00pm
+- **Date/Time**: Bi-weekly on Tuesday, 13:30pm-15:00pm
 - **Location**: CISPA-C0 Room 2.01 & [Zoom](https://cispa-de.zoom.us/j/67376706036)
 - **Organiser**: Alan Chau (siu-lun.chau-at-cispa.de)
 
