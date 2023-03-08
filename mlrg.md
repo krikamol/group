@@ -8,7 +8,7 @@ The MLRG is initially hosted by the scientific group Muandet at [CISPA--Helmholt
 
 - **Time**: Bi-weekly on Tuesday, 13:30pm-15:00pm
 - **Location**: CISPA-C0 Room 2.01 & [Zoom](https://cispa-de.zoom.us/j/67376706036)
-- **Organiser**: Alan Chau 
+- **Organiser**: Alan Chau (siu-lun.chau-at-cispa.de)
 
 | Date | Speaker | Paper | Link |
 | --- | --- | --- | --- |
