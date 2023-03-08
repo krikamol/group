@@ -10,7 +10,7 @@ A person will present a paper of their choice and lead the discussion. Other par
 
 The MLRG is initially hosted by the scientific group Muandet at [CISPA--Helmholtz Center for Information Security](https://cispa.de/en). If you are interested in presenting a paper at the reading group, please contact the organiser.
 
-| Date | Speaker | Paper | Link |
+| Date | Presenter | Paper |
 | --- | --- | --- | --- |
 | 28/03/2023 | - | - | - |
-| 14/03/2023 | Alan | Fairness Risk Measures | https://proceedings.mlr.press/v97/williamson19a.html |
+| 14/03/2023 | Alan Chau | [Fairness Risk Measures](https://proceedings.mlr.press/v97/williamson19a.html)
