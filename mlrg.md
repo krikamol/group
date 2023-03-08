@@ -1,3 +1,4 @@
+---
 Welcome to the reading group wiki!
 
 This is where we organise our reading group materials and presentations.
