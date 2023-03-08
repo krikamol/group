@@ -1,6 +1,5 @@
----
 
-Welcome to the Machine Learning Reading Group (MLRG).
+<h1>Machine Learning Reading Group (MLRG)</h1>
 
 - **Time**: Bi-weekly on Tuesday, 13:30pm-15:00pm
 - **Location**: C0 Room 2.01 & [Zoom](https://cispa-de.zoom.us/j/67376706036)
