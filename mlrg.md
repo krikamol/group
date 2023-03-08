@@ -10,6 +10,8 @@ Each MLRG session is led by a presenter(s) who presents a paper of their choice 
 
 The MLRG is hosted by the scientific group Muandet at [CISPA--Helmholtz Center for Information Security](https://cispa.de/en) and is open to everyone. If you are interested in presenting a paper at the reading group, please contact the organiser.
 
+## Schedule
+
 | Date | Presenter | Paper |
 | --- | --- | --- |
 | 28/03/2023 | - | - |
