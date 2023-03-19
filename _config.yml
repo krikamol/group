@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Muandet Group
+title: Muandet Group @ CISPA
 email: muandet@cispa.de
 description: >- # this means to ignore newlines until "baseurl:"
   This is a website of the research group led by Krikamol Muandet. Our group’s 
