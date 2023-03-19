@@ -12,14 +12,13 @@ The group’s research aims at understanding the principles that enable autonomo
 
 3. **Regulation**: How do we regulate the deployment of ML models in heterogeneous environments to ensure the democratic use of AI? 
 
-We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.de/en) in Saarbrücken, Germany. The [Helmholtz Association](https://www.helmholtz.de/en/) is a union of 18 scientific-technical and biological-medical research centers, which makes it the largest scientific organisation in Germany.
+We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.de/en){:target="_blank"} in Saarbrücken, Germany. The [Helmholtz Association](https://www.helmholtz.de/en/){:target="_blank"} is a union of 18 scientific-technical and biological-medical research centers, which makes it the largest scientific organisation in Germany.
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
-
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
@@ -69,7 +68,13 @@ We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.
     {% for member in members %}
       {% assign key = member[0] %}
       <li>
+	{%- if members[key].website -%}
+	  <a href="{{ members[key].website }}" target="_blank">
+	{%- endif -%}
 	{{ members[key].first }} {{ members[key].last }} ({{ members[key].position }})
+      	{%- if members[key].website -%}
+	  </a>
+        {%- endif -%}
       </li>
     {% endfor%}
   </ul>
