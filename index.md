@@ -1,8 +1,7 @@
 ---
 layout: home
+list_title: News
 ---
-
-# Welcome
 
 The group’s research aims at understanding the principles that enable autonomous agents to learn from past experience and interact successfully with complex environments, and to use this understanding to design new learning algorithms. The research theme spans the following areas:
 
