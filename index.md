@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Muandet Group"
+title: Muandet Group
 ---
 
 # Welcome
