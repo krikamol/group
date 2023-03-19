@@ -1,7 +1,7 @@
 ---
 layout: home
 list_title: News
-title: Welcome
+title: Welcome!
 ---
 
 The group’s research aims at understanding the principles that enable autonomous agents to learn from past experience and interact successfully with complex environments, and to use this understanding to design new learning algorithms. The research theme spans the following areas:
@@ -71,10 +71,11 @@ We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.
 	{%- if members[key].website -%}
 	  <a href="{{ members[key].website }}" target="_blank">
 	{%- endif -%}
-	{{ members[key].first }} {{ members[key].last }} ({{ members[key].position }})
+	{{ members[key].first }} {{ members[key].last }}  
       	{%- if members[key].website -%}
 	  </a>
         {%- endif -%}
+        ({{ members[key].position }})
       </li>
     {% endfor%}
   </ul>
