@@ -63,7 +63,7 @@ We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.
 
 <h2>Group Members</h2>
 
-  {% assign members = site.data.members | where_exp: "item", "item.status == 'current'" %}
+  {% assign members = site.data.members %}
   <ul>
     {% for member in members %}
       {% assign key = member[0] %}
@@ -76,19 +76,6 @@ We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.
 	  </a>
         {%- endif -%}
         &nbsp;({{ members[key].position }})
-      </li>
-    {% endfor%}
-  </ul>
-  
-<h3>Alumni</h3>
-
-
-  {% assign members = site.data.members | where: "status","inactive" %}
-  <ul>
-    {% for member in members %}
-      {% assign key = member[0] %}
-      <li>
-	{{ members[key].first }} {{ members[key].last }} ({{ members[key].position }})
       </li>
     {% endfor%}
   </ul>
