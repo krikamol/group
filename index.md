@@ -63,7 +63,7 @@ We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.
 
 <h2>Group Members</h2>
 
-  {% assign members = site.data.members %}
+  {% assign members = site.data.members | where:"status","active" %}
   <ul>
     {% for member in members %}
       {% assign key = member[0] %}
