@@ -75,7 +75,7 @@ We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.
       	{%- if members[key].website -%}
 	  </a>
         {%- endif -%}
-        ({{ members[key].position }})
+        &nbsp;({{ members[key].position }})
       </li>
     {% endfor%}
   </ul>
