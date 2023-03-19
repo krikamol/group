@@ -58,9 +58,12 @@ The group’s research aims at understanding the principles that enable autonomo
         </ul>
       </div>
     {%- endif %}
+  {%- endif %}
+
 
 <h2>Group Members</h2>
 
+  
 
 <h3>Alumni</h3>
 
