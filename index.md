@@ -73,7 +73,7 @@ The group’s research aims at understanding the principles that enable autonomo
       {%- if members[key].website -%}
         </a>
       {%- endif -%}	
-      <li>
+      </li>
   {% endfor %}		
 </ul>
 
@@ -91,7 +91,7 @@ The group’s research aims at understanding the principles that enable autonomo
       {%- if members[key].website -%}
         </a>
       {%- endif -%}	
-      <li>
+      </li>
   {% endfor %}		
 </ul>
 
