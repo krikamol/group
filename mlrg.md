@@ -1,6 +1,7 @@
 ___
 layout: page
 title: "Reading Group"
+permalink: /mlrg/
 ___
 
 # Machine Learning Reading Group
