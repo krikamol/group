@@ -1,3 +1,8 @@
+___
+layout: page
+title: "Reading Group"
+___
+
 # Machine Learning Reading Group
 
 The Machine Learning Reading Group (MLRG) aims at enhancing our understanding in broad areas of machine learning (ML), incubating innovative ideas, and fostering cross-domain research collaborations. The topics of interest include, but are not limited to, learning theory, out-of-distribution (OOD) generalization, robustness, causal inference, game-theoretic learning, collaborative/cooperative learning, economics, etc. 
