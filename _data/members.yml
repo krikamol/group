@@ -2,19 +2,34 @@ krikamol_muandet:
    first: Krikamol
    last: Muandet
    position: PI
-   status: active
+   status: current
    website: http://krikamol.org
 
 siu_lun_chau:
    first: Siu Lun
    last: Chau
    position: Postdoc
-   status: active
+   status: current
    website: https://chau999.netlify.app/
 
 simon_foell:
    first: Simon
    last: Föll
    position: Intern
-   status: active
+   status: current
    website: https://im.ethz.ch/people/sfoell.html
+
+junhyung_park:
+   first: Junhyung
+   last: Park
+   position: PhD student
+   status: current
+   website: https://junhyung-park.github.io/
+
+huynh_quang_kiet_vo:
+   first: Huynh Quang
+   last: Kiet Vo
+   position: Intern
+   status: current
+   website: https://cispa.de/en/people/c01huvo
+
