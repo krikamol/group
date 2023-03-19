@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: "Muandet Group"
-permalink: /
 ---
 
 # Welcome
