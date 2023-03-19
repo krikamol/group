@@ -29,11 +29,11 @@ The group’s research aims at understanding the principles that enable autonomo
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <p>
+        <h4>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </p>
+        </h4>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
@@ -59,7 +59,7 @@ The group’s research aims at understanding the principles that enable autonomo
       </div>
     {%- endif %}
 
-## Group Members
+<h2>Group Members</h2>
 
 {% assign members = site.data.members | where: "status", "active" %}
 <ul>
@@ -78,7 +78,7 @@ The group’s research aims at understanding the principles that enable autonomo
 </ul>
 
 
-### Alumni
+<h3>Alumni</h3>
 {% assign members = site.data.members | where: "status", "inactive" %}
 <ul>
   {% for member in members %}
@@ -95,8 +95,7 @@ The group’s research aims at understanding the principles that enable autonomo
   {% endfor %}		
 </ul>
 
-## Selected Publications
+<h2>Selected Publications</h2>
 
 
-  {%- endif -%}
 
