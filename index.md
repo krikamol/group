@@ -64,11 +64,30 @@ We are part of CISPA-Helmholtz Center for Information in Saarbrücken, Germany. 
 
 <h2>Group Members</h2>
 
+  {% assign members = site.data.members | where: "status","active" %}
+  <ul>
+    {% for member in members %}
+      {% assign key = member[0] %}
+      <li>
+	{{ members[key].first }} {{ members[key].last }} ({{ members[key].position }})
+      </li>
+    {% endfor%}
+  </ul>
   
-
 <h3>Alumni</h3>
+
+
+  {% assign members = site.data.members | where: "status","inactive" %}
+  <ul>
+    {% for member in members %}
+      {% assign key = member[0] %}
+      <li>
+	{{ members[key].first }} {{ members[key].last }} ({{ members[key].position }})
+      </li>
+    {% endfor%}
+  </ul>
 
 <h2>Selected Publications</h2>
 
-
+Stay tuned!
 
