@@ -61,6 +61,38 @@ The group’s research aims at understanding the principles that enable autonomo
 
 ## Group Members
 
+{% assign members = site.data.members | where: "status", "active" %}
+<ul>
+  {% for member in members %}
+    {% assign key = member[0] %}
+      <li>
+      {%- if members[key].website -%}
+    	<a href="{{ members[key].website }}" target="_blank">
+      {%- endif -%}
+	{{ members[key].first }} {{ members[key].last }} ({{ members[key].position }})
+      {%- if members[key].website -%}
+        </a>
+      {%- endif -%}	
+      <li>		
+</ul>
+
+
+### Alumni
+{% assign members = site.data.members | where: "status", "inactive" %}
+<ul>
+  {% for member in members %}
+    {% assign key = member[0] %}
+      <li>
+      {%- if members[key].website -%}
+    	<a href="{{ members[key].website }}" target="_blank">
+      {%- endif -%}
+	{{ members[key].first }} {{ members[key].last }} ({{ members[key].position }})
+      {%- if members[key].website -%}
+        </a>
+      {%- endif -%}	
+      <li>		
+</ul>
+
 ## Selected Publications
 
 
