@@ -61,16 +61,6 @@ The group’s research aims at understanding the principles that enable autonomo
 
 <h2>Group Members</h2>
 
-  {% assign members = site.data.members %}
-  <ul>
-    {% for member in members %}
-      {% assign key = member[0] %}
-        <li>
-	  {{ members[key].first }} {{ members[key].last }} ({{ members[key].position }})
-        </li>
-    {% endfor %}		
-  </ul>
-
 
 <h3>Alumni</h3>
 
