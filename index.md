@@ -79,21 +79,6 @@ The group’s research aims at understanding the principles that enable autonomo
 
 
 <h3>Alumni</h3>
-{% assign members = site.data.members | where: "status", "inactive" %}
-<ul>
-  {% for member in members %}
-    {% assign key = member[0] %}
-      <li>
-      {%- if members[key].website -%}
-    	<a href="{{ members[key].website }}" target="_blank">
-      {%- endif -%}
-	{{ members[key].first }} {{ members[key].last }} ({{ members[key].position }})
-      {%- if members[key].website -%}
-        </a>
-      {%- endif -%}	
-      </li>
-  {% endfor %}		
-</ul>
 
 <h2>Selected Publications</h2>
 
