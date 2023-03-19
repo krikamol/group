@@ -12,6 +12,7 @@ The group’s research aims at understanding the principles that enable autonomo
 
 3. **Regulation**: How do we regulate the deployment of ML models in heterogeneous environments to ensure the democratic use of AI? 
 
+We are part of CISPA-Helmholtz Center for Information in Saarbrücken, Germany. The Helmholtz Association is a union of 18 scientific-technical and biological-medical research centers, which makes it the largest scientific organisation in Germany.
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
