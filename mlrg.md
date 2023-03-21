@@ -18,5 +18,5 @@ The MLRG is hosted by the scientific group Muandet at [CISPA--Helmholtz Center f
 
 | Date | Presenter | Paper |
 | --- | --- | --- |
-| 28/03/2023 | Simon Föll | [You Only Train Once: Loss-conditional Training On Deep Networks|(https://openreview.net/pdf?id=HyxY6JHKwr)
+| 28/03/2023 | Simon Föll | [You Only Train Once: Loss-conditional Training On Deep Networks](https://openreview.net/pdf?id=HyxY6JHKwr)
 | 14/03/2023 | Alan Chau | [Fairness Risk Measures](https://proceedings.mlr.press/v97/williamson19a.html)
