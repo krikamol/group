@@ -37,8 +37,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - talks.md
-  - mlrg.md
+  - _tabs/talks.md
+  - _tabs/mlrg.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
