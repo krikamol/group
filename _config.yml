@@ -37,6 +37,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - talks.md
   - mlrg.md
 
 # Exclude from processing.
