@@ -64,7 +64,6 @@ We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.
 
 
 <h2>Group Members</h2>
-
   {% assign members = site.data.members %}
   <ul>
     {% for member in members %}
@@ -83,6 +82,5 @@ We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.
   </ul>
 
 <h2>Selected Publications</h2>
-
 Stay tuned!
 
