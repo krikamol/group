@@ -29,11 +29,11 @@ We are part of [CISPA--Helmholtz Center for Information Security](https://cispa.
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h4>
+        <h5>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h4>
+        </h5>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
