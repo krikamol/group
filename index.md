@@ -12,6 +12,8 @@ Our group’s research aims at understanding the principles that enable autonomo
 
 3. **Regulation**: How do we regulate the deployment of ML models in heterogeneous environments to ensure the democratic use of AI? 
 
+We adopt a multi-disciplinary approach to answer these questions by exploring ideas and mathematical tools in statistics, economics, game theory, and mechanism design.
+
 Our group is part of [CISPA--Helmholtz Center for Information Security](https://cispa.de/en){:target="_blank"} in Saarbrücken, Germany and the [ELLIS Unit Saarbrücken](https://ellis.eu/units/saarbrucken){:target="_blank"}. The [Helmholtz Association](https://www.helmholtz.de/en/){:target="_blank"} is a union of 18 scientific-technical and biological-medical research centers, which makes it the largest scientific organisation in Germany.
 
 <br>
