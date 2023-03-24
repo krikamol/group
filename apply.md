@@ -11,11 +11,11 @@ That is great, but before you submit your application to us, please familiarize 
 1. <font color="#973535"><b>CV</b></font>
 2. <font color="#4d7f7f"><b>research statement</b></font>
 
-Please include the following information in the <font color="#4d7f7f"><b>research statement</b></font>: 
+Please include the following information in your <font color="#4d7f7f"><b>research statement</b></font>: 
 
 - a brief explanation of why you are interested in joining our group
-- your past courseworks and/or research-industry experience that are relevant to our group
+- your past courseworks and/or research/industry experience that are relevant to our group
 - our recent work that you find most exciting and what make it exciting for you
 - why you think you would be a good fit to our group
 
-The <font color="#4d7f7f"><b>research statement</b></font> must not exceed <font color="#cc0000">3 pages</font> in length. 
+The <font color="#4d7f7f"><b>research statement</b></font> must not exceed <font color="#cc0000">3 pages</font> in length. You can send your application package directly to XXX with the subject line: "XXXX"
