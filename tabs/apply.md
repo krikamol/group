@@ -20,4 +20,4 @@ Please include the following information in your <font color="#4d7f7f"><b>resear
 
 The <font color="#4d7f7f"><b>research statement</b></font> must not exceed <font color="#cc0000">3 pages</font> in length. You can send your application package directly to <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> with the subject line: `New application for your group`. Do not hesitate to reach out if you have questions about the available positions.
 
-We are looking forward to your application.
+We are looking forward to receiving your application.
