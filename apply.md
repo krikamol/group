@@ -4,4 +4,4 @@ title: Apply
 permalink: /apply/
 ---
 
-You are thinking of applying for one of the available positions in our group. 
+You are thinking of applying for one of the undergrad/master/PhD internship, PhD, or postdoc positions in our group. 
