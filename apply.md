@@ -14,6 +14,6 @@ That is great, but before you submit your application to us, please familiarize 
 Please include the following information in the <font color="#4d7f7f"><b>research statement</b></font>: 
 
 - a brief explanation of why you are interested in joining our group
-- your past research and/or industry experience that are relevant to our group
-- 
+- your past courseworks and/or research-industry experience that are relevant to our group
+- our recent work that you find most exciting and XXX
 - why you think you would be a good fit to our group
