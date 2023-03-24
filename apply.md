@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Apply
+title: Apply
 permalink: /apply/
 ---
 
