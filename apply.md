@@ -10,3 +10,5 @@ That is great, but before you submit your application to us, please familiarize 
 
 - CV
 - research statement
+
+Please include the following information in the research statement: (1) why you are interested in joining our group (2) XXX
