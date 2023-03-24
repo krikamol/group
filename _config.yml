@@ -39,6 +39,7 @@ plugins:
 header_pages:
   - tabs/talks.md
   - tabs/mlrg.md
+  - tabs/apply.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
