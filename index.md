@@ -10,7 +10,7 @@ Our group’s research aims at understanding the principles that enable autonomo
 
 2. <span style="color:#73b06f">**Causation**</span>: How do we leverage cause-effect relationships in improving ML models, and conversely how do we use sophisticated ML methods to aid causal inference in complex environments? 
 
-3. `Regulation`: How do we regulate the deployment of ML models in heterogeneous environments to ensure the democratic use of AI? 
+3. <span style="color:#007090">**Regulation**</span>: How do we regulate the deployment of ML models in heterogeneous environments to ensure the democratic use of AI? 
 
 We adopt a multi-disciplinary approach to answer these questions by exploring ideas and mathematical tools in statistics, economics, game theory, and mechanism design.
 
