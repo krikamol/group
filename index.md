@@ -86,7 +86,7 @@ Our group is part of [CISPA--Helmholtz Center for Information Security](https://
 <h2>Selected Publications</h2>
 Stay tuned!
 
-<h2>Apply</h2>
+<h2>Joining Our Group</h2>
 
 Interested in applying for one of the undergrad/master/PhD internship, PhD, or postdoc positions in our group? 
 
