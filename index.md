@@ -12,9 +12,9 @@ Our group’s research aims at understanding the principles that enable autonomo
 2. <span style="color:#73b06f">**Causation**</span>: *How do we leverage cause-effect relationships in improving ML models, and conversely how do we use sophisticated ML methods to aid causal inference in complex environments?* We are currently interested in observational studies, unobserved confounders in causal inference, spurious correlation in machine learning, distributional treatment effects, counterfactual inference, and algorithmic decision making. Natural experiments and quasi-experimental designs such as instrumental variable (IV), proxy variables, and regression
 discontinuity design (RDD) offers tools to address these problems.
 
-3. <span style="color:#007090">**Regulation**</span>: *How do we regulate the deployment of ML models in heterogeneous environments to ensure the democratic use of AI?* 
+3. <span style="color:#007090">**Regulation**</span>: *How do we regulate the deployment of ML models in heterogeneous environments to ensure the democratic use of AI?* Topics of interest are feedback loops and strategic behaviour. To gain a better understanding of these problems, we are adopting
+techniques from algorithmic game theory, mechanism design, social choice theory and other related sub-fields of economics.
 
-We adopt a multi-disciplinary approach to answer these questions by exploring ideas and mathematical tools in statistics, economics, game theory, and mechanism design.
 
 Our group is part of [CISPA--Helmholtz Center for Information Security](https://cispa.de/en){:target="_blank"} in Saarbrücken, Germany and the [ELLIS Unit Saarbrücken](https://ellis.eu/units/saarbrucken){:target="_blank"}. The [Helmholtz Association](https://www.helmholtz.de/en/){:target="_blank"} is a union of 18 scientific-technical and biological-medical research centers, which makes it the largest scientific organisation in Germany.
 
