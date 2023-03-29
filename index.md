@@ -6,7 +6,8 @@ title: Welcome!
 
 Our group’s research aims at understanding the principles that enable autonomous agents to learn from past experience and interact successfully with complex environments, and to use this understanding to design new learning algorithms. The research theme spans the following areas:
 
-1. <span style="color:#e6701b">**Prediction**</span>: *How do we design machine learning (ML) algorithms that can make better predictions under distribution shifts?* 
+1. <span style="color:#e6701b">**Prediction**</span>: *How do we design machine learning (ML) algorithms that can make better predictions under distribution shifts?* The topics that we are interested in are domain adaption (DA), domain generalization (DG), out-of-distribution
+(OOD) generalization, and robustness. Kernel methods, kernel mean embedding of distributions, and applications thereof are our mathematical arsenal to tackle these problems. 
 
 2. <span style="color:#73b06f">**Causation**</span>: *How do we leverage cause-effect relationships in improving ML models, and conversely how do we use sophisticated ML methods to aid causal inference in complex environments?*
 
