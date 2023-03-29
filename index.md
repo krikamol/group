@@ -9,7 +9,8 @@ Our group’s research aims at understanding the principles that enable autonomo
 1. <span style="color:#e6701b">**Prediction**</span>: *How do we design machine learning (ML) algorithms that can make better predictions under distribution shifts?* The topics that we are interested in are domain adaption (DA), domain generalization (DG), out-of-distribution
 (OOD) generalization, and robustness. Kernel methods, kernel mean embedding of distributions, and applications thereof are our mathematical arsenal to tackle these problems. 
 
-2. <span style="color:#73b06f">**Causation**</span>: *How do we leverage cause-effect relationships in improving ML models, and conversely how do we use sophisticated ML methods to aid causal inference in complex environments?*
+2. <span style="color:#73b06f">**Causation**</span>: *How do we leverage cause-effect relationships in improving ML models, and conversely how do we use sophisticated ML methods to aid causal inference in complex environments?* We are currently interested in observational studies, unobserved confounders in causal inference, spurious correlation in machine learning, distributional treatment effects, counterfactual inference, and algorithmic decision making. Natural experiments and quasi-experimental designs such as instrumental variable (IV), proxy variables, and regression
+discontinuity design (RDD) offers tools to address these problems.
 
 3. <span style="color:#007090">**Regulation**</span>: *How do we regulate the deployment of ML models in heterogeneous environments to ensure the democratic use of AI?* 
 
