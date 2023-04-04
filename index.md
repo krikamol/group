@@ -14,12 +14,11 @@ Our group’s research aims at understanding the principles that enable autonomo
 
 Our group is part of [CISPA--Helmholtz Center for Information Security](https://cispa.de/en){:target="_blank"} in Saarbrücken, Germany and the [ELLIS Unit Saarbrücken](https://ellis.eu/units/saarbrucken){:target="_blank"}. The [Helmholtz Association](https://www.helmholtz.de/en/){:target="_blank"} is a union of 18 scientific-technical and biological-medical research centers, making it the largest scientific organisation in Germany.
 
-<br>
 
 {:style="text-align:center;"}
-![CISPA](/assets/img/cispa_logo.png){: width="30%"}  &nbsp;&nbsp;&nbsp;
+![CISPA](/assets/img/cispa_logo.png){: width="30%"}  &nbsp;&nbsp;&nbsp;&nbsp;
 ![Helmholtz](/assets/img/helmholtz_logo.png){: width="35%"}  &nbsp;&nbsp;&nbsp;
-![ELLIS](/assets/img/ellis_logo.png){: width="20%"}  &nbsp;&nbsp;&nbsp;
+![ELLIS](/assets/img/ellis_logo.png){: width="20%"}  
 
 <br>
 
