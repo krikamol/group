@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: News
+list_title: Latest News
 title: Welcome!
 ---
 
