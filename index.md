@@ -16,9 +16,9 @@ Our group is part of [CISPA--Helmholtz Center for Information Security](https://
 
 <br>
 
-![CISPA](/assets/img/cispa_logo.png){: width="30%"}
-![Helmholtz](/assets/img/helmholtz_logo.png){: width="30%"}
-![ELLIS](/assets/img/ellis_logo.png){: width="20%"}
+![CISPA](/assets/img/cispa_logo.png){: width="30%"}  &nbsp;
+![Helmholtz](/assets/img/helmholtz_logo.png){: width="30%"}  &nbsp;
+![ELLIS](/assets/img/ellis_logo.png){: width="20%"}  &nbsp;
 
 <br>
 
