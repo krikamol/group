@@ -22,6 +22,10 @@ The <font color="#4d7f7f"><b>research statement</b></font> must not exceed <font
 
 We are looking forward to receiving your application.
 
-## Helmholtz Visiting Researcher Grant
+<br>
 
-The Helmholtz Visiting Researcher Grant offers doctoral students and postdocs the opportunity to do a fully-funded short-term research stay at one of the 18 Helmholtz Centers. The program is promoted by the Helmholtz Information and Data Science Academy (HIDA).
+## [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
+
+The Helmholtz Visiting Researcher Grant offers doctoral students and postdocs the opportunity to do a fully-funded short-term research stay at one of the 18 Helmholtz Centers. The program is promoted by the [Helmholtz Information and Data Science Academy (HIDA)](https://www.helmholtz-hida.de/en/).
+<br>
+If you would like our group to host your visit, please get in touch via <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>.
