@@ -28,4 +28,4 @@ We are looking forward to receiving your application.
 
 The Helmholtz Visiting Researcher Grant offers doctoral students and postdocs the opportunity to do a fully-funded short-term research stay at one of the 18 Helmholtz Centers. The program is promoted by the [Helmholtz Information and Data Science Academy (HIDA)](https://www.helmholtz-hida.de/en/).
 <br><br>
-If you would like our group to host your visit, please get in touch via <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>.
+If you would like to be hosted by our group, please get in touch via <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>.
