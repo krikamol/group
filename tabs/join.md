@@ -32,6 +32,6 @@ If you would like to be hosted by our group, please get in touch via <a class="u
 
 ## [Humboldt Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)
 
-The Humboldt Research Fellowship supports **postdoctoral and experienced researchers** of all nationalities and research areas to conduct research in collaboration with a host at a German research institution of your choice. 
+The Humboldt Research Fellowship supports **postdoctoral and experienced researchers** of all nationalities and research areas to conduct research in collaboration with a host at a German research institution of your choice. Fellowships may last from 6 to 24 months.
 
 If you would like our group to host you as a Humboldt Research Fellow, please get in touch via <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> to coordinate your independently developed research proposal with us.
