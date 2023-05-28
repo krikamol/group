@@ -75,6 +75,7 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
   <ul>
     {% for member in members %}
       {% assign key = member[0] %}
+      {{ key }}
       <li>
 	{%- if members[key].website -%}
 	  <a href="{{ members[key].website }}" target="_blank">
