@@ -110,7 +110,6 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
 	      			, <b>Now</b> at {{ member.now_at }})
 	      		{%- endif -%}
 		{%- endif -%}
-		)
       </li>
     {% endfor%}
   </ul>
