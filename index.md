@@ -72,19 +72,17 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
 
 <h2>Group Members</h2>
   {% assign members = site.data.members | where: "status","current" %}
-  {{ members }}
   <ul>
     {% for member in members %}
-      {% assign key = member[0] %}
       <li>
-	{%- if members[key].website -%}
-	  <a href="{{ members[key].website }}" target="_blank">
+	{%- if member.website -%}
+	  <a href="{{ member.website }}" target="_blank">
 	{%- endif -%}
-	{{ members[key].first }} {{ members[key].last }}  
-      	{%- if members[key].website -%}
+	{{ member.first }} {{ member.last }}  
+      	{%- if member.website -%}
 	  </a>
         {%- endif -%}
-        &nbsp;({{ members[key].position }})
+        &nbsp;({{ member.position }})
       </li>
     {% endfor%}
   </ul>
@@ -93,16 +91,15 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
   {% assign members = site.data.members | where: "status","alumnus" %}
   <ul>
     {% for member in members %}
-      {% assign key = member[0] %}
       <li>
-	{%- if members[key].website -%}
-	  <a href="{{ members[key].website }}" target="_blank">
+	{%- if member.website -%}
+	  <a href="{{ member.website }}" target="_blank">
 	{%- endif -%}
-	{{ members[key].first }} {{ members[key].last }}  
-      	{%- if members[key].website -%}
+	{{ member.first }} {{ member.last }}  
+      	{%- if member.website -%}
 	  </a>
         {%- endif -%}
-        &nbsp;({{ members[key].position }})
+        &nbsp;({{ member.position }})
       </li>
     {% endfor%}
   </ul>
