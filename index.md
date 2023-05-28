@@ -103,7 +103,7 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
 	({{ member.position }}
 		{% if member.position_now or member.now_at %}
 			{% if member.position_now and member.now_at %}
-	      			, <b>Now</b> {{ member.position_now }} at {{ member.position_now }})
+	      			, <b>Now</b> {{ member.position_now }} at {{ member.now_at }})
 	      		{%- elsif member.position_now -%}
 	      			, <b>Now</b> {{ member.position_now }})
 	      		{%- elsif member.now_at -%}
