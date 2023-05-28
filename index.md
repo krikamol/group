@@ -88,3 +88,20 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
     {% endfor%}
   </ul>
 
+<h3>Alumni</h3>
+  {% assign members = site.data.members | where: 'status', 'alumnus' %}
+  <ul>
+    {% for member in members %}
+      {% assign key = member[0] %}
+      <li>
+	{%- if members[key].website -%}
+	  <a href="{{ members[key].website }}" target="_blank">
+	{%- endif -%}
+	{{ members[key].first }} {{ members[key].last }}  
+      	{%- if members[key].website -%}
+	  </a>
+        {%- endif -%}
+        &nbsp;({{ members[key].position }})
+      </li>
+    {% endfor%}
+  </ul>
