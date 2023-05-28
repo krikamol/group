@@ -100,14 +100,14 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
 	  </a>
         {%- endif -%}
         &nbsp;
-	({{ member.position }}
+	({{ member.position }})
 		{% if member.position_now or member.now_at %}
 			{% if member.position_now and member.now_at %}
-	      			, <b>Now</b> {{ member.position_now }} at {{ member.now_at }})
+	      			<i><b>Now</b> {{ member.position_now }} at {{ member.now_at }}</i>
 	      		{%- elsif member.position_now -%}
-	      			, <b>Now</b> {{ member.position_now }})
+	      			<i><b>Now</b> {{ member.position_now }}</i>
 	      		{%- elsif member.now_at -%}
-	      			, <b>Now</b> at {{ member.now_at }})
+	      			<i><b>Now</b> at {{ member.now_at }}</i>
 	      		{%- endif -%}
 		{%- endif -%}
       </li>
