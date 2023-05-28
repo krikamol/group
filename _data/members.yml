@@ -53,7 +53,7 @@ jonas_kuebler:
    position: PhD student
    status: alumnus
    position_now: Applied Scientist
-   now: Amazon AWS Tübingen
+   now_at: Amazon AWS Tübingen
    website: https://www.amazon.science/author/jonas-m-kubler
    
 rui_zhang:
@@ -62,7 +62,7 @@ rui_zhang:
    position: Intern
    status: alumnus
    position_now:
-   now:
+   now_at:
    website: https://ruizhang2016.github.io/
    
 si_kai_lee:
@@ -71,7 +71,7 @@ si_kai_lee:
    position: Intern
    status: alumnus
    position_now: PhD student
-   now: Yale University
+   now_at: Yale University
    website: https://statistics.yale.edu/people/si-kai-lee
 
 xiaohan_chen:
@@ -80,7 +80,7 @@ xiaohan_chen:
    position: Intern
    status: alumnus
    position_now: 
-   now: Alibaba Group
+   now_at: Alibaba Group
    website: http://xiaohanchen.com/
 
 korrawe_karunratanakul:
@@ -89,7 +89,7 @@ korrawe_karunratanakul:
    position: Intern
    status: alumnus
    position_now: PhD student
-   now: ETH Zürich
+   now_at: ETH Zürich
    website: https://korrawe.github.io/
    
 hamed_shirzad:
@@ -98,7 +98,7 @@ hamed_shirzad:
    position: Intern
    status: alumnus
    position_now: PhD student
-   now: UBC
+   now_at: UBC
    website: https://sites.google.com/view/hamedshirzad/home
    
 prabhu_pradhan:
@@ -107,7 +107,7 @@ prabhu_pradhan:
    position: Intern
    status: alumnus
    position_now: 
-   now: 
+   now_at: 
    website: https://sites.google.com/view/prabhupradhan/
    
 chirag_gupta:
@@ -116,7 +116,7 @@ chirag_gupta:
    position: Intern
    status: alumnus
    position_now: PhD student
-   now: CMU
+   now_at: CMU
    website: https://aigen.github.io/
    
 sorawit_saengkyongam:
@@ -125,7 +125,7 @@ sorawit_saengkyongam:
    position: Intern
    status: alumnus
    position_now: PhD student
-   now: ETH Zürich, Seminar for Statistics
+   now_at: ETH Zürich, Seminar for Statistics
    website: https://sorawitj.github.io/
    
 uzair_akbar:
@@ -134,7 +134,7 @@ uzair_akbar:
    position: Intern
    status: alumnus
    position_now: Software Engineer
-   now: OMMAX
+   now_at: OMMAX
    website: https://github.com/uzairakbar
    
 purin_klunklar:
@@ -143,7 +143,7 @@ purin_klunklar:
    position: Undergraduate
    status: alumnus
    position_now: Data Analytic Audit
-   now: Krung Thai Bank (KTB)
+   now_at: Krung Thai Bank (KTB)
    website: https://www.linkedin.com/in/purin-klunklar-370380220/
    
 weerapatra_charoenkitsupat:
@@ -152,7 +152,7 @@ weerapatra_charoenkitsupat:
    position: Undergraduate
    status: alumnus
    position_now: Customer Data Analyst
-   now: United Overseas Bank Limited (UOB)
+   now_at: United Overseas Bank Limited (UOB)
    website:
 
 siraporn_tongurai:
@@ -161,5 +161,5 @@ siraporn_tongurai:
    position: Undergraduate
    status: alumnus
    position_now:
-   now:
+   now_at:
    website:
