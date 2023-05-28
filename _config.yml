@@ -42,6 +42,11 @@ header_pages:
   - tabs/mlrg.md
   - tabs/join.md
 
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
+
 defaults:
   - scope:
       path: "assets/img"
