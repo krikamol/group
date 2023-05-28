@@ -39,4 +39,108 @@ anurag_singh:
    position: PhD student
    status: current
    website: https://anurag14.github.io/
+   
+muneeb_aadil:
+   first: Muneeb
+   last: Aadil
+   position: Research assistant
+   status: current
+   website: https://muneebaadil.github.io/
+   
+jonas_kuebler:
+   first: Jonas
+   last: Kübler
+   position: PhD student
+   status: alumnus
+   position_now: Applied Scientist
+   now: Amazon AWS Tübingen
+   website: https://www.amazon.science/author/jonas-m-kubler
+   
+rui_zhang:
+   first: Rui
+   last: Zhang
+   position: Intern
+   status: alumnus
+   position_now:
+   now:
+   website: https://ruizhang2016.github.io/
+   
+si_kai_lee:
+   first: Si Kai
+   last: Lee
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now: Yale University
+   website: https://statistics.yale.edu/people/si-kai-lee
 
+xiaohan_chen:
+   first: Xiaohan
+   last: Chen
+   position: Intern
+   status: alumnus
+   position_now: 
+   now: Alibaba Group
+   website: http://xiaohanchen.com/
+
+korrawe_karunratanakul:
+   first: Korrawe 
+   last: Karunratanakul
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now: ETH Zürich
+   website: https://korrawe.github.io/
+   
+hamed_shirzad:
+   first: Hamed 
+   last: Shirzad
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now: UBC
+   website: https://sites.google.com/view/hamedshirzad/home
+   
+prabhu_pradhan:
+   first: Prabhu
+   last: Pradhan
+   position: Intern
+   status: alumnus
+   position_now: 
+   now: 
+   website: https://sites.google.com/view/prabhupradhan/
+   
+chirag_gupta:
+   first: Chirag
+   last: Gupta
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now: CMU
+   website: https://aigen.github.io/
+   
+sorawit_saengkyongam:
+   first: Sorawit
+   last: Saengkyongam
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now: ETH Zürich, Seminar for Statistics
+   website: https://sorawitj.github.io/
+   
+uzair_akbar:
+   first: Uzair
+   last: Akbar
+   position: Intern
+   status: alumnus
+   position_now: Software Engineer
+   now: OMMAX
+   website: https://github.com/uzairakbar
+   
+purin_klunklar:
+   first: Purin
+   last: Klunklar
+   position: Undergraduate
+   status: alumnus
+   position_now: Data Analytic Audit
+   now: Krung Thai Bank (KTB)
