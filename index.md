@@ -88,6 +88,3 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
     {% endfor%}
   </ul>
 
-<h2>Selected Publications</h2>
-Stay tuned!
-
