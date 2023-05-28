@@ -71,7 +71,7 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
 
 
 <h2>Group Members</h2>
-  {% assign members = site.data.members | where: 'status', 'current' %}
+  {% assign members = site.data.members | where: "status","current" %}
   <ul>
     {% for member in members %}
       {% assign key = member[0] %}
@@ -89,7 +89,7 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
   </ul>
 
 <h3>Alumni</h3>
-  {% assign members = site.data.members | where: 'status', 'alumnus' %}
+  {% assign members = site.data.members | where: "status","alumnus" %}
   <ul>
     {% for member in members %}
       {% assign key = member[0] %}
