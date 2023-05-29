@@ -6,6 +6,7 @@ permalink: /pubs/
 
 {% assign publications = site.publications | sort: "year" | reverse %}
 {% for pub in publications %}
+  {{ pub }}
   <div class="pubitem">
     <div class="pubtitle">{{ pub.title }}</div>
     <div class="pubauthors">{{ pub.authors }}</div>
