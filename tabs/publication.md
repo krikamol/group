@@ -4,6 +4,8 @@ title: Publication
 permalink: /pubs/
 ---
 
+<p>Some prior publications can be found [here](https://www.krikamol.org/publication/){:target="_blank"}.</p>
+
 {% assign publications = site.publications | sort: "year" | reverse %}
 {% for pub in publications %}
   <div class="pubitem">
