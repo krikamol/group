@@ -2,7 +2,7 @@
 layout: default
 title: "Explaining the Uncertain: Stochastic Shapley Values for Gaussian Process Models"
 authors: Siu Lun Chau, Krikamol Muandet*, Dino Sejdinovic* (* Equal contribution)
-publication: Preprint
+venue: Preprint
 year: 2023
 doi: 
 ---
