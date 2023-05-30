@@ -4,7 +4,7 @@ title: Publication
 permalink: /pubs/
 ---
 
-Some prior publications can be found at [https://www.krikamol.org/publication/](https://www.krikamol.org/publication/){:target="_blank"}.
+Prior publications can be found at [https://www.krikamol.org/publication/](https://www.krikamol.org/publication/){:target="_blank"}.
 
 <br>
 
