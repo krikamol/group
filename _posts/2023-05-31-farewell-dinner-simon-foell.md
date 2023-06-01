@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 Simon Föll has finished his three-month internship with us. Special thanks go to the Helmholtz Information and Data Science Academy (HIDA) who financially supported his visit. We wish him a successful PhD defense and the next stage of his career. Let's keep in touch.
 
-![A farewell dinner for Simon Föll](farewell-dinner-simon-foell.jpeg)
+![A farewell dinner for Simon Föll](/assets/img/farewell-dinner-simon-foell.jpeg)
