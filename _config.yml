@@ -38,7 +38,6 @@ plugins:
 
 header_pages:
   - tabs/publication.md
-  - tabs/talks.md
   - tabs/mlrg.md
   - tabs/join.md
 
