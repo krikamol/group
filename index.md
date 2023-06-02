@@ -38,11 +38,9 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h5>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h5>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
