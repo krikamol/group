@@ -41,9 +41,6 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
           <a href="{{ post.url | relative_url }}">
             {{ post.title }}
           </a>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
