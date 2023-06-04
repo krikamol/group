@@ -9,11 +9,41 @@ Prior publications can be found at [https://www.krikamol.org/publication/](https
 <br>
 
 {% assign publications = site.publications | sort: "year" | reverse %}
+
 {% for pub in publications %}
   <div class="pubitem">
-    <div class="pubtitle">{{ pub.title }}</div>
+    <div class="pubtitle">
+      {% if pub.pdf %}
+        <a href="{{ pub.pdf }}" target="_blank"> {{ pub.title }} </a> 
+      {% else %}
+        {{ pub.title }}
+      {% endif %}
+    </div>
     <div class="pubauthors">{{ pub.authors }}</div>
-  <div class="pubinfo">{{ pub.venue }}, {{ pub.year }}</div>
+    <div class="pubinfo">{{ pub.venue }}, {{ pub.year }}</div>
+    
+    <div class="publinks">
+      {% if pub.pdf %}
+        <a href="{{ pub.pdf }}">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      {% endif %}
+      {% if pub.code %}
+        <a href="{{ pub.code }}">
+          <i class="fas fa-code"></i>
+        </a>
+      {% endif %}
+      {% if pub.video %}
+        <a href="{{ pub.video }}">
+          <i class="fab fa-youtube"></i>
+        </a>
+      {% endif %}
+      {% if pub.poster %}
+        <a href="{{ pub.poster }}">
+          <i class="fas fa-image"></i>
+        </a>
+      {% endif %}
+    </div>
   </div>
   <br>
 {% endfor %}
