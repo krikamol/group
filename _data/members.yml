@@ -4,6 +4,7 @@ krikamol_muandet:
    position: PI
    status: current
    website: http://krikamol.org
+   image_path: ./assets/img/group-members/krikamol.jpg
 
 siu_lun_chau:
    first: Siu Lun
@@ -11,6 +12,7 @@ siu_lun_chau:
    position: Postdoc
    status: current
    website: https://chau999.netlify.app/
+   image_path: ./assets/img/group-members/siulun.jpg
 
 simon_foell:
    first: Simon
@@ -18,6 +20,7 @@ simon_foell:
    position: Intern
    status: current
    website: https://im.ethz.ch/people/sfoell.html
+   image_path: ./assets/img/group-members/simon.jpeg
 
 junhyung_park:
    first: Junhyung
@@ -25,6 +28,7 @@ junhyung_park:
    position: PhD student
    status: current
    website: https://junhyung-park.github.io/
+   image_path: ./assets/img/group-members/junhyung.png
 
 huynh_quang_kiet_vo:
    first: Huynh Quang
@@ -32,6 +36,7 @@ huynh_quang_kiet_vo:
    position: Intern
    status: current
    website: https://cispa.de/en/people/c01huvo
+   image_path: ./assets/img/group-members/kiet.jpg
 
 anurag_singh:
    first: Anurag
@@ -39,14 +44,16 @@ anurag_singh:
    position: PhD student
    status: current
    website: https://anurag14.github.io/
-   
+   image_path: ./assets/img/group-members/anurag.jpg
+
 muneeb_aadil:
    first: Muneeb
    last: Aadil
    position: Research assistant
    status: current
    website: https://muneebaadil.github.io/
-   
+   image_path: ./assets/img/group-members/muneeb.png
+
 jonas_kuebler:
    first: Jonas
    last: Kübler

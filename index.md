@@ -64,23 +64,30 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
     {%- endif %}
   {%- endif %}
 
-
 <h2>Group Members</h2>
+<div class="group-members">
   {% assign members = site.data.members | where: "status","current" %}
-  <ul>
-    {% for member in members %}
-      <li>
-	{%- if member.website -%}
-	  <a href="{{ member.website }}" target="_blank">
-	{%- endif -%}
-	{{ member.first }} {{ member.last }}  
-      	{%- if member.website -%}
-	  </a>
+  {% for member in members %}
+    <div class="member">
+      <div class="profile-pic">
+        <img src="{{ member.image_path }}" alt="{{ member.first }}" class="circle-image">
+      </div>
+      <div class="member-info">
+        <h3>
+        {%- if member.website -%}
+        <a href="{{ member.website }}" target="_blank">
         {%- endif -%}
-        &nbsp;({{ member.position }})
-      </li>
-    {% endfor%}
-  </ul>
+        {{ member.first }} {{ member.last }}
+        {%- if member.website -%}
+        </a>
+        {%- endif -%}
+        </h3>
+        <p>{{ member.position }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
 
 <h3>Alumni</h3>
   {% assign members = site.data.members | where: "status","alumnus" %}
