@@ -4,9 +4,29 @@ title: Publication
 permalink: /pubs/
 ---
 
+<style>
+.pubitem {
+  margin: 2em 0;
+  line-height: 1em;
+}
+
+.pubtitle {
+  margin-bottom: 0.5em;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+
+.pubauthors,
+.pubinfo {
+  font-size: 75%;
+  margin-bottom: 0.75em;
+}
+</style>
+
 Prior publications can be found at [https://www.krikamol.org/publication/](https://www.krikamol.org/publication/){:target="_blank"}.
 
 <br>
+
 
 {% assign publications = site.publications | sort: "year" | reverse %}
 
