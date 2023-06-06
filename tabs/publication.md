@@ -13,11 +13,7 @@ Prior publications can be found at [https://www.krikamol.org/publication/](https
 {% for pub in publications %}
   <div class="pubitem">
     <div class="pubtitle">
-      {% if pub.pdf %}
-        <a href="{{ pub.pdf }}" target="_blank"> {{ pub.title }} </a> 
-      {% else %}
-        {{ pub.title }}
-      {% endif %}
+      {{ pub.title }}
     </div>
     <div class="pubauthors">{{ pub.authors }}</div>
     <div class="pubinfo">{{ pub.venue }}, {{ pub.year }}</div>
