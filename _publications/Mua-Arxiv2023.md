@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "(Im)possibility of Collective Intelligence"
-authors: Krikamol Muandet
+authors: <ins>Krikamol Muandet</ins>
 venue: Preprint
 year: 2023
 doi: 
