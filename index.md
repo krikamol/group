@@ -33,7 +33,7 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+      <h2>{{ page.list_title }}</h2>
     {%- endif -%}
     <ul>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
