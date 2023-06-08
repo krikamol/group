@@ -3,7 +3,7 @@ layout: home
 list_title: Latest News
 ---
 
-Our group’s research aims at understanding the principles that enable autonomous agents to efficiently learn from past experience and interact successfully with complex environments, and to use this understanding to design new learning algorithms. The research focus spans the following areas:
+Our group’s research aims at understanding the principles that enable autonomous agents to efficiently learn from past experience and interact successfully with complex environments, and to use this understanding to design new learning algorithms. Our research focus spans the following themes:
 
 1. <span style="color:#e6701b">**Prediction**</span>: How do we design machine learning (ML) algorithms that are robust to distribution shifts? The topics that we are interested in are domain adaption (DA), domain generalization (DG), out-of-distribution
 (OOD) generalization, and robustness. Kernel methods, kernel mean embedding of distributions, and applications thereof are our mathematical arsenal to tackle these problems. 
