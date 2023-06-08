@@ -67,6 +67,7 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
   {%- endif %}
 
 <h2>Group Members</h2>
+------
 <div class="group-members">
   {% assign members = site.data.members | where: "status","current" %}
   {% for member in members %}
