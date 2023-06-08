@@ -66,6 +66,8 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
     {%- endif %}
   {%- endif %}
 
+<br>
+
 <h2>Group Members</h2>
 
 <div class="group-members">
