@@ -12,7 +12,7 @@ Our group’s research aims at understanding the principles that enable autonomo
 
 3. <span style="color:#007090">**Regulation**</span>: How do we regulate the deployment of ML models in heterogeneous environments to ensure generalizable, fair, trustworthy, and democratic AI? Topics of interest are feedback loops and strategic behaviour. To gain a better understanding of these problems, we are adopting techniques from algorithmic game theory, mechanism design, social choice theory and other related sub-fields of economics.
 
-[publication page]({{ '/pubs/' | relative_url }})
+See our [publication page]({{ '/pubs/' | relative_url }}) to learn more.
 
 <br>
 
