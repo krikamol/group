@@ -3,6 +3,8 @@ layout: home
 list_title: Latest News
 ---
 
+<h2>About Us</h2>
+
 Our group’s research aims at understanding the principles that enable autonomous agents to efficiently learn from past experience and interact successfully with complex environments, and to use this understanding to design new learning algorithms. Our research spans the following themes:
 
 1. <span style="color:#e6701b">**Prediction**</span>: How do we design machine learning (ML) algorithms that are robust to distribution shifts? We are interested in domain adaption (DA), domain generalization (DG), out-of-distribution
@@ -68,7 +70,7 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
 
 <br>
 
-<h2>Group Members</h2>
+<h2>People</h2>
 
 <div class="group-members">
   {% assign members = site.data.members | where: "status","current" %}
@@ -120,3 +122,5 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
       </li>
     {% endfor%}
   </ul>
+
+<h2>Contact</h2>
