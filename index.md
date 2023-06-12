@@ -14,7 +14,7 @@ Our group’s research aims at understanding the principles that enable autonomo
 
 3. <span style="color:#007090">**Regulation**</span>: How do we regulate the deployment of ML models in heterogeneous world to ensure generalizable, equitable, trustworthy, and democratic AI? Conversely, how do new challenges such as feedback loops, strategic manipulations, and adversarial attacks fundamentally change the ways ML models should be trained? To gain better understanding of these problems, we are adopting techniques from algorithmic game theory, mechanism design, social choice theory and other related sub-fields of economics.
 
-See the [publication page]({{ '/pubs/' | relative_url }}) to learn more about our research.
+See the [publication page]({{ '/pubs/' | relative_url }}) and [Github repo](https://github.com/muandet-lab) to learn more about our research.
 
 <br>
 
