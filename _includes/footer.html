@@ -12,16 +12,16 @@
             </svg><span>Subscribe</span>
           </a>
         </p>
-      {%- if site.author %}
+      {%- if site.contact %}
         <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% if site.contact -%}
+            <li class="p-name">{{ site.contact.name | escape }}</li>
           {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {% if site.contact.email -%}
+            <li><a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
           {%- endif %}
-          {% if site.author.phone -%}
-            <li><a class="u-email" href="mailto:{{ site.author.phone }}">{{ site.author.phone }}</a></li>
+          {% if site.contact.phone -%}
+            <li><a class="u-email" href="mailto:{{ site.contact.phone }}">{{ site.contact.phone }}</a></li>
           {%- endif %}
         </ul>
       {%- endif %}
