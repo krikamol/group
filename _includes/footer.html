@@ -16,10 +16,10 @@
               <li><a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
             {%- endif %}
             {% if site.contact.phone -%}
-              <li><a class="u-email" href="mailto:{{ site.contact.phone }}">{{ site.contact.phone }}</a></li>
+              <li>{{ site.contact.phone }}</li>
             {%- endif %}
             {% if site.contact.address -%}
-              <li>{{ site.contact.phone }}</li>
+              <li>{{ site.contact.address }}</li>
             {%- endif %}
           </ul>
         {%- endif %}
