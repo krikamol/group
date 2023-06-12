@@ -4,33 +4,38 @@
   <div class="wrapper">
 
     <h2 class="footer-heading">Contact</h2>
+    
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-      {%- if site.contact %}
-        <ul class="contact-list">
-          {% if site.contact -%}
-            <li class="p-name">{{ site.contact.name | escape }}</li>
-          {% endif -%}
-          {% if site.contact.email -%}
-            <li><a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
-          {%- endif %}
-          {% if site.contact.phone -%}
-            <li><a class="u-email" href="mailto:{{ site.contact.phone }}">{{ site.contact.phone }}</a></li>
-          {%- endif %}
-          {% if site.contact.address -%}
-            <li>{{ site.contact.phone }}</li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
+        {%- if site.contact %}
+          <ul class="contact-list">
+            {% if site.contact -%}
+              <li class="p-name">{{ site.contact.name | escape }}</li>
+            {% endif -%}
+            {% if site.contact.email -%}
+              <li><a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
+            {%- endif %}
+            {% if site.contact.phone -%}
+              <li><a class="u-email" href="mailto:{{ site.contact.phone }}">{{ site.contact.phone }}</a></li>
+            {%- endif %}
+            {% if site.contact.address -%}
+              <li>{{ site.contact.phone }}</li>
+            {%- endif %}
+          </ul>
+        {%- endif %}
       </div>
+    
+      <div class="footer-col footer-col-2">
+        <div class="social-links">
+          {%- include social.html -%}
+        </div>
+      </div>
+      
+      <div class="footer-col footer-col-3">
+        <p>Cyber Log in IT.</p>
+      </div>
+      
     </div>
-
-    <div class="footer-col footer-col-2">
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-    </div>
-
   </div>
 
 </footer>
