@@ -123,4 +123,11 @@ Our group is currently part of [CISPA--Helmholtz Center for Information Security
     {% endfor%}
   </ul>
 
+<br>
+
 <h2>Contact</h2>
+<ul>
+	<li>muandet@cispa.de</li>
+	<li>+49 681 / 87083 2558</li>
+	<li>Stuhlsatzenhaus 5, 66123 Saarbrücken, Germany</li>
+</ul>
