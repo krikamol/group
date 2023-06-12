@@ -18,7 +18,7 @@ The MLRG is hosted by the scientific group Muandet at [CISPA--Helmholtz Center f
 
 | Date | Presenter | Paper |
 | --- | --- | --- |
-|30/05/2023 | Huynh Quang Kiet Vo | [Information Discrepancy in Strategic Learning](https://proceedings.mlr.press/v162/bechavod22a.html)
+|13/06/2023 | Huynh Quang Kiet Vo | [Information Discrepancy in Strategic Learning](https://proceedings.mlr.press/v162/bechavod22a.html)
 |25/04/2023| Alan Chau | [Learning Choice Functions with Gaussian Processes](https://arxiv.org/pdf/2302.00406.pdf)
 |11/04/2023| Krikamol Muandet | [Multi-Task Learning as a Bargaining Game](https://arxiv.org/pdf/2202.01017.pdf)
 | 28/03/2023 | Simon Föll | [You Only Train Once: Loss-conditional Training On Deep Networks](https://openreview.net/pdf?id=HyxY6JHKwr)
