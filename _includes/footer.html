@@ -23,6 +23,9 @@
           {% if site.contact.phone -%}
             <li><a class="u-email" href="mailto:{{ site.contact.phone }}">{{ site.contact.phone }}</a></li>
           {%- endif %}
+          {% if site.contact.address -%}
+            <li>{{ site.contact.phone }}</li>
+          {%- endif %}
         </ul>
       {%- endif %}
       </div>
