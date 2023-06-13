@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jake Fawke (Oxford) is visiting our group"
+title:  "Jake Fawkes from the University of Oxford is visiting our group"
 date:   2023-06-13 09:00:00 +0100
 categories: jekyll update
 ---
