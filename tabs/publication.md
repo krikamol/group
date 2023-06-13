@@ -23,7 +23,7 @@ permalink: /pubs/
 }
 </style>
 
-Prior publications can be found at [https://www.krikamol.org/publication/](https://www.krikamol.org/publication/){:target="_blank"}.
+This page lists publications that appeared after September 2022. Prior publications can be found at [https://www.krikamol.org/publication/](https://www.krikamol.org/publication/){:target="_blank"}.
 
 <br>
 
