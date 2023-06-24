@@ -8,18 +8,18 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         {%- if site.contact %}
-          <ul class="contact-list">
+          <ul class="fa-ul">
             {% if site.contact -%}
               <li class="p-name">{{ site.contact.name | escape }}</li>
             {% endif -%}
             {% if site.contact.email -%}
-              <li><i class="fa-solid fa-envelope"></i><a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
+              <li><span class="fa-li"><i class="fa-solid fa-envelope"></i></span><a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
             {%- endif %}
             {% if site.contact.phone -%}
-              <li><i class="fa-solid fa-circle-phone"></i>{{ site.contact.phone }}</li>
+              <li><span class="fa-li"><i class="fa-solid fa-circle-phone"></i></span>{{ site.contact.phone }}</li>
             {%- endif %}
             {% if site.contact.address -%}
-              <li><i class="fa-sharp fa-solid fa-location-dot"></i>{{ site.contact.address }}</li>
+              <li><span class="fa-li"><i class="fa-sharp fa-solid fa-location-dot"></span></i>{{ site.contact.address }}</li>
             {%- endif %}
           </ul>
         {%- endif %}
