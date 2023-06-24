@@ -26,8 +26,8 @@ contact:
   address: "Stuhlsatzenhaus 5, 66123 Saarbrücken"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website of the research group led by Krikamol Muandet. Our group’s 
-  research aims at understanding the principles that enable  autonomous agents 
+  An official website of the research group led by Krikamol Muandet. Our group’s 
+  research aims at understanding the principles that enable autonomous agents 
   to learn from past experience and interact successfully with complex environments, 
   and to use this understanding to design new learning algorithms.
 baseurl: "" # the subpath of your site, e.g. /blog
