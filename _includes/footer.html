@@ -13,13 +13,13 @@
               <li class="p-name">{{ site.contact.name | escape }}</li>
             {% endif -%}
             {% if site.contact.email -%}
-              <li><a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
+              <li><i class="fa-solid fa-envelope"></i><a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
             {%- endif %}
             {% if site.contact.phone -%}
-              <li>{{ site.contact.phone }}</li>
+              <li><i class="fa-solid fa-circle-phone"></i>{{ site.contact.phone }}</li>
             {%- endif %}
             {% if site.contact.address -%}
-              <li>{{ site.contact.address }}</li>
+              <li><i class="fa-sharp fa-solid fa-location-dot"></i>{{ site.contact.address }}</li>
             {%- endif %}
           </ul>
         {%- endif %}
