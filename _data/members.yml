@@ -1,7 +1,7 @@
 krikamol_muandet:
    first: Krikamol
    last: Muandet
-   position: PI
+   position: Faculty
    status: current
    website: http://krikamol.org
    image_path: ./assets/img/group-members/krikamol.jpg
@@ -11,14 +11,14 @@ siu_lun_chau:
    last: Chau
    position: Postdoc
    status: current
-   website: https://chau999.netlify.app/
+   website: https://chau999.github.io/
    image_path: ./assets/img/group-members/siulun.jpg
 
 simon_foell:
    first: Simon
    last: Föll
    position: Intern
-   status: current
+   status: alumnus
    website: https://im.ethz.ch/people/sfoell.html
    image_path: ./assets/img/group-members/simon.jpeg
 
