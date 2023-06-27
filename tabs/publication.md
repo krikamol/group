@@ -25,22 +25,22 @@ Prior publications can be found at [https://www.krikamol.org/publication/](https
     <div class="publinks">
       {% if pub.pdf %}
         <a href="{{ pub.pdf }}">
-          <i class="fas fa-file-pdf"></i>
+          <span class="border">PDF</span>
         </a>
       {% endif %}
       {% if pub.code %}
         <a href="{{ pub.code }}">
-          <i class="fas fa-code"></i>
+          <span class="border">Code</span>
         </a>
       {% endif %}
       {% if pub.video %}
         <a href="{{ pub.video }}">
-          <i class="fab fa-youtube"></i>
+          <span class="border">Video</span>
         </a>
       {% endif %}
       {% if pub.poster %}
         <a href="{{ pub.poster }}">
-          <i class="fas fa-image"></i>
+          <span class="border">Poster</span>
         </a>
       {% endif %}
     </div>
