@@ -30,15 +30,19 @@ This page lists publications that appeared after September 2022. Prior publicati
 
 {% assign publications = site.publications | sort: "year" | reverse %}
 
+<table>
 {% for pub in publications %}
-  <div class="pubitem">
-    <div class="pubtitle">
+  <tr>
+  <td><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{pub.pubnumber}}</div></td>
+  <td>
+  <div class="pubitem">  
+  <div class="pubtitle">
       {{ pub.title }}
-    </div>
-    <div class="pubauthors">{{ pub.authors }}</div>
-    <div class="pubinfo">{{ pub.venue }}, {{ pub.year }}</div>
+  </div>
+  <div class="pubauthors">{{ pub.authors }}</div>
+  <div class="pubinfo">{{ pub.venue }}, {{ pub.year }}</div>
     
-    <div class="publinks">
+  <div class="publinks">
       {% if pub.pdf %}
         <a href="{{ pub.pdf }}">
           <span class="border">PDF</span>
@@ -61,5 +65,7 @@ This page lists publications that appeared after September 2022. Prior publicati
       {% endif %}
     </div>
   </div>
-  <br>
+  </td>
+  </tr>
 {% endfor %}
+</table>

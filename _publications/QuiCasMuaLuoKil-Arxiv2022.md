@@ -5,5 +5,7 @@ authors: Francesco Quinzan, Cecilia Casolo, <ins>Krikamol Muandet</ins>, Yucen L
 venue: Preprint
 year: 2022
 pdf: https://arxiv.org/pdf/2207.09768.pdf
+pubtype: C
+pubnumber: 1
 doi: 
 ---

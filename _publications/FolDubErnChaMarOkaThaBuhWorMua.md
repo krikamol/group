@@ -6,5 +6,7 @@ venue: Preprint
 year: 2023
 pdf: https://arxiv.org/pdf/2206.12444.pdf
 code: https://github.com/im-ethz/pub-gdu4dg
+pubtype: P
+pubnumber: 3
 doi: 
 ---

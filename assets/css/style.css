@@ -1,0 +1,42 @@
+table,td,tr,th{
+  border:0;
+}
+
+#pubtable {
+    margin: .75em .5em .75em 1.5em;
+    border-spacing: .6em 1.2em;
+    border-collapse: separate;
+}
+
+#pubtablebody {
+    vertical-align: top;
+}
+
+div.pubbutton {
+    margin-left: -.2em;
+    padding: 0 .2em;
+    border-radius: .25em;
+    background-color: gray;
+    color: white;
+    font-weight: revert;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+div.pubP {
+    background-color: #B71C1C;
+}
+
+div.pubC {
+    background-color: #1A237E;
+}
+
+div.pubE {
+    background-color: #1B5E20;
+}
+
+td:target {
+    background-color: #ffff004a;
+    -webkit-transition: all .8s linear;
+}

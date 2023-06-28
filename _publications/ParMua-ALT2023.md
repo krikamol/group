@@ -5,5 +5,7 @@ authors: <ins>Junhyung Park</ins> and <ins>Krikamol Muandet</ins>
 venue: Algorithmic Learning Theory (ALT)
 year: 2023
 pdf: https://arxiv.org/pdf/2202.04415.pdf
+pubtype: P
+pubnumber: 2
 doi: 
 ---
