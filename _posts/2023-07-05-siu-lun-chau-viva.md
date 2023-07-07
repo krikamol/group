@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our postdoc, Siu Lun Chau, has passed his Ph.D. viva."
+title:  "Siu Lun Chau has passed his Ph.D. viva!"
 date:   2023-07-05 16:00:00 +0100
 categories: jekyll update
 ---
