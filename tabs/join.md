@@ -26,6 +26,9 @@ We are looking forward to receiving your application.
 
 ## Funding Opportunities
 
+<p> For more details, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0). </p>
+
+
 ### [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
 
 The Helmholtz Visiting Researcher Grant offers doctoral students and postdocs the opportunity to do a fully-funded short-term research stay at one of the 18 Helmholtz Centers. The program is promoted by the [Helmholtz Information and Data Science Academy (HIDA)](https://www.helmholtz-hida.de/en/).
@@ -38,4 +41,3 @@ The Humboldt Research Fellowship supports **postdoctoral and experienced researc
 
 If you would like our group to host you as a Humboldt Research Fellow, please get in touch via <a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a> to coordinate your independently developed research proposal with us.
 
-<p> For more details, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0). <\p>
