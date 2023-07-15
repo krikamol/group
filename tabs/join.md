@@ -26,7 +26,8 @@ We are looking forward to receiving your application.
 
 ## Funding Opportunities
 
-<p> For more details, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0). </p>
+For more details, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0).
+
 
 
 ### [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
