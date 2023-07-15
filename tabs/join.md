@@ -24,8 +24,6 @@ The <font color="#4d7f7f"><b>research statement</b></font> must not exceed <font
 
 We are looking forward to receiving your application.
 
-<br>
-
 ## Funding Opportunities
 
 ### [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
@@ -39,3 +37,5 @@ If you would like our group to host you, please get in touch via <a class="u-ema
 The Humboldt Research Fellowship supports **postdoctoral and experienced researchers** of all nationalities and research areas to conduct research in collaboration with a host at a German research institution of your choice. Fellowships may last from 6 to 24 months.
 
 If you would like our group to host you as a Humboldt Research Fellow, please get in touch via <a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a> to coordinate your independently developed research proposal with us.
+
+<p> For more details, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0). <\p>
