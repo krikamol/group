@@ -24,8 +24,6 @@ The <font color="#4d7f7f"><b>research statement</b></font> must not exceed <font
 
 We are looking forward to receiving your application.
 
------
-
 <br>
 
 ## Funding Opportunities
