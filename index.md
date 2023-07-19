@@ -5,16 +5,21 @@ list_title: Latest News
 
 <h2>About Us</h2>
 
-Our group’s research aims at understanding the principles that enable autonomous agents to efficiently learn from past experience and interact successfully with complex environments, and to use this understanding to design new learning algorithms. Our research spans the following themes:
+The Rational Intelligence (RI) Lab is dedicated to understanding the underlying principles that enable autonomous agents to acquire knowledge effectively from their experiences. Our primary objective is to utilize this understanding in designing novel machine learning (ML) algorithms capable of engaging in rational interactions with complex environments.
 
-1. <span style="color:#e6701b">**Prediction**</span>: How do we design machine learning (ML) algorithms that are robust to distribution shifts? We are interested in domain adaption (DA), domain generalization (DG), out-of-distribution
-(OOD) generalization, and robustness. We employ kernel methods, especially kernel mean embedding of distributions, as a mathematical arsenal to tackle these problems. 
+Our research endeavors encompass the following focal areas:
 
-2. <span style="color:#73b06f">**Causation**</span>: How do we leverage causal relationships in improving ML models, and conversely how do we use sophisticated ML methods to aid causal inference in complex environments? We are interested in unobserved confounders in causal inference, spurious correlation in machine learning, distributional treatment effects, counterfactual inference, and algorithmic decision making. Modern quasi-experimental designs such as instrumental variable (IV), proxy variables, and regression discontinuity design (RDD) offers tools to address these problems.
+1. <span style="color:#e6701b">**Prediction**</span>: We aim to develop ML algorithms that demonstrate resilience in the face of distribution shifts. Our focus lies in domain adaptation (DA), domain generalization (DG), out-of-distribution (OOD) generalization, and robustness. To tackle these challenges, we employ kernel methods, with particular emphasis on the kernel mean embedding of distributions, as a robust mathematical framework. 
 
-3. <span style="color:#007090">**Regulation**</span>: How do we regulate the deployment of ML models in heterogeneous world to ensure generalizable, equitable, trustworthy, and democratic AI? Conversely, how do new challenges such as feedback loops, strategic manipulations, and adversarial attacks fundamentally change the ways ML models should be trained? To gain better understanding of these problems, we are adopting techniques from algorithmic game theory, mechanism design, social choice theory and other related sub-fields of economics.
+2. <span style="color:#73b06f">**Causation**</span>: Our research investigates the utilization of causal relationships to enhance ML models. Furthermore, we explore the application of sophisticated ML algorithms to aid in causal inference within complex environments. Topics of interest include unobserved confounders in causal inference, spurious correlation in machine learning, distributional treatment effects, counterfactual inference, and algorithmic decision-making. We leverage modern quasi-experimental designs, such as instrumental variable (IV), proxy variables, and regression discontinuity design (RDD), as valuable tools for addressing these issues.
+
+3. <span style="color:#007090">**Regulation**</span>: We focus on the regulation of ML model deployment in the real world to ensure generalizability, equity, trustworthiness, and democracy. Additionally, we investigate how emerging challenges, including feedback loops, strategic manipulations, and adversarial attacks, fundamentally impact the training of ML models. To gain deeper insights into these problems, we incorporate techniques from algorithmic game theory, mechanism design, social choice theory, and other relevant sub-fields of economics.
+
+We envision that the advancement of next-generation machine learning models, distinguished by their reliability, trustworthiness, safety, and security, calls for collaborative efforts involving diverse stakeholders. These stakeholders encompass not only individual citizens and governments but also intergovernmental organizations. Our array of technical solutions, functioning at different levels of granularity, strive to pave the path towards the democratization of artificial intelligence (AI).
 
 See the [publication page]({{ '/pubs/' | relative_url }}) and [Github repo](https://github.com/muandet-lab) to learn more about our research.
+
+For further information about our research, please visit the [publication page]({{ '/pubs/' | relative_url }}) and explore our [Github repository](https://github.com/muandet-lab).
 
 <br>
 
