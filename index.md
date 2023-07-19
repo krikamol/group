@@ -17,8 +17,6 @@ Our research endeavors encompass the following focal areas:
 
 We envision that the advancement of next-generation machine learning models, distinguished by their reliability, trustworthiness, safety, and security, calls for collaborative efforts involving diverse stakeholders. These stakeholders encompass not only individual citizens and governments but also intergovernmental organizations. Our array of technical solutions, functioning at different levels of granularity, strive to pave the path towards the democratization of artificial intelligence (AI).
 
-See the [publication page]({{ '/pubs/' | relative_url }}) and [Github repo](https://github.com/muandet-lab) to learn more about our research.
-
 For further information about our research, please visit the [publication page]({{ '/pubs/' | relative_url }}) and explore our [Github repository](https://github.com/muandet-lab).
 
 <br>
