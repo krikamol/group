@@ -40,6 +40,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - manifesto.md
   - tabs/publication.md
   - tabs/mlrg.md
   - tabs/join.md
