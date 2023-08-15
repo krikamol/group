@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Our Group
+title: Vacancy
 permalink: /join/
 ---
 
