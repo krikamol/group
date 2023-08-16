@@ -4,7 +4,7 @@ title: Manifesto
 permalink: /manifesto/
 ---
 
-<p>The [Rational Intelligence manifesto](/assets/manifesto.pdf){:target="_blank"} serves as an illuminating beacon that guides the research endeavors within our group.</p>
+The [Rational Intelligence manifesto](/assets/manifesto.pdf){:target="_blank"} serves as an illuminating beacon that guides the research endeavors within our group.
 
 <br>
 
