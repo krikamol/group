@@ -33,7 +33,7 @@ This page lists publications that appeared after September 2022. Prior publicati
 <table>
 {% for pub in publications %}
   <tr>
-  <td><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{pub.pubnumber}}</div></td>
+  <td vertical-align="top"><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{pub.pubnumber}}</div></td>
   <td>
   <div class="pubitem">  
   <div class="pubtitle">
