@@ -2,6 +2,10 @@ table,td,tr,th{
   border:0;
 }
 
+td {
+  vertical-align: top;
+}
+
 #pubtable {
     margin: .75em .5em .75em 1.5em;
     border-spacing: .6em 1.2em;
