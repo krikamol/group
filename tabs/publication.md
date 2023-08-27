@@ -43,9 +43,9 @@ This page lists publications that appeared after September 2022. Prior publicati
         <div class="pubinfo">{{ pub.venue }}, {{ pub.year }}</div>
     
         <div class="publinks">
-        {% if pub.url %}
-          <a href="{{ pub.url }}">
-            <span class="border">URL</span>
+        {% if pub.doi %}
+          <a href="{{ pub.doi }}">
+            <span class="border">DOI</span>
           </a>
         {% endif %}
         {% if pub.pdf %}
