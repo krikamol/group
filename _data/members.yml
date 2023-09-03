@@ -22,6 +22,14 @@ simon_foell:
    website: https://im.ethz.ch/people/sfoell.html
    image_path: ./assets/img/group-members/simon.jpeg
 
+masha_naslidnyk:
+   first: Masha
+   last: Naslidnyk
+   position: Intern
+   status: current
+   website: https://mashanaslidnyk.github.io/
+   image_path: ./assets/img/group-members/masha.jpeg
+
 junhyung_park:
    first: Junhyung
    last: Park
