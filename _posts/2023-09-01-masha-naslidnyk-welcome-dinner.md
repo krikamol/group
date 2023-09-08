@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 [Masha Naslidnyk](https://mashanaslidnyk.github.io/), a PhD student at the Foundational AI CDT at University College London, joins our group as a research intern. Her intern is financially supported by the Helmholtz Information and Data Science Academy (HIDA). Welcome, Masha. Looking forward to our fruitful collaboration.
 
-![A welcome dinner for Masha Naslidnyk](/assets/img/posts/masha-naslidnyk-hida-welcome-dinner.jpeg)
+![A welcome dinner for Masha Naslidnyk](/assets/img/posts/masha-naslidnyk-hida-welcome-dinner.jpg)
