@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We publish the Rational Intelligence Manifesto"
-date:   2023-08-15 00:17:32 +0100
+date:   2023-08-15 15:17:32 +0100
 categories: jekyll update
 ---
 
