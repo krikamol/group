@@ -18,6 +18,7 @@ The MLRG is hosted by the scientific group Muandet at [CISPA--Helmholtz Center f
 
 | Date | Presenter | Paper |
 | --- | --- | --- |
+|13/09/2023| Siu Lun Chau | [Imprecise Bayesian Neural Networks](https://arxiv.org/abs/2302.09656) |
 |11/07/2023 | Advait Gadhikar | [Why Random Pruning Is All We Need to Start Sparse](https://arxiv.org/pdf/2210.02412.pdf) |
 |27/06/2023 | Anurag Singh | [Probable Domain Generalization via Quantile Risk Minimization](https://arxiv.org/pdf/2207.09944.pdf) | 
 |13/06/2023 | Huynh Quang Kiet Vo | [Information Discrepancy in Strategic Learning](https://proceedings.mlr.press/v162/bechavod22a.html) | 
