@@ -8,4 +8,5 @@ doi:
 pubtype: R
 pubnumber: 1
 pdf: http://arxiv.org/abs/2308.16262
+code: https://github.com/muandet-lab/causal-strategic-learning-with-selection
 ---
