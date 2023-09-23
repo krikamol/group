@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Oral and spotlight at NeurIPS2023!"
-date:   2023-03-19 00:17:32 +0100
+title:  "We got 1 oral and 1 spotlight at NeurIPS2023!"
+date:   2023-09-21 22:59:00 +0100
 categories: jekyll update
 ---
 
