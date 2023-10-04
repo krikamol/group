@@ -9,4 +9,4 @@ Their internships are financially supported by the Helmholtz Information and Dat
 
 Welcome, Jake, Shahine, and Renan. We look forward to our fruitful collaboration.
 
-![RI group meeting](/assets/img/posts/masha-naslidnyk-hida-welcome-dinner.jpg)
+![RI group meeting](/assets/img/posts/ri-group-meeting.png)
