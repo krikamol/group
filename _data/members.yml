@@ -78,6 +78,15 @@ shahine_bouabid:
    website: https://shahineb.github.io/
    image_path: ./assets/img/group-members/bouabid.jpg
 
+renan_gadoni:
+   first: Renan
+   last: Gadoni
+   position: Intern
+   status: current
+   website: https://techlaw.uottawa.ca/people/gadoni-renan
+   image_path: ./assets/img/group-members/gadoni.jpg
+
+
 jonas_kuebler:
    first: Jonas
    last: Kübler
