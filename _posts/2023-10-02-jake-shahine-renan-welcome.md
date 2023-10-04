@@ -10,4 +10,4 @@ Jake's research centers on causal machine learning with a focus on causal infere
 
 Welcome, Jake, Shahine, and Renan. We look forward to our fruitful collaboration.
 
-![RI group meeting](/assets/img/posts/ri-group-meeting.png)
+![RI group meeting](/assets/img/posts/ri-group-meeting-virtual.jpeg)
