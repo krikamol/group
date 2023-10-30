@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 [Renan Gadoni](https://techlaw.uottawa.ca/people/gadoni-renan) from the University of Ottawa is visiting our group as a research intern, supported by the [Helmholtz Information and Data Science Academy (HIDA)](https://www.helmholtz-hida.de/). 
 
-Today, he talked about an evolving landscape of global AI regulations, comparing different approaches taken by the United States (US), the European Union (EU), and the People's Republic of China. 
+Today, he talked about an evolving landscape of global AI regulations, comparing different approaches taken by the United States (US), the European Union (EU), and the People's Republic of China. Although nothing is currently set in stone when it comes to AI regulations, it is already clear that whatever step we take will not only shape the future of how society can benefit from AI technologies, but also raise technical challenges that must be addressed by academic research. 
 
 ![Renan talks](/assets/img/posts/renan-talk-1.jpg)
 
