@@ -9,4 +9,5 @@ categories: jekyll update
 Today, he talked about opportunities for data-driven modeling in climate science, highlighting some of the most pressing challenges in obtaining realistic climate simulation and how data-driven approaches might provide potential solutions to address these challenges. 
 
 ![Shahine talks](/assets/img/posts/shahine-talk-1.jpg)
+
 ![Shahine talks](/assets/img/posts/shahine-talk-2.jpg)
