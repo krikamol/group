@@ -9,4 +9,5 @@ categories: jekyll update
 Today, he talked about an evolving landscape of global AI regulations, comparing different approaches taken by the United States (US), the European Union (EU), and the People's Republic of China. 
 
 ![Renan talks](/assets/img/posts/renan-talk-1.jpg)
+
 ![Renan talks](/assets/img/posts/renan-talk-2.jpg)
