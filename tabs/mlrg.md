@@ -18,6 +18,7 @@ Each session is led by a presenter(s) who presents a paper of their choice and l
 
 | Date | Presenter | Paper |
 | --- | --- | --- |
+|31/10/2023 | Masha Naslidnyk | [MONK -- Outlier-Robust Mean Embedding Estimation by Median-of-Means](https://arxiv.org/abs/1802.04784) |
 |10/10/2023 | Muneeb Aadil | [Model-based Causal Bayesian Optimization](https://arxiv.org/abs/2211.10257) |
 |13/09/2023| Siu Lun Chau | [Imprecise Bayesian Neural Networks](https://arxiv.org/abs/2302.09656) |
 |11/07/2023 | Advait Gadhikar | [Why Random Pruning Is All We Need to Start Sparse](https://arxiv.org/pdf/2210.02412.pdf) |
