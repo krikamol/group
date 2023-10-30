@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shahine Bouabid talks about opportunities for data-driven modeling in climate science"
-date:   2023-10-3 15:00:00 +0100
+date:   2023-10-03 15:00:00 +0100
 categories: jekyll update
 ---
 [Shahine Bouabid](https://mashanaslidnyk.github.io/) from the University of Oxford is visiting our group as a research intern, supported by the [Helmholtz Information and Data Science Academy (HIDA)](https://www.helmholtz-hida.de/). 
