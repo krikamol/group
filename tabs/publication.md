@@ -76,7 +76,7 @@ This page lists publications that appeared after September 2022. Prior publicati
 </table>
 
 
-### <ins>Economics</ins>
+### <ins>Explanation</ins>
 {% assign publications = site.publications | where: "pubtype", "E"| sort: "year" | reverse %}
 <table>
   {% for pub in publications %}
