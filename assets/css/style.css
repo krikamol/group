@@ -40,6 +40,10 @@ div.pubE {
     background-color: #1B5E20;
 }
 
+div.pubR {
+    background-color: #808080;
+}
+
 td:target {
     background-color: #ffff004a;
     -webkit-transition: all .8s linear;
