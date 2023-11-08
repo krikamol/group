@@ -16,17 +16,20 @@ td {
     vertical-align: top;
 }
 
-div.pubbutton {
-    margin-left: -.2em;
-    padding: 0 .2em;
-    border-radius: .25em;
-    background-color: gray;
-    color: white;
-    font-weight: revert;
-    display: block;
-    text-align: center;
-    text-decoration: none;
+.pubbutton {
+  width: 1.8em; /* Add a fixed width */
+  height: 1.5em; /* Add a fixed height */
+  margin-left: -.2em;
+  padding: 0 .2em;
+  border-radius: .25em;
+  background-color: gray;
+  color: white;
+  font-weight: revert;
+  display: block;
+  text-align: center;
+  text-decoration: none;
 }
+
 
 div.pubP {
     background-color: #B71C1C;

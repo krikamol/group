@@ -31,7 +31,7 @@ This page lists publications that appeared after September 2022. Prior publicati
 <table>
   {% for pub in publications %}
   <tr>
-    <td><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{forloop.rindex}}</div></td>
+    <td style="width: 2.5em;"><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{forloop.rindex}}</div></td>
     <td>
       <div class="pubitem">  
         <div class="pubtitle">
@@ -81,7 +81,7 @@ This page lists publications that appeared after September 2022. Prior publicati
 <table>
   {% for pub in publications %}
   <tr>
-    <td><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{forloop.rindex}}</div></td>
+    <td style="width: 2.5em;"><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{forloop.rindex}}</div></td>
     <td>
       <div class="pubitem">  
         <div class="pubtitle">
@@ -130,7 +130,7 @@ This page lists publications that appeared after September 2022. Prior publicati
 <table>
   {% for pub in publications %}
   <tr>
-    <td><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{forloop.rindex}}</div></td>
+    <td style="width: 2.5em;"><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{forloop.rindex}}</div></td>
     <td>
       <div class="pubitem">  
         <div class="pubtitle">
@@ -178,7 +178,7 @@ This page lists publications that appeared after September 2022. Prior publicati
 <table>
   {% for pub in publications %}
   <tr>
-    <td><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{forloop.rindex}}</div></td>
+    <td style="width: 2.5em;"><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{forloop.rindex}}</div></td>
     <td>
       <div class="pubitem">  
         <div class="pubtitle">
