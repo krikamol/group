@@ -48,7 +48,7 @@ permalink: /team/
         <img src="{{ member.image_path }}" alt="{{ member.first }}" class="circle-image">
       </div>
       <div class="member-info">
-        <h3>
+        <h4>
         {%- if member.website -%}
         <a href="{{ member.website }}" target="_blank">
         {%- endif -%}
@@ -56,7 +56,7 @@ permalink: /team/
         {%- if member.website -%}
         </a>
         {%- endif -%}
-        </h3>
+        </h4>
         <p>{{ member.position }}</p>
       </div>
     </div>
