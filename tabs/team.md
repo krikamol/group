@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 <div class="group-members">
-  {% assign members = site.data.members | where: "status","current" %}
+  {% assign members = site.data.members | where: "status", "current" %}
   {% for member in members %}
     <div class="member">
       <div class="profile-pic">
@@ -27,9 +27,8 @@ permalink: /team/
   {% endfor %}
 </div>
 
-
 <h3>Alumni</h3>
-  {% assign members = site.data.members | where: "status","alumnus" %}
+  {% assign members = site.data.members | where: "status", "alumnus" %}
   <ul>
     {% for member in members %}
       <li>
