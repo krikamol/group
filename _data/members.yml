@@ -4,7 +4,7 @@ krikamol_muandet:
    position: Faculty
    status: current
    website: http://krikamol.org
-   image_path: ./assets/img/group-members/krikamol.jpg
+   image_path: /assets/img/group-members/krikamol.jpg
 
 siu_lun_chau:
    first: Siu Lun
