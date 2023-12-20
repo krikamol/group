@@ -12,7 +12,7 @@ siu_lun_chau:
    position: Postdoc
    status: current
    website: https://chau999.github.io/
-   image_path: ./assets/img/group-members/siulun.jpg
+   image_path: /assets/img/group-members/siulun.jpg
 
 simon_foell:
    first: Simon
@@ -20,7 +20,7 @@ simon_foell:
    position: Intern
    status: alumnus
    website: https://im.ethz.ch/people/sfoell.html
-   image_path: ./assets/img/group-members/simon.jpeg
+   image_path: /assets/img/group-members/simon.jpeg
 
 masha_naslidnyk:
    first: Masha
@@ -28,7 +28,7 @@ masha_naslidnyk:
    position: Intern
    status: current
    website: https://mashanaslidnyk.github.io/
-   image_path: ./assets/img/group-members/masha.jpeg
+   image_path: /assets/img/group-members/masha.jpeg
 
 junhyung_park:
    first: Junhyung
@@ -36,7 +36,7 @@ junhyung_park:
    position: PhD student
    status: current
    website: https://junhyung-park.github.io/
-   image_path: ./assets/img/group-members/junhyung.png
+   image_path: /assets/img/group-members/junhyung.png
 
 huynh_quang_kiet_vo:
    first: Huynh Quang
@@ -44,7 +44,7 @@ huynh_quang_kiet_vo:
    position: PhD student
    status: current
    website: https://cispa.de/en/people/c01huvo
-   image_path: ./assets/img/group-members/kiet.jpg
+   image_path: /assets/img/group-members/kiet.jpg
 
 anurag_singh:
    first: Anurag
@@ -52,7 +52,7 @@ anurag_singh:
    position: PhD student
    status: current
    website: https://anurag14.github.io/
-   image_path: ./assets/img/group-members/anurag.jpg
+   image_path: /assets/img/group-members/anurag.jpg
 
 muneeb_aadil:
    first: Muneeb
@@ -60,7 +60,7 @@ muneeb_aadil:
    position: Research assistant
    status: current
    website: https://muneebaadil.github.io/
-   image_path: ./assets/img/group-members/muneeb.png
+   image_path: /assets/img/group-members/muneeb.png
 
 jake_fawkes:
    first: Jake
@@ -68,7 +68,7 @@ jake_fawkes:
    position: Intern
    status: current
    website: https://csml.stats.ox.ac.uk/people/fawkes/
-   image_path: ./assets/img/group-members/fawkes.jpg
+   image_path: /assets/img/group-members/fawkes.jpg
 
 shahine_bouabid:
    first: Shahine
@@ -76,7 +76,7 @@ shahine_bouabid:
    position: Intern
    status: current
    website: https://shahineb.github.io/
-   image_path: ./assets/img/group-members/bouabid.jpg
+   image_path: /assets/img/group-members/bouabid.jpg
 
 renan_gadoni:
    first: Renan
@@ -84,8 +84,7 @@ renan_gadoni:
    position: Intern
    status: current
    website: https://techlaw.uottawa.ca/people/gadoni-renan
-   image_path: ./assets/img/group-members/gadoni.jpeg
-
+   image_path: /assets/img/group-members/gadoni.jpeg
 
 jonas_kuebler:
    first: Jonas
