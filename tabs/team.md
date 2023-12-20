@@ -39,7 +39,9 @@ permalink: /team/
   }
 }
 </style>
-	
+
+<br>
+
 <div class="group-members">
   {% assign members = site.data.members | where: "status", "current" %}
   {% for member in members %}
