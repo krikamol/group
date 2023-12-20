@@ -41,6 +41,7 @@ plugins:
 
 header_pages:
   - tabs/manifesto.md
+  - tabs/team.md
   - tabs/publication.md
   - tabs/mlrg.md
   - tabs/join.md
