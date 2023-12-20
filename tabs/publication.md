@@ -18,12 +18,8 @@ permalink: /pubs/
 
 .pubauthors,
 .pubinfo {
-  font-size: 75%;
-  margin-bottom: 0.75em;
-}
-
-table, th, td {
-   border: none;
+  font-size: 80%;
+  margin-bottom: 0.8em;
 }
 </style>
 
