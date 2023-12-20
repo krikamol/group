@@ -4,6 +4,42 @@ title: Team
 permalink: /team/
 ---
 
+<style>
+/* Default styles */
+.group-members {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.member {
+  width: 30%;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto 15px;
+}
+
+.circle-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+  .member {
+    width: 100%;
+  }
+}
+</style>
+	
 <div class="group-members">
   {% assign members = site.data.members | where: "status", "current" %}
   {% for member in members %}
