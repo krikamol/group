@@ -67,6 +67,7 @@ This page lists publications that appeared after September 2022. Prior publicati
     {% endif %}
   </div>
 </div>
+<br>
 {% endfor %}
 
 
