@@ -29,51 +29,44 @@ This page lists publications that appeared after September 2022. Prior publicati
 <br>
 
 {% assign publications = site.publications | sort: "year" | reverse %}
-<table>
-  {% for pub in publications %}
-  <tr>
-    <td style="width: 2.5em;"><div class="pubbutton pub{{pub.pubtype}}">{{pub.pubtype}}{{forloop.rindex}}</div></td>
-    <td>
-      <div class="pubitem">  
-        <div class="pubtitle">
-          {{ pub.title }}
-        </div>
-        <div class="pubauthors">{{ pub.authors }}</div>
-        <div class="pubinfo">{{ pub.venue }}, {{ pub.year }}
-          {% if pub.tag %} - {{ pub.tag }} {% endif %}
-        </div>
+{% for pub in publications %}
+<div class="pubitem">  
+  <div class="pubtitle">
+    {{ pub.title }}
+  </div>
+  <div class="pubauthors">{{ pub.authors }}</div>
+  <div class="pubinfo">{{ pub.venue }}, {{ pub.year }}
+    {% if pub.tag %} - {{ pub.tag }} {% endif %}
+  </div>
     
-        <div class="publinks">
-        {% if pub.doi %}
-          <a href="{{ pub.doi }}">
-            <span class="border">DOI</span>
-          </a>
-        {% endif %}
-        {% if pub.pdf %}
-          <a href="{{ pub.pdf }}">
-            <span class="border">PDF</span>
-          </a>
-        {% endif %}
-        {% if pub.code %}
-          <a href="{{ pub.code }}">
-            <span class="border">Code</span>
-          </a>
-        {% endif %}
-        {% if pub.video %}
-          <a href="{{ pub.video }}">
-            <span class="border">Video</span>
-          </a>
-        {% endif %}
-        {% if pub.poster %}
-          <a href="{{ pub.poster }}">
-            <span class="border">Poster</span>
-          </a>
-        {% endif %}
-        </div>
-      </div>
-    </td>
-  </tr>
-  {% endfor %}
-</table>
+  <div class="publinks">
+    {% if pub.doi %}
+      <a href="{{ pub.doi }}">
+        <span class="border">DOI</span>
+      </a>
+    {% endif %}
+    {% if pub.pdf %}
+      <a href="{{ pub.pdf }}">
+        <span class="border">PDF</span>
+      </a>
+    {% endif %}
+    {% if pub.code %}
+      <a href="{{ pub.code }}">
+        <span class="border">Code</span>
+      </a>
+    {% endif %}
+    {% if pub.video %}
+      <a href="{{ pub.video }}">
+        <span class="border">Video</span>
+      </a>
+    {% endif %}
+    {% if pub.poster %}
+      <a href="{{ pub.poster }}">
+        <span class="border">Poster</span>
+      </a>
+    {% endif %}
+  </div>
+</div>
+{% endfor %}
 
 
