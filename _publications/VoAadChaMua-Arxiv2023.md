@@ -4,6 +4,7 @@ title: "Causal Strategic Learning with Competitive Selection"
 authors: <ins>Kiet Q. H. Vo</ins>, <ins>Muneeb Aadil</ins>, <ins>Siu Lun Chau</ins>, <ins>Krikamol Muandet</ins>
 venue: The AAAI Conference on Artificial Intelligence (AAAI) 
 year: 2024
+tag: Oral Presentation
 doi: 
 pubtype: R
 pubnumber: 1
