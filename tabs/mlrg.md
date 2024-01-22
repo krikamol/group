@@ -4,9 +4,9 @@ title: Reading Group
 permalink: /mlrg/
 ---
 
-The Machine Learning Reading Group (MLRG) aims at enhancing our understanding in broad areas of machine learning (ML), incubating innovative ideas, and fostering cross-domain research collaborations. The topics of interest include, but are not limited to, learning theory, out-of-distribution (OOD) generalization, robustness, causal inference, game-theoretic learning, collaborative/cooperative learning, economics, etc. 
+The Machine Learning Reading Group (MLRG) aims to enhance our understanding in broad areas of machine learning (ML), incubating innovative ideas, and fostering cross-domain research collaborations. The topics of interest include, but are not limited to, learning theory, out-of-distribution (OOD) generalization, robustness, causal inference, game-theoretic learning, collaborative/cooperative learning, economics, etc. 
 
-**Update: From 01 November 2023 onwards, the MLRG will be cohosted with the [Machine Learning Group from University of Saarland](https://machinelearning.uni-saarland.de/). Further details can be found [here](https://docs.google.com/spreadsheets/d/1vtgEezBqS4d_ACPt-emK2NT52x7nofX9jxgH1N04MQE/edit#gid=845612096).** 
+**Update: From 01 November 2023 onwards, the MLRG will be cohosted with the [Machine Learning Group from the University of Saarland](https://machinelearning.uni-saarland.de/). Further details can be found [here](https://docs.google.com/spreadsheets/d/1vtgEezBqS4d_ACPt-emK2NT52x7nofX9jxgH1N04MQE/edit#gid=845612096).** 
 
 - **Date/Time**: Bi-weekly on Wednesday, 14:30pm-16:00pm
 - **Location**: Alternating between CISPA building and MPI building. You can also join [virtually](https://cs-uni-saarland-de.zoom.us/j/91937148099?pwd=R1BhUVVVMXJKRWU1OXI5alBjWERBdz09#success).
@@ -18,6 +18,8 @@ Each session is led by a presenter(s) who presents a paper of their choice and l
 
 | Date | Presenter | Paper |
 | --- | --- | --- |
+|24/01/2024| Siu Lun Chau| [Distribution-Free Uncertainty Quantification for Kernel Methods by Gradient Perturbations](https://arxiv.org/abs/1812.09632)|
+|29/11/2023| Jake Fawkes | [Why does Throwing Away Data Improve Worst-Group Error?](https://arxiv.org/abs/2205.11672)|
 |31/10/2023 | Masha Naslidnyk | [MONK -- Outlier-Robust Mean Embedding Estimation by Median-of-Means](https://arxiv.org/abs/1802.04784) |
 |10/10/2023 | Muneeb Aadil | [Model-based Causal Bayesian Optimization](https://arxiv.org/abs/2211.10257) |
 |13/09/2023| Siu Lun Chau | [Imprecise Bayesian Neural Networks](https://arxiv.org/abs/2302.09656) |
