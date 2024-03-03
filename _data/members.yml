@@ -26,7 +26,7 @@ masha_naslidnyk:
    first: Masha
    last: Naslidnyk
    position: Intern
-   status: current
+   status: alumnus
    website: https://mashanaslidnyk.github.io/
    image_path: /assets/img/group-members/masha.jpeg
 
@@ -66,7 +66,7 @@ jake_fawkes:
    first: Jake
    last: Fawkes
    position: Intern
-   status: current
+   status: alumnus
    website: https://csml.stats.ox.ac.uk/people/fawkes/
    image_path: /assets/img/group-members/fawkes.jpg
 
@@ -74,7 +74,7 @@ shahine_bouabid:
    first: Shahine
    last: Bouabid
    position: Intern
-   status: current
+   status: alumnus
    website: https://shahineb.github.io/
    image_path: /assets/img/group-members/bouabid.jpg
 
@@ -82,7 +82,7 @@ renan_gadoni:
    first: Renan
    last: Gadoni
    position: Intern
-   status: current
+   status: alumnus
    website: https://techlaw.uottawa.ca/people/gadoni-renan
    image_path: /assets/img/group-members/gadoni.jpeg
 
