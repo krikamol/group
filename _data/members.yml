@@ -62,6 +62,12 @@ muneeb_aadil:
    website: https://muneebaadil.github.io/
    image_path: /assets/img/group-members/muneeb.png
 
+swathi_suhas:
+   first: Swathi
+   last: Suhas
+   position: Research assistant
+   status: current
+
 jake_fawkes:
    first: Jake
    last: Fawkes
