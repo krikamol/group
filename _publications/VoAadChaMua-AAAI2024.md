@@ -10,4 +10,5 @@ pubtype: R
 pubnumber: 1
 pdf: http://arxiv.org/abs/2308.16262
 code: https://github.com/muandet-lab/csl-with-selection
+poster: /assets/posters/CSL-AAAI2024.pdf
 ---
