@@ -65,6 +65,11 @@ This page lists publications that appeared after September 2022. Prior publicati
         <span class="border">Poster</span>
       </a>
     {% endif %}
+    {% if pub.slide %}
+      <a href="{{ pub.slide }}">
+        <span class="border">Slide</span>
+      </a>
+    {% endif %}
   </div>
 </div>
 <br>
