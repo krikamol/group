@@ -5,7 +5,7 @@ authors: Masaki Adachi, Brady Planden, David A. Howey, Michael A. Osborne, Sebas
 venue: The International Conference on Artificial Intelligence and Statistics (AISTATS)
 year: 2024
 pdf:  https://arxiv.org/pdf/2310.17273.pdf
-/assets/posters/CoExBO-AISTATS2024.pdf
+poster: /assets/posters/CoExBO-AISTATS2024.pdf
 pubtype: E
 pubnumber: 2
 doi: https://arxiv.org/abs/2310.17273
