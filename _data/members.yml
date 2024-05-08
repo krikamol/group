@@ -78,6 +78,14 @@ swathi_suhas:
    status: current
    image_path: /assets/img/group-members/swathi.jpeg
 
+saptarshi_saha:
+   first: Saptarshi
+   last: Saha
+   position: Intern
+   status: current
+   website: https://github.com/Saptarshi-Saha-1996
+   image_path: /assets/img/group-members/saptarshi.jpeg
+
 rattaya_kaewvichai:
    first: Rattaya
    last: Kaewvichai
