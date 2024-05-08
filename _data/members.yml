@@ -14,6 +14,15 @@ siu_lun_chau:
    website: https://chau999.github.io/
    image_path: /assets/img/group-members/siulun.jpg
 
+masaki_adachi:
+   first: Masaki
+   last: Adachi
+   position: Visiting PhD student
+   status: current
+   website: https://www.masaki-adachi.com/
+   image_path: /assets/img/group-members/masaki.jpeg
+
+
 simon_foell:
    first: Simon
    last: Föll
