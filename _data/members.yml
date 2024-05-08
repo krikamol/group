@@ -22,7 +22,6 @@ masaki_adachi:
    website: https://www.masaki-adachi.com/
    image_path: /assets/img/group-members/masaki.jpeg
 
-
 simon_foell:
    first: Simon
    last: Föll
@@ -77,6 +76,14 @@ swathi_suhas:
    position: Research assistant
    status: current
    image_path: /assets/img/group-members/swathi.jpeg
+
+rattaya_kaewvichai:
+   first: Rattaya
+   last: Kaewvichai
+   position: Visiting PhD student
+   status: current
+   website: 
+   image_path: /assets/img/group-members/rattaya.jpeg
 
 jake_fawkes:
    first: Jake
