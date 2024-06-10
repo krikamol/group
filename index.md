@@ -42,7 +42,7 @@ Our group is currently affiliated with the [CISPA--Helmholtz Center for Informat
     {%- endif -%}
     <ul>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
+      {%- for post in posts limit: 10-%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
           <a href="{{ post.url | relative_url }}">
