@@ -22,6 +22,14 @@ masaki_adachi:
    website: https://www.masaki-adachi.com/
    image_path: /assets/img/group-members/masaki.jpeg
 
+masahiro_kato:
+   first: Masahiro
+   last: Kato
+   position: Visiting PhD student
+   status: current
+   website: https://masakat0.github.io/
+   image_path: /assets/img/group-members/masahiro.png
+
 simon_foell:
    first: Simon
    last: Föll
