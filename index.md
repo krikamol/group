@@ -3,8 +3,6 @@ layout: home
 list_title: Latest News
 image_sliders:
   - slider1
-  - slider2
-  - slider3
 ---
 <h2>About Us</h2>
 
