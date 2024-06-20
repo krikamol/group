@@ -1,9 +1,15 @@
 ---
 layout: home
 list_title: Latest News
+image_sliders:
+  - slider1
+  - slider2
+  - slider3
 ---
-
 <h2>About Us</h2>
+
+{% include slider.html selector="slider1" %}
+
 
 The Rational Intelligence (RI) Lab is dedicated to understanding the underlying principles that enable autonomous agents to acquire knowledge effectively from their experiences. Our primary objective is to utilize this understanding in designing novel machine learning (ML) algorithms capable of engaging in rational interactions with complex environments.
 
@@ -51,7 +57,7 @@ Our group is currently affiliated with the [CISPA--Helmholtz Center for Informat
       </li>
       {%- endfor -%}
     </ul>
-
+    {%- endif %}
     {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
@@ -68,5 +74,4 @@ Our group is currently affiliated with the [CISPA--Helmholtz Center for Informat
         {%- endif %}
         </ul>
       </div>
-    {%- endif %}
-  {%- endif %}
+    {%- endif %} 
