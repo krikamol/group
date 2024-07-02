@@ -8,6 +8,6 @@ The [Rational Intelligence manifesto](/assets/manifesto.pdf){:target="_blank"} s
 
 <br>
 
-{% include /_includes/manifesto.html %}
+{% include ../_includes/manifesto.html %}
 
 <object data="/assets/manifesto.pdf" width="100%" height="1100" type='application/pdf'></object>
