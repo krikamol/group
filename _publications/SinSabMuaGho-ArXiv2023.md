@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Fast Adaptive Test-Time Defense with Robust Features"
+title: "Robust Feature Inference: A Test-time Defense Strategy using Spectral Projections"
 authors: <ins>Anurag Singh</ins>, Mahalakshmi Sabanayagam, <ins>Krikamol Muandet</ins>, Debarghya Ghoshdastidar
-venue: Preprint
-year: 2023
-pdf: https://arxiv.org/abs/2307.11672
+venue: Transactions on Machine Learning Research (TMLR)
+year: 2024
+pdf: https://openreview.net/pdf?id=9OHAtWdFWB
 pubtype: P
 pubnumber: 4
 doi: 
