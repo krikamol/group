@@ -2,15 +2,12 @@
 <link rel="icon" href="{{ 'assets/img/group_icon.ico' | relative_url }}" type="image/png">
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <link rel="stylesheet" href="{{ 'assets/css/all.css' | relative_url }}">
-<link rel="stylesheet" href="assets/css/profile.css">
+<link rel="stylesheet" href="../assets/css/profile.css">
 <link rel="stylesheet" href="../assets/css/publication.css">
 <link rel="stylesheet" href="../assets/css/style.css">
   {%- include head.html -%}
-
-  <body>
-
+  <body style="margin: 0; padding: 0;">
     {%- include header.html -%}
-
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}

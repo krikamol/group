@@ -1,9 +1,41 @@
-<footer class="site-footer">
+<footer class="site-footer h-card" style="background-color: #f5f5f5;">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading">Contact</h2>
+    
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        {%- if site.contact %}
+          <ul class="fa-ul">
+            {% if site.contact -%}
+              <li class="p-name">{{ site.contact.name | escape }}</li>
+            {% endif -%}
+            {% if site.contact.email -%}
+              <li><span class="fa-li"><i class="fa-solid fa-envelope"></i></span><a class="u-email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
+            {%- endif %}
+            {% if site.contact.phone -%}
+              <li><span class="fa-li"><i class="fa-solid fa-phone"></i></span>{{ site.contact.phone }}</li>
+            {%- endif %}
+            {% if site.contact.address -%}
+              <li><span class="fa-li"><i class="fa-sharp fa-solid fa-location-dot"></span></i>{{ site.contact.address }}</li>
+            {%- endif %}
+          </ul>
+        {%- endif %}
+      </div>
+    
+      <div class="footer-col footer-col-2">
+        <div class="social-links">
+          {%- include social.html -%}
+        </div>
+      </div>
 
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+      
+    </div>
   </div>
 
 </footer>
