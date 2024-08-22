@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We present our spotlight paper at ICML 2024"
+title:  "We present a spotlight paper at ICML 2024"
 date:   2024-07-25 11:00:00 +0100
 categories: jekyll update
 ---
