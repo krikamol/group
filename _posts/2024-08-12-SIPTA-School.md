@@ -15,5 +15,5 @@ After all, there is more to uncertainty than probability theory which is the bas
 
 ![ICML-POSTER](/assets/img/posts/Ghent-SIPTA2024.jpg)
 
-![ICML-POSTER](/assets/img/posts/Group-SIPTA2024.jpg)
+![ICML-POSTER](/assets/img/posts/Group-SIPTA2024.jpeg)
 (Photo taken from [https://school24.sipta.org/](https://school24.sipta.org/))
