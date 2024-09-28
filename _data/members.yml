@@ -6,6 +6,14 @@ krikamol_muandet:
    website: http://krikamol.org
    image_path: /assets/img/group-members/krikamol.jpg
 
+abbavaram_gowtham_reddy:
+   first: Abbavaram Gowtham 
+   last: Reddy
+   position: Postdoc
+   status: current
+   website: https://gautam0707.github.io/
+   image_path: /assets/img/group-members/gowtham.jpg
+
 siu_lun_chau:
    first: Siu Lun
    last: Chau
@@ -18,7 +26,7 @@ masaki_adachi:
    first: Masaki
    last: Adachi
    position: Visiting PhD student
-   status: alumnus
+   status: alumni
    website: https://www.masaki-adachi.com/
    image_path: /assets/img/group-members/masaki.jpeg
 
@@ -26,7 +34,7 @@ masahiro_kato:
    first: Masahiro
    last: Kato
    position: Visiting PhD student
-   status: current
+   status: alumnus
    website: https://masakat0.github.io/
    image_path: /assets/img/group-members/masahiro.png
 
@@ -90,7 +98,7 @@ saptarshi_saha:
    first: Saptarshi
    last: Saha
    position: Intern
-   status: current
+   status: alumnus
    website: https://github.com/Saptarshi-Saha-1996
    image_path: /assets/img/group-members/saptarshi.jpeg
 
@@ -98,7 +106,7 @@ rattaya_kaewvichai:
    first: Rattaya
    last: Kaewvichai
    position: Visiting PhD student
-   status: current
+   status: alumnus
    website: 
    image_path: /assets/img/group-members/rattaya.jpeg
 
