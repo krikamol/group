@@ -87,6 +87,8 @@ muneeb_aadil:
    last: Aadil
    position: Research assistant
    status: alumnus
+   position_now: PhD student
+   now_at: University College London
    website: https://muneebaadil.github.io/
    image_path: /assets/img/group-members/muneeb.png
 
@@ -126,6 +128,8 @@ shahine_bouabid:
    last: Bouabid
    position: Intern
    status: alumnus
+   position_now: Postdoc
+   now_at: MIT
    website: https://shahineb.github.io/
    image_path: /assets/img/group-members/bouabid.jpg
 
