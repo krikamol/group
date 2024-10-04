@@ -59,7 +59,9 @@ junhyung_park:
    first: Junhyung
    last: Park
    position: PhD student
-   status: current
+   status: alumnus
+   position_now: Postdoc
+   now_at: ETH Zürich
    website: https://junhyung-park.github.io/
    image_path: /assets/img/group-members/junhyung.png
 
