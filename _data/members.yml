@@ -43,6 +43,7 @@ simon_foell:
    last: Föll
    position: Intern
    status: alumnus
+   position_now: Traineeprogram
    now_at: Bosch Center for Artificial Intelligence (BCAI)
    website: https://www.linkedin.com/in/simon-f%C3%B6ll-459431137/
    image_path: /assets/img/group-members/simon.jpeg
@@ -59,7 +60,9 @@ junhyung_park:
    first: Junhyung
    last: Park
    position: PhD student
-   status: current
+   status: alumnus
+   position_now: Postdoc
+   now_at: ETH Zürich
    website: https://junhyung-park.github.io/
    image_path: /assets/img/group-members/junhyung.png
 
@@ -84,6 +87,8 @@ muneeb_aadil:
    last: Aadil
    position: Research assistant
    status: alumnus
+   position_now: PhD student
+   now_at: University College London
    website: https://muneebaadil.github.io/
    image_path: /assets/img/group-members/muneeb.png
 
@@ -123,6 +128,8 @@ shahine_bouabid:
    last: Bouabid
    position: Intern
    status: alumnus
+   position_now: Postdoc
+   now_at: MIT
    website: https://shahineb.github.io/
    image_path: /assets/img/group-members/bouabid.jpg
 
