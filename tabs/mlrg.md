@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: talkseries
 title: Reading Group
 permalink: /mlrg/
 ---
 
+## Reading Group
 The Machine Learning Reading Group (MLRG) aims to enhance our understanding in broad areas of machine learning (ML), incubating innovative ideas, and fostering cross-domain research collaborations. The topics of interest include, but are not limited to, learning theory, out-of-distribution (OOD) generalization, robustness, causal inference, game-theoretic learning, collaborative/cooperative learning, economics, etc. 
 
 **Update: From 01 November 2023 onwards, the MLRG will be cohosted with the [Machine Learning Group from the University of Saarland](https://machinelearning.uni-saarland.de/). Further details can be found [here](https://docs.google.com/spreadsheets/d/1vtgEezBqS4d_ACPt-emK2NT52x7nofX9jxgH1N04MQE/edit#gid=845612096).** 
@@ -30,3 +31,5 @@ Each session is led by a presenter(s) who presents a paper of their choice and l
 |11/04/2023| Krikamol Muandet | [Multi-Task Learning as a Bargaining Game](https://arxiv.org/pdf/2202.01017.pdf) | 
 | 28/03/2023 | Simon Föll | [You Only Train Once: Loss-conditional Training On Deep Networks](https://openreview.net/pdf?id=HyxY6JHKwr) | 
 | 14/03/2023 | Siu Lun Chau | [Fairness Risk Measures](https://proceedings.mlr.press/v97/williamson19a.html) | 
+
+

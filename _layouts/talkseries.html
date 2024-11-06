@@ -1,0 +1,88 @@
+---
+layout: base
+---
+<style>
+.video-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.video-card {
+  width: 220px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.video-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.thumbnail {
+  width: 100%;
+  height: auto;
+}
+
+.video-description {
+  padding: 10px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+</style>
+<article class="post">
+  <div class="post-content">
+    {{ content }}
+  </div>
+  <header class="post-header">
+    <h4 class="post-title">Talk Series (To be Launched Soon)</h4>
+  </header>
+
+<div class="video-cards">
+  <!-- Card 1 -->
+  <div class="video-card">
+    <a href="https://www.youtube.com/watch?v=YourVideoID" target="_blank">
+      <img src="https://img.youtube.com/vi/YourVideoID/maxresdefault.jpg" alt="Video Thumbnail" class="thumbnail">
+    </a>
+    <p class="video-description">Coming Soon ...</p>
+  </div>
+  
+  <!-- Repeat cards as needed -->
+  <div class="video-card">
+    <a href="https://www.youtube.com/watch?v=AnotherVideoID" target="_blank">
+      <img src="https://img.youtube.com/vi/AnotherVideoID/maxresdefault.jpg" alt="Video Thumbnail" class="thumbnail">
+    </a>
+    <p class="video-description">Coming Soon ...</p>
+  </div>
+
+  <div class="video-card">
+    <a href="https://www.youtube.com/watch?v=AnotherVideoID" target="_blank">
+      <img src="https://img.youtube.com/vi/AnotherVideoID/maxresdefault.jpg" alt="Video Thumbnail" class="thumbnail">
+    </a>
+    <p class="video-description">Coming Soon ...</p>
+  </div>
+
+  <div class="video-card">
+    <a href="https://www.youtube.com/watch?v=AnotherVideoID" target="_blank">
+      <img src="https://img.youtube.com/vi/AnotherVideoID/maxresdefault.jpg" alt="Video Thumbnail" class="thumbnail">
+    </a>
+    <p class="video-description">Coming Soon ...</p>
+  </div>
+
+  <div class="video-card">
+    <a href="https://www.youtube.com/watch?v=AnotherVideoID" target="_blank">
+      <img src="https://img.youtube.com/vi/AnotherVideoID/maxresdefault.jpg" alt="Video Thumbnail" class="thumbnail">
+    </a>
+    <p class="video-description">Coming Soon ...</p>
+  </div>
+
+  <div class="video-card">
+    <a href="https://www.youtube.com/watch?v=AnotherVideoID" target="_blank">
+      <img src="https://img.youtube.com/vi/AnotherVideoID/maxresdefault.jpg" alt="Video Thumbnail" class="thumbnail">
+    </a>
+    <p class="video-description">Coming Soon ...</p>
+  </div>
+</article>
