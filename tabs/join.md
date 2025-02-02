@@ -14,7 +14,7 @@ To ensure your application receives full consideration, please carefully review 
 
 For more details, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0).
 
----
+<br>
 
 ## Postdoctoral Researcher
 
@@ -37,7 +37,7 @@ Your cover letter should clearly articulate why you believe our group is the ide
 > [!TIP]
 > Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with.
 
----
+<br>
 
 ## Doctoral Candidate
 
@@ -60,7 +60,7 @@ Your cover letter should convey your enthusiasm for pursuing a PhD, especially w
 > [!TIP]
 > For doctoral candidates, we look for someone with whom we'll enjoy working. Ideally, we want someone who is open-minded, intrinsically motivated, and is not afraid of taking their own initiative. Prior experience in publishing research papers is a plus.
 
----
+<br>
 
 ## Research Assistant/HiWi
 
@@ -77,7 +77,7 @@ We are particularly interested in candidates with a strong mathematical backgrou
 > [!CAUTION]
 > Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a response.
 
----
+<br>
 
 ## Internship
 
@@ -92,7 +92,8 @@ To apply for an intern position in our group, please send your CV to the PI with
 > [!CAUTION]
 > We rarely accept undergraduate students directly for an internship within our group. If you’re interested, please apply through existing internship programs for undergraduate students.
 
----
+<br>
+
 ## Master/undergrad Students
 
 We welcome undergraduate and master's students to our research group. If you’re considering writing your thesis with us, please review our available projects at
