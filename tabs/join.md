@@ -16,7 +16,7 @@ For more details, please check out this ebook: [Funding Your Research in Germany
 
 ## Postdoctoral Researcher
 
-A postdoctoral researcher is an early-career researcher who is gaining advanced research experience and developing the skills necessary to become an independent researcher or pursue other research-intensive careers. As a postdoc in our group, you are expected to dedicate the majority of your time to conducting cutting-edge research within a specific project or area of study that aligns with the group’s research agenda (see https://ri-lab.org/manifesto/ and https://ri-lab.org/pubs/). You are expected to demonstrate increasing independence in your research and will be evaluated by your ability to produce original research that contributes to the existing body of knowledge in your field, as demonstrated by publications in peer-reviewed journals, conferences, and other forms of scholarly output.
+A postdoctoral researcher is an early-career researcher who is gaining advanced research experience and developing the skills necessary to become an independent researcher or pursue other research-intensive careers. As a postdoc in our group, you are expected to dedicate the majority of your time to conducting cutting-edge research within a specific project or area of study that aligns with the group’s research agenda (see our [research manifesto](https://ri-lab.org/manifesto/) and recent [publications](https://ri-lab.org/pubs/)). You are expected to demonstrate increasing independence in your research and will be evaluated by your ability to produce original research that contributes to the existing body of knowledge in your field, as demonstrated by publications in peer-reviewed journals, conferences, and other forms of scholarly output.
 
 We highly value collaboration. You will therefore work as part of a research team, collaborating with other postdocs, graduate students, research assistants, and our external collaborators. You will also have the opportunity to mentor junior researchers or students, gaining valuable experience in supervision and training. You may contribute to writing grant proposals to secure funding for research projects and will have minimal teaching responsibilities.
 
@@ -34,6 +34,27 @@ Your cover letter should clearly articulate why you believe our group is the ide
 
 > [!TIP]
 > Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with.
+
+## Doctoral Candidate
+
+A doctoral student is a researcher in training, contributing to the advancement of knowledge, while developing the skills and expertise necessary for a successful academic or research career. In the German academic system, doctoral candidates are generally employed as research associates or similar positions, receiving a regular salary and associated benefits, distinguishing their status from that of students receiving financial aid.
+
+Pursuing a PhD degree can be fun, yet demanding. It requires a blend of intellectual curiosity, perseverance, and dedication. As a doctoral student in our group, your primary responsibility is to become a producer of new knowledge, not just a consumer of existing knowledge. Under your supervisor's guidance, you are expected to push the boundaries of your field by generating new insights, discoveries, or theories.
+
+<b>How to Apply</b>: 
+
+To apply for a PhD position in our group, you will need to submit at least 
+
+- a cover letter, 
+- a CV, and 
+- a personal statement, 
+
+together with contact information of at most two references who are willing to attest your academic aptitude, for example, your bachelor/master thesis supervisors.
+
+Your cover letter should convey your enthusiasm for pursuing a PhD, especially within our group. In your personal statement (approximately 1–2 pages), please summarize your research background and explain how it connects to the research topics you hope to explore. Feel free to mention a research paper from our group that has particularly captured your interest.
+
+> [!TIP]
+> For doctoral candidates, we look for someone with whom we'll enjoy working. Ideally, we want someone who is open-minded, intrinsically motivated, and is not afraid of taking their own initiative. Prior experience in publishing research papers is a plus.
 
 ### [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
 
