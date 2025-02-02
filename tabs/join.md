@@ -28,7 +28,7 @@ To apply for a postdoc position, you will need to submit at least
 - a CV, and 
 - a research statement, 
 
-together with contact information of at most three references who are willing to attest your academic aptitude, for example, your PhD advisors, collaborators, etc. 
+together with contact information of <b>at most three references</b> who are willing to attest your academic aptitude, for example, your PhD advisors, collaborators, etc. 
 
 Your cover letter should clearly articulate why you believe our group is the ideal place for the next step in your career. Your research statement should be approximately 2–3 pages long and should provide a clear summary of your past research accomplishments while outlining your future plans. Whenever possible, highlight connections and comparisons to our current research focus.
 
@@ -49,7 +49,7 @@ To apply for a PhD position in our group, you will need to submit at least
 - a CV, and 
 - a personal statement, 
 
-together with contact information of at most two references who are willing to attest your academic aptitude, for example, your bachelor/master thesis supervisors.
+together with contact information of <b>at most two references</b> who are willing to attest your academic aptitude, for example, your bachelor/master thesis supervisors.
 
 Your cover letter should convey your enthusiasm for pursuing a PhD, especially within our group. In your personal statement (approximately 1–2 pages), please summarize your research background and explain how it connects to the research topics you hope to explore. Feel free to mention a research paper from our group that has particularly captured your interest.
 
