@@ -60,6 +60,9 @@ Your cover letter should convey your enthusiasm for pursuing a PhD, especially w
 
 {% include tip.html content="For doctoral candidates, we look for someone with whom we'll enjoy working. Ideally, we want someone who is open-minded, intrinsically motivated, and is not afraid of taking their own initiative. Prior experience in publishing research papers is a plus." %}
 
+We encourage strong candidates for the PhD position to also explore [third-party fundings](https://www.research-in-germany.org/en/your-goal/phd/funding-programmes.html).
+
+
 <br>
 
 ## Research Assistant/HiWi
