@@ -88,7 +88,7 @@ To apply for an intern position in our group, please send your CV to the PI with
 
 We welcome undergraduate and master's students to our research group. If you’re considering writing your thesis with us, please review our available projects at
 
-https://ri-lab.org/thesis-topics/. 
+[https://ri-lab.org/thesis-topics/](https://ri-lab.org/thesis-topics/). 
 
 If a project aligns with your interests, please contact the corresponding project coordinator.
 
