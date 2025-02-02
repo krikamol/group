@@ -23,14 +23,15 @@ We highly value collaboration. You will therefore work as part of a research tea
 <b>How to Apply</b>: 
 
 To apply for a postdoc position, you will need to submit at least 
-a cover letter,
-a CV, and 
-a research statement, 
+- a cover letter,
+- a CV, and 
+- a research statement, 
 together with contact information of at most three references who are willing to attest your academic aptitude, for example, your PhD advisors, collaborators, etc. 
 
 Your cover letter should clearly articulate why you believe our group is the ideal place for the next step in your career. Your research statement should be approximately 2–3 pages long and should provide a clear summary of your past research accomplishments while outlining your future plans. Whenever possible, highlight connections and comparisons to our current research focus.
 
-Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with.
+> [!TIP]
+> Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with.
 
 ### [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
 
