@@ -8,11 +8,9 @@ permalink: /join/
 🚨 <span style="color:red">We currently have an open position for a postdoctoral researcher ([call](https://ri-lab.org/assets/pdfs/ri-postdoc-call-2025.pdf)).</span>
 <br>
 
-Interested in applying for one of the undergrad/master/PhD internship, PhD, or postdoc positions in our group? 
-
 To ensure your application receives full consideration, please carefully review the guidelines below before applying to our group. Due to the high volume of applications we receive, following these guidelines will ensure efficient use of our time and demonstrate your genuine interest in our group, significantly reducing the risk of your application being overlooked.
 
-For more details, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0).
+For funding opportunities, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0).
 
 
 ## Postdoctoral Researcher
