@@ -84,6 +84,14 @@ To apply for an intern position in our group, please send your CV to the PI with
 > [!CAUTION]
 > We rarely accept undergraduate students directly for an internship within our group. If you’re interested, please apply through existing internship programs for undergraduate students.
 
+## Master/undergrad Students
+
+We welcome undergraduate and master's students to our research group. If you’re considering writing your thesis with us, please review our available projects at
+
+https://ri-lab.org/thesis-topics/. 
+
+If a project aligns with your interests, please contact the corresponding project coordinator.
+
 
 ### [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
 
