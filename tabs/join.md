@@ -34,8 +34,7 @@ together with contact information of <b>at most three references</b> who are wil
 
 Your cover letter should clearly articulate why you believe our group is the ideal place for the next step in your career. Your research statement should be approximately 2–3 pages long and should provide a clear summary of your past research accomplishments while outlining your future plans. Whenever possible, highlight connections and comparisons to our current research focus.
 
-> [!TIP]
-> Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with.
+{% include note.html content="Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with." %}
 
 <br>
 
