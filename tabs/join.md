@@ -36,6 +36,8 @@ Your cover letter should clearly articulate why you believe our group is the ide
 
 {% include tip.html content="Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with." %}
 
+We encourage strong candidates for the postdoc position to also explore third-party fundings such as [Humboldt Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) and other [funding programs](https://www.research-in-germany.org/en/your-goal/postdoc/funding-programmes.html).
+
 <br>
 
 ## Doctoral Candidate
