@@ -4,7 +4,7 @@ title: Vacancy
 permalink: /join/
 ---
 
-🚨
+> 🚨 We currently have an open position for a postdoctoral research ([call](https://ri-lab.org/assets/pdfs/ri-postdoc-call-2025.pdf)).
 
 Interested in applying for one of the undergrad/master/PhD internship, PhD, or postdoc positions in our group? 
 
