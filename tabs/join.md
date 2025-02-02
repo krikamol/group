@@ -61,7 +61,6 @@ Your cover letter should convey your enthusiasm for pursuing a PhD, especially w
 {% include tip.html content="For doctoral candidates, we look for someone with whom we'll enjoy working. Ideally, we want someone who is open-minded, intrinsically motivated, and is not afraid of taking their own initiative. Prior experience in publishing research papers is a plus." %}
 
 <br>
-
 We encourage strong candidates for the PhD position to also explore [third-party fundings](https://www.research-in-germany.org/en/your-goal/phd/funding-programmes.html).
 
 
@@ -77,6 +76,7 @@ We are particularly interested in candidates with a strong mathematical backgrou
 
 {% include warning.html content="Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a response." %}
 
+<br>
 
 ### Internship
 
@@ -88,6 +88,7 @@ As a research intern in our group, you will work closely with experienced resear
 
 {% include warning.html content="We rarely accept undergraduate students directly for an internship within our group. If you’re interested, please apply through existing internship programs for undergraduate students." %}
 
+<br>
 
 ### Master/undergrad Students
 
