@@ -56,6 +56,21 @@ Your cover letter should convey your enthusiasm for pursuing a PhD, especially w
 > [!TIP]
 > For doctoral candidates, we look for someone with whom we'll enjoy working. Ideally, we want someone who is open-minded, intrinsically motivated, and is not afraid of taking their own initiative. Prior experience in publishing research papers is a plus.
 
+## Research Assistant/HiWi
+
+The role of a research assistant (known as HiWi, or Hilfswissenschaftler, in Germany) is to support research activities within a research group. It involves tasks like conducting literature reviews, collecting and analyzing data, running experiments, and assisting with writing reports and publications.
+
+As a Research Assistant (RA) or HiWi in our group, you will actively participate in one of the ongoing projects led by PhD students, postdoctoral researchers, or the PI. This role offers you the opportunity not only to contribute to the progress of cutting-edge research but also to gain valuable hands-on research experience. Typically, the RA/HiWi position is a paid, part-time role.
+
+<b>How to Apply</b>: 
+
+To apply for an RA or HiWi position in our group, we encourage you to first familiarize yourself with our research, such as by reviewing our recent [publications](https://ri-lab.org/pubs/), to ensure that our research themes align with your interests. Next, reach out to the PhD students or postdoctoral researchers whose work interests you to explore potential collaboration opportunities. Your application will then be discussed internally to assess whether your background and skills align with our current projects.
+
+We are particularly interested in candidates with a strong mathematical background, excellent programming skills, or ideally both.
+
+> [!IMPORTANT] 
+> Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a response.
+
 ### [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
 
 The Helmholtz Visiting Researcher Grant offers doctoral students and postdocs the opportunity to do a fully-funded short-term research stay at one of the 18 Helmholtz Centers. The program is promoted by the [Helmholtz Information and Data Science Academy (HIDA)](https://www.helmholtz-hida.de/en/).
