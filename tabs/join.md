@@ -71,6 +71,17 @@ We are particularly interested in candidates with a strong mathematical backgrou
 > [!CAUTION]
 > Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a response.
 
+## Internship
+
+The internship provides a unique opportunity for you to expand your network within the research community and to gain practical experience and develop valuable skills outside of your home institution or university. From our perspective, interns often enrich our research by bringing fresh perspectives to the group.
+
+As a research intern in our group, you will work closely with experienced researchers who provide guidance, mentorship, and support. 
+
+<b>How to Apply</b>: 
+
+To apply for an intern position in our group, please send your CV to the PI with a brief explanation as to why you’re interested in collaborating with us.
+
+
 ### [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
 
 The Helmholtz Visiting Researcher Grant offers doctoral students and postdocs the opportunity to do a fully-funded short-term research stay at one of the 18 Helmholtz Centers. The program is promoted by the [Helmholtz Information and Data Science Academy (HIDA)](https://www.helmholtz-hida.de/en/).
