@@ -72,8 +72,7 @@ To apply for an RA or HiWi position in our group, we encourage you to first fami
 
 We are particularly interested in candidates with a strong mathematical background, excellent programming skills, or ideally both.
 
-> [!CAUTION]
-> Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a response.
+{% include warning.html content="Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a response." %}
 
 <br>
 
@@ -87,8 +86,7 @@ As a research intern in our group, you will work closely with experienced resear
 
 To apply for an intern position in our group, please send your CV to the PI with a brief explanation as to why you’re interested in collaborating with us.
 
-> [!CAUTION]
-> We rarely accept undergraduate students directly for an internship within our group. If you’re interested, please apply through existing internship programs for undergraduate students.
+{% include warning.html content="We rarely accept undergraduate students directly for an internship within our group. If you’re interested, please apply through existing internship programs for undergraduate students." %}
 
 <br>
 
