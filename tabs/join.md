@@ -14,7 +14,6 @@ To ensure your application receives full consideration, please carefully review 
 
 For more details, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0).
 
-<br>
 
 ## Postdoctoral Researcher
 
@@ -40,7 +39,6 @@ Your cover letter should clearly articulate why you believe our group is the ide
 <br>
 We encourage strong candidates for the postdoc position to also explore third-party fundings such as [Humboldt Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) and other [funding programs](https://www.research-in-germany.org/en/your-goal/postdoc/funding-programmes.html).
 
-<br>
 
 ## Doctoral Candidate
 
@@ -66,9 +64,8 @@ Your cover letter should convey your enthusiasm for pursuing a PhD, especially w
 
 We encourage strong candidates for the PhD position to also explore [third-party fundings](https://www.research-in-germany.org/en/your-goal/phd/funding-programmes.html).
 
-<br>
 
-## Research Assistant/HiWi
+### Research Assistant/HiWi
 
 The role of a research assistant (known as HiWi, or Hilfswissenschaftler, in Germany) is to support research activities within a research group. It involves tasks like conducting literature reviews, collecting and analyzing data, running experiments, and assisting with writing reports and publications.
 
@@ -82,9 +79,8 @@ We are particularly interested in candidates with a strong mathematical backgrou
 
 {% include warning.html content="Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a response." %}
 
-<br>
 
-## Internship
+### Internship
 
 The internship provides a unique opportunity for you to expand your network within the research community and to gain practical experience and develop valuable skills outside of your home institution or university. From our perspective, interns often enrich our research by bringing fresh perspectives to the group.
 
@@ -96,9 +92,8 @@ To apply for an intern position in our group, please send your CV to the PI with
 
 {% include warning.html content="We rarely accept undergraduate students directly for an internship within our group. If you’re interested, please apply through existing internship programs for undergraduate students." %}
 
-<br>
 
-## Master/undergrad Students
+### Master/undergrad Students
 
 We welcome undergraduate and master's students to our research group. If you’re considering writing your thesis with us, please review our available projects at
 
