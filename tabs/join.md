@@ -68,7 +68,7 @@ To apply for an RA or HiWi position in our group, we encourage you to first fami
 
 We are particularly interested in candidates with a strong mathematical background, excellent programming skills, or ideally both.
 
-> [!IMPORTANT] 
+> [!CAUTION]
 > Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a response.
 
 ### [Helmholtz Visiting Researcher Grant](https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/)
