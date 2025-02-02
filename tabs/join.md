@@ -34,8 +34,10 @@ together with contact information of <b>at most three references</b> who are wil
 
 Your cover letter should clearly articulate why you believe our group is the ideal place for the next step in your career. Your research statement should be approximately 2–3 pages long and should provide a clear summary of your past research accomplishments while outlining your future plans. Whenever possible, highlight connections and comparisons to our current research focus.
 
+
 {% include tip.html content="Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with." %}
 
+<br>
 We encourage strong candidates for the postdoc position to also explore third-party fundings such as [Humboldt Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) and other [funding programs](https://www.research-in-germany.org/en/your-goal/postdoc/funding-programmes.html).
 
 <br>
@@ -60,8 +62,9 @@ Your cover letter should convey your enthusiasm for pursuing a PhD, especially w
 
 {% include tip.html content="For doctoral candidates, we look for someone with whom we'll enjoy working. Ideally, we want someone who is open-minded, intrinsically motivated, and is not afraid of taking their own initiative. Prior experience in publishing research papers is a plus." %}
 
-We encourage strong candidates for the PhD position to also explore [third-party fundings](https://www.research-in-germany.org/en/your-goal/phd/funding-programmes.html).
+<br>
 
+We encourage strong candidates for the PhD position to also explore [third-party fundings](https://www.research-in-germany.org/en/your-goal/phd/funding-programmes.html).
 
 <br>
 
