@@ -4,8 +4,6 @@ title: Vacancy
 permalink: /join/
 ---
 
-{% include linkrefs.html %}
-
 <br>
 🚨 <span style="color:red">We currently have an open position for a postdoctoral researcher ([call](https://ri-lab.org/assets/pdfs/ri-postdoc-call-2025.pdf)).</span>
 <br>
@@ -36,7 +34,8 @@ together with contact information of <b>at most three references</b> who are wil
 
 Your cover letter should clearly articulate why you believe our group is the ideal place for the next step in your career. Your research statement should be approximately 2–3 pages long and should provide a clear summary of your past research accomplishments while outlining your future plans. Whenever possible, highlight connections and comparisons to our current research focus.
 
-{{tip}} Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with. {{end}}
+> [!TIP]
+> Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with.
 
 <br>
 
