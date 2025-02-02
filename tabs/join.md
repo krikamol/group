@@ -4,7 +4,7 @@ title: Vacancy
 permalink: /join/
 ---
 
-:rotating_light:
+🚨
 
 Interested in applying for one of the undergrad/master/PhD internship, PhD, or postdoc positions in our group? 
 
