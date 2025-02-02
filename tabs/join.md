@@ -71,9 +71,7 @@ The role of a research assistant (known as HiWi, or Hilfswissenschaftler, in Ger
 
 As a Research Assistant (RA) or HiWi in our group, you will actively participate in one of the ongoing projects led by PhD students, postdoctoral researchers, or the PI. This role offers you the opportunity not only to contribute to the progress of cutting-edge research but also to gain valuable hands-on research experience. Typically, the RA/HiWi position is a paid, part-time role.
 
-<b>How to Apply</b>: 
-
-To apply for an RA or HiWi position in our group, we encourage you to first familiarize yourself with our research, such as by reviewing our recent [publications](https://ri-lab.org/pubs/), to ensure that our research themes align with your interests. Next, reach out to the PhD students or postdoctoral researchers whose work interests you to explore potential collaboration opportunities. Your application will then be discussed internally to assess whether your background and skills align with our current projects.
+<b>How to Apply</b>: We encourage you to first familiarize yourself with our research, such as by reviewing our recent [publications](https://ri-lab.org/pubs/), to ensure that our research themes align with your interests. Next, reach out to the PhD students or postdoctoral researchers whose work interests you to explore potential collaboration opportunities. Your application will then be discussed internally to assess whether your background and skills align with our current projects.
 
 We are particularly interested in candidates with a strong mathematical background, excellent programming skills, or ideally both.
 
@@ -86,9 +84,7 @@ The internship provides a unique opportunity for you to expand your network with
 
 As a research intern in our group, you will work closely with experienced researchers who provide guidance, mentorship, and support. 
 
-<b>How to Apply</b>: 
-
-To apply for an intern position in our group, please send your CV to the PI with a brief explanation as to why you’re interested in collaborating with us.
+<b>How to Apply</b>: Please send your CV to the PI with a brief explanation as to why you’re interested in collaborating with us.
 
 {% include warning.html content="We rarely accept undergraduate students directly for an internship within our group. If you’re interested, please apply through existing internship programs for undergraduate students." %}
 
