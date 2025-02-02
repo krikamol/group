@@ -15,6 +15,7 @@ To ensure your application receives full consideration, please carefully review 
 For more details, please check out this ebook: [Funding Your Research in Germany](https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0).
 
 ---
+
 ## Postdoctoral Researcher
 
 A postdoctoral researcher is an early-career researcher who is gaining advanced research experience and developing the skills necessary to become an independent researcher or pursue other research-intensive careers. As a postdoc in our group, you are expected to dedicate the majority of your time to conducting cutting-edge research within a specific project or area of study that aligns with the group’s research agenda (see our [research manifesto](https://ri-lab.org/manifesto/) and recent [publications](https://ri-lab.org/pubs/)). You are expected to demonstrate increasing independence in your research and will be evaluated by your ability to produce original research that contributes to the existing body of knowledge in your field, as demonstrated by publications in peer-reviewed journals, conferences, and other forms of scholarly output.
@@ -37,6 +38,7 @@ Your cover letter should clearly articulate why you believe our group is the ide
 > Basically, we want to see strong evidence of great research, someone whose work fits well with what we're doing, and someone we'll enjoy working with.
 
 ---
+
 ## Doctoral Candidate
 
 A doctoral student is a researcher in training, contributing to the advancement of knowledge, while developing the skills and expertise necessary for a successful academic or research career. In the German academic system, doctoral candidates are generally employed as research associates or similar positions, receiving a regular salary and associated benefits, distinguishing their status from that of students receiving financial aid.
@@ -59,6 +61,7 @@ Your cover letter should convey your enthusiasm for pursuing a PhD, especially w
 > For doctoral candidates, we look for someone with whom we'll enjoy working. Ideally, we want someone who is open-minded, intrinsically motivated, and is not afraid of taking their own initiative. Prior experience in publishing research papers is a plus.
 
 ---
+
 ## Research Assistant/HiWi
 
 The role of a research assistant (known as HiWi, or Hilfswissenschaftler, in Germany) is to support research activities within a research group. It involves tasks like conducting literature reviews, collecting and analyzing data, running experiments, and assisting with writing reports and publications.
@@ -75,6 +78,7 @@ We are particularly interested in candidates with a strong mathematical backgrou
 > Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a response.
 
 ---
+
 ## Internship
 
 The internship provides a unique opportunity for you to expand your network within the research community and to gain practical experience and develop valuable skills outside of your home institution or university. From our perspective, interns often enrich our research by bringing fresh perspectives to the group.
