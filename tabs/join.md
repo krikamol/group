@@ -39,11 +39,11 @@ permalink: /join/
 🚨 <span style="color:red">We currently have an open position for a postdoctoral researcher <a href="https://ri-lab.org/assets/pdfs/ri-postdoc-call-2025.pdf">(our call)</a>.</span> 
 <br><br>
 
-<p justify="align">To ensure your application receives full consideration, please carefully review the guidelines below before applying to 
+<p justify=align>To ensure your application receives full consideration, please carefully review the guidelines below before applying to 
 our group. Due to the high volume of applications we receive, following these guidelines will ensure efficient use of our time and 
 demonstrate your genuine interest in our group, significantly reducing the risk of your application being overlooked. </p>
 
-<p justify="align">For funding opportunities, please check out this
+<p justify=align>For funding opportunities, please check out this
 ebook: <a href="https://www.research-in-germany.org/website/public/epapers/epaper-FundingResearch23-24/#0">Funding Your Research in
 Germany</a>.</p>
 <br>
@@ -162,7 +162,7 @@ response." %} </p>
 <div>
 <br>
 <h3> Internship </h3>
-<p align="justify">The internship provides a unique opportunity for you to expand your network within the research community and to gain 
+<p align=justify>The internship provides a unique opportunity for you to expand your network within the research community and to gain 
 practical experience and develop valuable skills outside of your home institution or university. From our perspective, interns often 
 enrich our research by bringing fresh perspectives to the group. </p>
 <p align=justify> As a research intern in our group, you will work closely with experienced researchers who provide guidance, mentorship,  
