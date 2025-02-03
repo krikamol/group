@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imprecise Probabilistic Machine Learning (IPML)
-permalink: /
+permalink: /courses/ipml-uds-2025
 ---
 
 TBA
