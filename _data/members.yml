@@ -82,6 +82,14 @@ anurag_singh:
    website: https://anurag14.github.io/
    image_path: /assets/img/group-members/anurag.jpg
 
+amine_charrak:
+   first: Amine
+   last: M'Charrak
+   position: Visiting PhD student
+   status: current
+   website: https://mcharrak.github.io
+   image_path: /assets/img/group-members/amine.jpg
+
 muneeb_aadil:
    first: Muneeb
    last: Aadil
