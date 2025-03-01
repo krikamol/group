@@ -1,7 +1,7 @@
 <footer class="site-footer h-card" style="background-color: #f5f5f5;">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="{{ '/' | relative_url }}"></data>
 
-  <div class="wrapper">
+  <div class="container">
 
     <h2 class="footer-heading">Contact</h2>
     
@@ -21,17 +21,15 @@
             {% if site.contact.address -%}
               <li><span class="fa-li"><i class="fa-sharp fa-solid fa-location-dot"></span></i>{{ site.contact.address }}</li>
             {%- endif %}
+               <li> <div class="social-links">
+                      {%- include social.liquid -%}
+                </div>
+              </li>
           </ul>
         {%- endif %}
       </div>
-    
-      <div class="footer-col footer-col-2">
-        <div class="social-links">
-          {%- include social.html -%}
-        </div>
-      </div>
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-2">
         <p>{{ site.description | escape }}</p>
       </div>
       
@@ -39,3 +37,22 @@
   </div>
 
 </footer>
+<style type="text/css">
+.footer-heading {
+  padding-top: 20px; /* Adjust the value as needed */
+}
+  .footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* allows columns to wrap on small screens */
+  gap: 20px; /* optional spacing between columns */
+}
+
+.footer-col {
+  flex: 1; /* make all columns take equal space */
+  min-width: 200px; /* adjust based on your design */
+}
+.container[role="main"] {
+  padding-bottom: 100px; /* adjust value based on your footer height */
+}
+</style>
