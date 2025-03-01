@@ -1,0 +1,267 @@
+krikamol_muandet:
+   first: Krikamol
+   last: Muandet
+   position: Faculty
+   status: current
+   website: http://krikamol.org
+   image_path: /assets/img/group-members/krikamol.jpg
+
+abbavaram_gowtham_reddy:
+   first: Abbavaram Gowtham 
+   last: Reddy
+   position: Postdoc
+   status: current
+   website: https://gautam0707.github.io/
+   image_path: /assets/img/group-members/gowtham.jpg
+
+siu_lun_chau:
+   first: Siu Lun
+   last: Chau
+   position: Postdoc
+   status: current
+   website: https://chau999.github.io/
+   image_path: /assets/img/group-members/siulun.jpg
+
+masaki_adachi:
+   first: Masaki
+   last: Adachi
+   position: Visiting PhD student
+   status: alumnus
+   website: https://www.masaki-adachi.com/
+   image_path: /assets/img/group-members/masaki.jpeg
+
+masahiro_kato:
+   first: Masahiro
+   last: Kato
+   position: Visiting PhD student
+   status: alumnus
+   website: https://masakat0.github.io/
+   image_path: /assets/img/group-members/masahiro.png
+
+simon_foell:
+   first: Simon
+   last: Föll
+   position: Intern
+   status: alumnus
+   position_now: Traineeprogram
+   now_at: Bosch Center for Artificial Intelligence (BCAI)
+   website: https://www.linkedin.com/in/simon-f%C3%B6ll-459431137/
+   image_path: /assets/img/group-members/simon.jpeg
+
+masha_naslidnyk:
+   first: Masha
+   last: Naslidnyk
+   position: Intern
+   status: alumnus
+   website: https://mashanaslidnyk.github.io/
+   image_path: /assets/img/group-members/masha.jpeg
+
+junhyung_park:
+   first: Junhyung
+   last: Park
+   position: PhD student
+   status: alumnus
+   position_now: Postdoc
+   now_at: ETH Zürich
+   website: https://junhyung-park.github.io/
+   image_path: /assets/img/group-members/junhyung.png
+
+huynh_quang_kiet_vo:
+   first: Huynh Quang
+   last: Kiet Vo
+   position: PhD student
+   status: current
+   website: https://kietqhvo.github.io
+   image_path: /assets/img/group-members/kiet.jpg
+
+anurag_singh:
+   first: Anurag
+   last: Singh
+   position: PhD student
+   status: current
+   website: https://anurag14.github.io/
+   image_path: /assets/img/group-members/anurag.jpg
+
+amine_charrak:
+   first: Amine
+   last: M'Charrak
+   position: Visiting PhD student
+   status: current
+   website: https://mcharrak.github.io
+   image_path: /assets/img/group-members/amine.jpg
+
+muneeb_aadil:
+   first: Muneeb
+   last: Aadil
+   position: Research assistant
+   status: alumnus
+   position_now: PhD student
+   now_at: University College London
+   website: https://muneebaadil.github.io/
+   image_path: /assets/img/group-members/muneeb.png
+
+swathi_suhas:
+   first: Swathi
+   last: Suhas
+   position: Research assistant
+   status: current
+   image_path: /assets/img/group-members/swathi.jpeg
+
+saptarshi_saha:
+   first: Saptarshi
+   last: Saha
+   position: Intern
+   status: alumnus
+   website: https://github.com/Saptarshi-Saha-1996
+   image_path: /assets/img/group-members/saptarshi.jpeg
+
+rattaya_kaewvichai:
+   first: Rattaya
+   last: Kaewvichai
+   position: Visiting PhD student
+   status: alumnus
+   website: 
+   image_path: /assets/img/group-members/rattaya.jpeg
+
+jake_fawkes:
+   first: Jake
+   last: Fawkes
+   position: Intern
+   status: alumnus
+   website: https://csml.stats.ox.ac.uk/people/fawkes/
+   image_path: /assets/img/group-members/fawkes.jpg
+
+shahine_bouabid:
+   first: Shahine
+   last: Bouabid
+   position: Intern
+   status: alumnus
+   position_now: Postdoc
+   now_at: MIT
+   website: https://shahineb.github.io/
+   image_path: /assets/img/group-members/bouabid.jpg
+
+renan_gadoni:
+   first: Renan
+   last: Gadoni
+   position: Intern
+   status: alumnus
+   website: https://techlaw.uottawa.ca/people/gadoni-renan
+   image_path: /assets/img/group-members/gadoni.jpeg
+
+jonas_kuebler:
+   first: Jonas
+   last: Kübler
+   position: PhD student
+   status: alumnus
+   position_now: Applied Scientist
+   now_at: Amazon AWS Tübingen
+   website: https://www.amazon.science/author/jonas-m-kubler
+   
+rui_zhang:
+   first: Rui
+   last: Zhang
+   position: Intern
+   status: alumnus
+   position_now:
+   now_at:
+   website: https://ruizhang2016.github.io/
+   
+si_kai_lee:
+   first: Si Kai
+   last: Lee
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now_at: Yale University
+   website: https://statistics.yale.edu/people/si-kai-lee
+
+xiaohan_chen:
+   first: Xiaohan
+   last: Chen
+   position: Intern
+   status: alumnus
+   position_now: 
+   now_at: Alibaba Group
+   website: http://xiaohanchen.com/
+
+korrawe_karunratanakul:
+   first: Korrawe 
+   last: Karunratanakul
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now_at: ETH Zürich
+   website: https://korrawe.github.io/
+   
+hamed_shirzad:
+   first: Hamed 
+   last: Shirzad
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now_at: UBC
+   website: https://sites.google.com/view/hamedshirzad/home
+   
+prabhu_pradhan:
+   first: Prabhu
+   last: Pradhan
+   position: Intern
+   status: alumnus
+   position_now: 
+   now_at: 
+   website: https://sites.google.com/view/prabhupradhan/
+   
+chirag_gupta:
+   first: Chirag
+   last: Gupta
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now_at: CMU
+   website: https://aigen.github.io/
+   
+sorawit_saengkyongam:
+   first: Sorawit
+   last: Saengkyongam
+   position: Intern
+   status: alumnus
+   position_now: PhD student
+   now_at: ETH Zürich, Seminar for Statistics
+   website: https://sorawitj.github.io/
+   
+uzair_akbar:
+   first: Uzair
+   last: Akbar
+   position: Intern
+   status: alumnus
+   position_now: Software Engineer
+   now_at: OMMAX
+   website: https://github.com/uzairakbar
+   
+purin_klunklar:
+   first: Purin
+   last: Klunklar
+   position: Undergraduate
+   status: alumnus
+   position_now: Data Analytic Audit
+   now_at: Krung Thai Bank (KTB)
+   website: https://www.linkedin.com/in/purin-klunklar-370380220/
+   
+weerapatra_charoenkitsupat:
+   first: Weerapatra
+   last: Charoenkitsupat
+   position: Undergraduate
+   status: alumnus
+   position_now: Customer Data Analyst
+   now_at: United Overseas Bank Limited (UOB)
+   website:
+
+siraporn_tongurai:
+   first: Siraporn 
+   last: Tongurai
+   position: Undergraduate
+   status: alumnus
+   position_now:
+   now_at:
+   website:

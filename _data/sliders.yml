@@ -1,0 +1,80 @@
+- selector: slider1
+  bullets: false
+  captions: true
+  images:
+    - data-src: /assets/img/posts/RI-group-photo.jpeg
+      alt: Rational Intelligence Lab
+    - data-src: /assets/img/posts/Masaki-presentation-AISTATS-24.jpeg
+      alt: Alan and Masaki at AISTATS-24
+    - data-src: /assets/img/posts/CIFAR-tubingen-workshop.jpeg
+      alt: CIFAR Tuebingen Workshop 24
+    - data-src: /assets/img/posts/company-run.jpeg
+      alt: Company Run 2024 
+    - data-src: /assets/img/posts/mashahiro-welcome-dinner.jpeg
+      alt: Mashahiro's Welcome Dinner 
+    - data-src: /assets/img/posts/dagstuhl-visit-24.jpeg
+      alt: Dagstuhl Seminar 2024
+    - data-src: /assets/img/posts/Kiet-talk-AAAI-24.jpeg
+      alt: Kiet Presents at AAAI 24 
+    - data-src: /assets/img/posts/jake-fawkes-talk.jpeg
+      alt: Jake's Talk at CISPA 
+    - data-src: /assets/img/posts/siu_lun_chau_zurich_talk.jpeg
+      alt: Alan gives a talk at ETH Zurich
+    - data-src: /assets/img/posts/shahine-talk-1.jpg
+      alt: Shahine's Talk at CISPA
+    - data-src: /assets/img/posts/masha-naslidnyk-hida-welcome-dinner.jpg
+      alt: Masha's Welcome Dinner 
+    - data-src: /assets/img/posts/renan-talk-1.jpg
+      alt: Renan's Talk at CISPA
+    - data-src: /assets/img/posts/cispa-ml-day.jpeg
+      alt: CISPA ML Day
+    - data-src: /assets/img/posts/anurag-presenting-his-poster.jpeg
+      alt: CISPA ML Day
+    - data-src: /assets/img/posts/farewell-dinner-simon-foell.jpeg
+      alt: Simons Farewell dinner
+    - data-src: /assets/img/posts/ri-group-meeting-virtual.jpeg
+      alt: RI Group Meeting
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: /img/1.jpg
+      title: Balloons!
+      alt: This slider has caption titles
+    - data-src: /img/2.jpg
+      title: This slider uses the fade effect
+      alt: Instead of the default slide effect
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+    - src: /img/4.jpg
+      title: Last image had no caption!
+      alt: Also, this image has no link
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: slider3
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+    - src: /img/4.jpg
+      alt: image four
+  settings:
+    height: "'auto'"
+    disableNav: true
