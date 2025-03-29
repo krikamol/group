@@ -90,6 +90,30 @@ amine_charrak:
    website: https://mcharrak.github.io
    image_path: /assets/img/group-members/amine.jpg
 
+majeed_mohammadi:
+   first: Majeed
+   last: Mohammadi
+   position: Visiting Researcher
+   status: current
+   website: https://scholar.google.com/citations?user=7oVmQIYAAAAJ&hl=en
+   image_path: /assets/img/group-members/majeed.jpg
+
+cheng_song:
+   first: Cheng
+   last: Song
+   position: Research assistant
+   status: current
+   e-mail: csong750@connect.hkust-gz.edu.cn
+   image_path: /assets/img/group-members/cheng.jpeg
+
+obaid_rehman:
+   first: Obaid
+   last: Ur Rehman
+   position: Masters student
+   status: current
+   e-mail: obre00001@stud.uni-saarland.de
+   image_path: /assets/img/group-members/obaid.jpeg
+
 muneeb_aadil:
    first: Muneeb
    last: Aadil
@@ -104,7 +128,7 @@ swathi_suhas:
    first: Swathi
    last: Suhas
    position: Research assistant
-   status: current
+   status: alumnus
    image_path: /assets/img/group-members/swathi.jpeg
 
 saptarshi_saha:
