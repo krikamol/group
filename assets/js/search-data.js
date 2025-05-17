@@ -21,14 +21,14 @@ ninja.data = [{
           description: "Members of the RI Lab",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Team/";
+            window.location.href = "/team/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "This page lists publications that appeared after September 2022. Prior publications can be found at [here](https://www.krikamol.org/publication/).",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/pubs/";
           },
         },{id: "nav-vacancy",
           title: "Vacancy",
