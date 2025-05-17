@@ -18,7 +18,9 @@ siu_lun_chau:
    first: Siu Lun
    last: Chau
    position: Postdoc
-   status: current
+   position_now: Tenure Track Faculty
+   now_at: NTU Singapore
+   status: alumnus
    website: https://chau999.github.io/
    image_path: /assets/img/group-members/siulun.jpg
 
@@ -86,7 +88,7 @@ amine_charrak:
    first: Amine
    last: M'Charrak
    position: Visiting PhD student
-   status: current
+   status: alumnus
    website: https://mcharrak.github.io
    image_path: /assets/img/group-members/amine.jpg
 

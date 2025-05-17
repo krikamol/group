@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /pubs/
 title: Publications
 description: This page lists publications that appeared after September 2022. Prior publications can be found at [here](https://www.krikamol.org/publication/).
 nav: true
