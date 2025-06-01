@@ -2,7 +2,7 @@
 layout: page
 title: Rational Intelligence Seminar Series
 permalink: /riss/
-description: AI Fundamentals Seminar Seies by RI-Lab, CISPA 
+description: AI Fundamentals Seminar Series by RI-Lab, CISPA 
 horizontal: false
 ---
 <style>
