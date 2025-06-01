@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<style>
+.riss-talk {
+  margin-top: 2rem;
+  display: flex;
+  background-color: #f9f9f9;
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  padding: 1.5rem;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.riss-image {
+  width: 200px;
+  flex-shrink: 0;
+}
+
+.riss-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 1rem;
+}
+
+.riss-details {
+  flex: 1;
+}
+
+.riss-details h1 {
+  font-size: 1.8rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.riss-details p {
+  font-size: 1rem;
+  margin: 0.3rem 0;
+}
+
+</style>
+
+<div class="riss-talk">
+  {% if page.image %}
+  <div class="riss-image">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+
+  <div class="riss-details">
+    <h1>{{ page.title }}</h1>
+    {% if page.speaker_name %}
+      <p><strong>{{ page.speaker_name }}</strong> – {{ page.speaker_title }}</p>
+    {% endif %}
+    <p><i class="fa fa-calendar"></i> {{ page.date_in_string }} at {{ page.time_in_string }}</p>
+    <p><i class="fa fa-map-marker"></i> {{ page.location }}</p>
+    <p><strong>Keywords:</strong> {{ page.keywords }}</p>
+  </div>
+  <div>
+  {{ content }}
+</div>
+</div>
+
+
