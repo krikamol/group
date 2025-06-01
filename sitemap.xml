@@ -109,6 +109,10 @@
 <lastmod>2024-05-14T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/riss/sebastian-zezulka/</loc>
+<lastmod>2025-06-01T21:00:50+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -128,6 +132,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/pubs/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/riss/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/team/</loc>

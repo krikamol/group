@@ -184,6 +184,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Amazon-Berlin-Visit/";
+            },},{id: "riss-prediction-potential-outcomes-and-performativity",
+          title: 'Prediction, Potential Outcomes, and Performativity',
+          description: "",
+          section: "Riss",handler: () => {
+              window.location.href = "/riss/sebastian-zezulka/";
             },},{
         id: 'social-email',
         title: 'email',
