@@ -22,7 +22,7 @@
   
 </title>
 <meta name="author" content="Rational Intelligence Lab">
-<meta name="description" content="The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. There seminars serve as a forum for discussions and quick dissemination of results.">
+<meta name="description" content="The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results.">
 
   <meta name="keywords" content="rational-intelligence, CISPA, imprecise-probabilities, academic-website,">
 
@@ -238,7 +238,7 @@
   <header class="post-header">
     <h1 class="post-title">Rational Intelligence Seminar Series</h1>
     <div class="post-description">
-<p>The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. There seminars serve as a forum for discussions and quick dissemination of results.</p>
+<p>The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results.</p>
 </div>
   </header>
 
@@ -251,9 +251,18 @@
   margin-top: 2rem;
 }
 
+html[data-theme='light'] {
+  --riss-card-bg: #f9f9f9;
+}
+
+html[data-theme='dark'] {
+  --riss-card-bg: #1e1e1e;
+}
+
+/* Then use the variable in your component */
 .riss-card {
+  background-color: var(--riss-card-bg);
   display: flex;
-  background-color: #f9f9f9;
   border-radius: 1rem;
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
   padding: 1rem;
@@ -329,7 +338,35 @@
     </div>
     </main>
     <!-- Footer -->
-    <footer class="site-footer h-card" style="background-color: #f5f5f5;">
+    <style type="text/css">
+html[data-theme='light'] {
+  --footer-bg: #f9f9f9;
+}
+
+html[data-theme='dark'] {
+  --footer-bg: #1e1e1e;
+}
+
+.footer-heading {
+  padding-top: 20px; /* Adjust the value as needed */
+}
+  .footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* allows columns to wrap on small screens */
+  gap: 20px; /* optional spacing between columns */
+}
+
+.footer-col {
+  flex: 1; /* make all columns take equal space */
+  min-width: 200px; /* adjust based on your design */
+}
+.container[role="main"] {
+  padding-bottom: 100px; /* adjust value based on your footer height */
+}
+</style>
+
+<footer class="site-footer h-card" style="background-color: var(--footer-bg);">
   <data class="u-url" href="/"></data>
 
   <div class="container">
@@ -373,25 +410,7 @@
   </div>
 
 </footer>
-<style type="text/css">
-.footer-heading {
-  padding-top: 20px; /* Adjust the value as needed */
-}
-  .footer-col-wrapper {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap; /* allows columns to wrap on small screens */
-  gap: 20px; /* optional spacing between columns */
-}
 
-.footer-col {
-  flex: 1; /* make all columns take equal space */
-  min-width: 200px; /* adjust based on your design */
-}
-.container[role="main"] {
-  padding-bottom: 100px; /* adjust value based on your footer height */
-}
-</style>
 
     <!-- JavaScripts -->
     <!-- jQuery -->

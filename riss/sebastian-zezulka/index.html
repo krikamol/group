@@ -231,10 +231,18 @@
     <div class="container mt-5" role="main">
       
         <style>
+html[data-theme='light'] {
+  --riss-talk-bg: #f9f9f9;
+}
+
+html[data-theme='dark'] {
+  --riss-talk-bg: #1e1e1e;
+}
+
 .riss-talk {
   margin-top: 2rem;
   display: flex;
-  background-color: #f9f9f9;
+  background-color: var(--riss-talk-bg);
   border-radius: 1rem;
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
   padding: 1.5rem;
@@ -242,7 +250,6 @@
   gap: 1.5rem;
   align-items: flex-start;
 }
-
 .riss-image {
   width: 200px;
   flex-shrink: 0;
@@ -273,7 +280,7 @@
 </style>
 <div class="riss-header">
   <h1>Rational Intelligence Seminar Series</h1>
-  <p class="post-description">The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. There seminars serve as a forum for discussions and quick dissemination of results.</p>
+  <p class="post-description">The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results.</p>
 </div>
 
 <div class="riss-talk">
@@ -308,7 +315,35 @@
     </div>
     </main>
     <!-- Footer -->
-    <footer class="site-footer h-card" style="background-color: #f5f5f5;">
+    <style type="text/css">
+html[data-theme='light'] {
+  --footer-bg: #f9f9f9;
+}
+
+html[data-theme='dark'] {
+  --footer-bg: #1e1e1e;
+}
+
+.footer-heading {
+  padding-top: 20px; /* Adjust the value as needed */
+}
+  .footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* allows columns to wrap on small screens */
+  gap: 20px; /* optional spacing between columns */
+}
+
+.footer-col {
+  flex: 1; /* make all columns take equal space */
+  min-width: 200px; /* adjust based on your design */
+}
+.container[role="main"] {
+  padding-bottom: 100px; /* adjust value based on your footer height */
+}
+</style>
+
+<footer class="site-footer h-card" style="background-color: var(--footer-bg);">
   <data class="u-url" href="/"></data>
 
   <div class="container">
@@ -352,25 +387,7 @@
   </div>
 
 </footer>
-<style type="text/css">
-.footer-heading {
-  padding-top: 20px; /* Adjust the value as needed */
-}
-  .footer-col-wrapper {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap; /* allows columns to wrap on small screens */
-  gap: 20px; /* optional spacing between columns */
-}
 
-.footer-col {
-  flex: 1; /* make all columns take equal space */
-  min-width: 200px; /* adjust based on your design */
-}
-.container[role="main"] {
-  padding-bottom: 100px; /* adjust value based on your footer height */
-}
-</style>
 
     <!-- JavaScripts -->
     <!-- jQuery -->
