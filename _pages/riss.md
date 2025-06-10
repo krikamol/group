@@ -2,7 +2,7 @@
 layout: page
 title: Rational Intelligence Seminar Series
 permalink: /riss/
-description: AI Fundamentals Seminar Series by RI-Lab, CISPA 
+description: The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. There seminars serve as a forum for discussions and quick dissemination of results. 
 horizontal: false
 ---
 <style>
