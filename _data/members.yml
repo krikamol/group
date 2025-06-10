@@ -96,7 +96,7 @@ majeed_mohammadi:
    first: Majeed
    last: Mohammadi
    position: Visiting Researcher
-   status: current
+   status: alumnus
    website: https://scholar.google.com/citations?user=7oVmQIYAAAAJ&hl=en
    image_path: /assets/img/group-members/majeed.jpg
 
@@ -107,6 +107,22 @@ cheng_song:
    status: current
    e-mail: csong750@connect.hkust-gz.edu.cn
    image_path: /assets/img/group-members/cheng.jpeg
+
+rajeev_verma:
+   first: Rajeev  
+   last: Verma
+   position: Visiting PhD student
+   status: current
+   website: https://rajevv.github.io/
+   image_path: /assets/img/group-members/rajeev.jpg
+
+joseph_sheils:
+   first: Joseph C.  
+   last: Sheils
+   position: Research assistant
+   status: current
+   website: https://jcsheils.github.io/
+   image_path: /assets/img/group-members/joseph.jpg
 
 obaid_rehman:
    first: Obaid

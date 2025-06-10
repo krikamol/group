@@ -2,7 +2,7 @@
 layout: page
 title: Rational Intelligence Seminar Series
 permalink: /riss/
-description: The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. There seminars serve as a forum for discussions and quick dissemination of results. 
+description: The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results. 
 horizontal: false
 ---
 <style>
@@ -13,9 +13,18 @@ horizontal: false
   margin-top: 2rem;
 }
 
+html[data-theme='light'] {
+  --riss-card-bg: #f9f9f9;
+}
+
+html[data-theme='dark'] {
+  --riss-card-bg: #1e1e1e;
+}
+
+/* Then use the variable in your component */
 .riss-card {
+  background-color: var(--riss-card-bg);
   display: flex;
-  background-color: #f9f9f9;
   border-radius: 1rem;
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
   padding: 1rem;
