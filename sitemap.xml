@@ -18,7 +18,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/news/siu-lun-chau-viva/</loc>
-<lastmod>2023-07-05T17:00:00+02:00</lastmod>
+<lastmod>2023-08-01T17:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/news/rational-intelligence-manifesto/</loc>
@@ -110,7 +110,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/riss/sebastian-zezulka/</loc>
-<lastmod>2025-06-11T00:05:04+02:00</lastmod>
+<lastmod>2025-07-05T16:08:54+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/riss/yixin-wang/</loc>
+<lastmod>2025-07-05T16:08:54+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>

@@ -17,14 +17,14 @@
   
   
     
-      Siu Lun Chau has passed his Ph.D. viva! | Rational Intelligence Lab
+      Posterior Mean Matching: Generative Modeling through Online Bayesian Inference | Rational Intelligence Lab
     
   
 </title>
 <meta name="author" content="Rational Intelligence Lab">
 <meta name="description" content="An official website of the Rational Intelligence (RI) Lab. Our group is part of CISPA–Helmholtz Center for Information Security and the ELLIS Unit Saarbrücken. ">
 
-  <meta name="keywords" content="rational-intelligence, CISPA, imprecise-probabilities, academic-website,">
+  <meta name="keywords" content="Generative Modeling, Bayesian Inference">
 
 
 
@@ -59,7 +59,7 @@
   <link rel="shortcut icon" href="/assets/img/group_icon.ico?f87dc418bf9e1561fbeefdf992b6fa32">
 
 <link rel="stylesheet" href="/assets/css/main.css?d41d8cd98f00b204e9800998ecf8427e">
-<link rel="canonical" href="http://localhost:4000/news/siu-lun-chau-viva/">
+<link rel="canonical" href="http://localhost:4000/riss/yixin-wang/">
 
 <!-- Dark Mode -->
 <script src="/assets/js/theme.js?9a0c749ec5240d9cda97bc72359a72c0"></script>
@@ -230,67 +230,113 @@
     <!-- Content -->
     <div class="container mt-5" role="main">
       
-        
+        <style>
+html[data-theme='light'] {
+  --riss-talk-bg: #f9f9f9;
+}
 
+html[data-theme='dark'] {
+  --riss-talk-bg: #1e1e1e;
+}
 
+.riss-talk {
+  margin-top: 2rem;
+  display: flex;
+  background-color: var(--riss-talk-bg);
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  padding: 1.5rem;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+.riss-image {
+  width: 200px;
+  flex-shrink: 0;
+}
 
+.riss-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 1rem;
+}
 
+.riss-details {
+  flex: 1;
+}
 
+.riss-details h1 {
+  font-size: 1.8rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
 
+.riss-details p {
+  font-size: 1rem;
+  margin: 0.3rem 0;
+}
 
-<div class="post">
-  <header class="post-header">
-    <h1 class="post-title">Siu Lun Chau has passed his Ph.D. viva!</h1>
-    <p class="post-meta">
-      Created in August 01, 2023
-      
-      
-      
-    </p>
-    <p class="post-tags">
-      
-        <i class="fa-solid fa-calendar fa-sm"></i> 2023
-      
-      
-
-      
-          ·  
-        
-          
-            <i class="fa-solid fa-tag fa-sm"></i> jekyll
-          
-          
-             
-          
-        
-          
-            <i class="fa-solid fa-tag fa-sm"></i> update
-          
-          
-        
-      
-    </p>
-  </header>
-
-  <article class="post-content">
-    
-    <div id="markdown-content">
-      <p>We congratulate our postdoc, <a href="https://chau999.github.io/" rel="external nofollow noopener" target="_blank">Siu Lun Chau</a>, who has passed his Ph.D. viva from the University of Oxford, UK. We also wish him successful research with us at CISPA.</p>
-
-<p><img src="/assets/img/posts/alan-viva-2023.jpeg" alt="Alan defending his thesis" style="max-width:100%; height:auto;"></p>
-
-    </div>
-  </article>
-
-  
-
-  
-
-  
-
-  
-  
+</style>
+<div class="riss-header">
+  <h1>Rational Intelligence Seminar Series</h1>
+  <p class="post-description">The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results.</p>
 </div>
+
+<div class="riss-talk">
+  
+  <div class="riss-image">
+    <img src="/assets/img/riss-speakers/yixin_wang.jpg" alt="Posterior Mean Matching: Generative Modeling through Online Bayesian Inference">
+  </div>
+  
+
+  <div class="riss-details">
+    <h1>Posterior Mean Matching: Generative Modeling through Online Bayesian Inference</h1>
+    
+      <p><strong>Yixin Wang</strong> – Assistant Professor at the University of Michigan</p>
+    
+    <p><i class="fa fa-calendar"></i> 2025-07-30 at 14:30 (CET)</p>
+    <p><i class="fa fa-map-marker"></i> <a href="https://cispa-de.zoom-x.de/j/61708401597" rel="external nofollow noopener" target="_blank">Zoom</a></p>
+    <p><strong>Keywords:</strong> Generative Modeling, Bayesian Inference</p>
+  </div>
+  <div>
+  <h3 id="abstract">Abstract</h3>
+<p>This talk will introduce posterior mean matching (PMM), a
+new method for generative modeling that is grounded in Bayesian
+inference. PMM uses conjugate pairs of distributions to model complex
+data of various modalities like images and text, offering a flexible
+alternative to existing methods like diffusion models. PMM models
+iteratively refine noisy approximations of the target distribution
+using updates from online Bayesian inference. PMM is flexible because
+its mechanics are based on general Bayesian models. We demonstrate
+this flexibility by developing specialized examples: a generative PMM
+model of real-valued data using the Normal-Normal model, a generative
+PMM model of count data using a Gamma-Poisson model, and a generative
+PMM model of discrete data using a Dirichlet-Categorical model.
+Empirically, PMMs achieve performance that is competitive with
+generative models for language modeling and image generation.</p>
+
+<p>This is joint work with Sebastian Salazar, Michal Kucer, Emily
+Casleton, and David Blei.</p>
+
+<h3 id="about-the-speaker">About the Speaker</h3>
+<p>Yixin Wang is an assistant professor of statistics at the University
+of Michigan. She works in the fields of Bayesian statistics, machine
+learning, and causal inference. Previously, she was a postdoctoral
+researcher with Professor Michael Jordan at the University of
+California, Berkeley. She completed her PhD in statistics at Columbia,
+advised by Professor David Blei, and her undergraduate studies in
+mathematics and computer science at the Hong Kong University of
+Science and Technology. Her research has been recognized by the NSF
+CAREER award, the j-ISBA Blackwell-Rosenbluth Award, ICSA Conference
+Young Researcher Award, ISBA Savage Award Honorable Mention, ACIC Tom
+Ten Have Award Honorable Mention, and INFORMS data mining and COPA
+best paper awards.</p>
+
+</div>
+</div>
+
+
 
       
     </div>

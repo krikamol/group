@@ -189,6 +189,11 @@ ninja.data = [{
           description: "",
           section: "Riss",handler: () => {
               window.location.href = "/riss/sebastian-zezulka/";
+            },},{id: "riss-posterior-mean-matching-generative-modeling-through-online-bayesian-inference",
+          title: 'Posterior Mean Matching: Generative Modeling through Online Bayesian Inference',
+          description: "",
+          section: "Riss",handler: () => {
+              window.location.href = "/riss/yixin-wang/";
             },},{
         id: 'social-email',
         title: 'email',
