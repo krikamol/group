@@ -72,7 +72,8 @@ html[data-theme='dark'] {
 </style>
 
 <div class="riss-list">
-  {% for talk in site.riss %}
+  {% assign sorted_talks = site.riss | sort: "sort_key" | reverse %}
+  {% for talk in sorted_talks %}
   <div class="riss-card">
     <div class="riss-image">
       <img src="{{ talk.image | relative_url }}" alt="{{ talk.speaker_name }}">
