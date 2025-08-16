@@ -184,6 +184,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Amazon-Berlin-Visit/";
+            },},{id: "riss-the-relative-value-of-prediction",
+          title: 'The relative value of prediction',
+          description: "",
+          section: "Riss",handler: () => {
+              window.location.href = "/riss/juan-perdomo/";
             },},{id: "riss-prediction-potential-outcomes-and-performativity",
           title: 'Prediction, Potential Outcomes, and Performativity',
           description: "",
