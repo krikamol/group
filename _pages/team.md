@@ -12,7 +12,6 @@ nav_order: 2
 .group-members {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
 }
 
 .member {

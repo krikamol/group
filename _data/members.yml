@@ -14,6 +14,54 @@ abbavaram_gowtham_reddy:
    website: https://gautam0707.github.io/
    image_path: /assets/img/group-members/gowtham.jpg
 
+huynh_quang_kiet_vo:
+   first: Huynh Quang
+   last: Kiet Vo
+   position: PhD student
+   status: current
+   website: https://kietqhvo.github.io
+   image_path: /assets/img/group-members/kiet.jpg
+
+anurag_singh:
+   first: Anurag
+   last: Singh
+   position: PhD student
+   status: current
+   website: https://anurag14.github.io/
+   image_path: /assets/img/group-members/anurag.jpg
+
+rajeev_verma:
+   first: Rajeev  
+   last: Verma
+   position: Visiting PhD student
+   status: current
+   website: https://rajevv.github.io/
+   image_path: /assets/img/group-members/rajeev.jpg
+
+joseph_sheils:
+   first: Joseph C.  
+   last: Sheils
+   position: Research assistant
+   status: current
+   website: https://jcsheils.github.io/
+   image_path: /assets/img/group-members/joseph.jpg
+
+obaid_rehman:
+   first: Obaid
+   last: Ur Rehman
+   position: Masters student
+   status: current
+   e-mail: obre00001@stud.uni-saarland.de
+   image_path: /assets/img/group-members/obaid.jpeg
+
+cheng_song:
+   first: Cheng
+   last: Song
+   position: Research assistant
+   status: current
+   e-mail: csong750@connect.hkust-gz.edu.cn
+   image_path: /assets/img/group-members/cheng.jpeg
+
 siu_lun_chau:
    first: Siu Lun
    last: Chau
@@ -68,22 +116,6 @@ junhyung_park:
    website: https://junhyung-park.github.io/
    image_path: /assets/img/group-members/junhyung.png
 
-huynh_quang_kiet_vo:
-   first: Huynh Quang
-   last: Kiet Vo
-   position: PhD student
-   status: current
-   website: https://kietqhvo.github.io
-   image_path: /assets/img/group-members/kiet.jpg
-
-anurag_singh:
-   first: Anurag
-   last: Singh
-   position: PhD student
-   status: current
-   website: https://anurag14.github.io/
-   image_path: /assets/img/group-members/anurag.jpg
-
 amine_charrak:
    first: Amine
    last: M'Charrak
@@ -100,37 +132,6 @@ majeed_mohammadi:
    website: https://scholar.google.com/citations?user=7oVmQIYAAAAJ&hl=en
    image_path: /assets/img/group-members/majeed.jpg
 
-cheng_song:
-   first: Cheng
-   last: Song
-   position: Research assistant
-   status: current
-   e-mail: csong750@connect.hkust-gz.edu.cn
-   image_path: /assets/img/group-members/cheng.jpeg
-
-rajeev_verma:
-   first: Rajeev  
-   last: Verma
-   position: Visiting PhD student
-   status: current
-   website: https://rajevv.github.io/
-   image_path: /assets/img/group-members/rajeev.jpg
-
-joseph_sheils:
-   first: Joseph C.  
-   last: Sheils
-   position: Research assistant
-   status: current
-   website: https://jcsheils.github.io/
-   image_path: /assets/img/group-members/joseph.jpg
-
-obaid_rehman:
-   first: Obaid
-   last: Ur Rehman
-   position: Masters student
-   status: current
-   e-mail: obre00001@stud.uni-saarland.de
-   image_path: /assets/img/group-members/obaid.jpeg
 
 muneeb_aadil:
    first: Muneeb
