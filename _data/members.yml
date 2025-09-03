@@ -6,6 +6,15 @@ krikamol_muandet:
    website: http://krikamol.org
    image_path: /assets/img/group-members/krikamol.jpg
 
+julian_rodemann:
+   first: Julian 
+   last: Rodemann
+   position: Postdoc
+   status: current
+   website: https://https://rodemann.github.io/
+   image_path: /assets/img/group-members/julian.jpg
+
+
 abbavaram_gowtham_reddy:
    first: Abbavaram Gowtham 
    last: Reddy
