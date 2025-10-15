@@ -16,9 +16,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<br>
-🚨 <span style="color:red">We currently have an open position for a postdoctoral researcher (<a href="assets/pdf/ri-postdoc-call-2025.pdf" target="_blank">our call</a>)</span>
-<br><br>
 
 The Rational Intelligence (RI) Lab is dedicated to understanding the underlying principles that enable autonomous agents to acquire knowledge effectively from their experiences. Our primary objective is to utilize this understanding in designing novel machine learning (ML) algorithms capable of engaging in rational interactions with complex environments.
 

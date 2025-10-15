@@ -55,6 +55,14 @@ joseph_sheils:
    website: https://jcsheils.github.io/
    image_path: /assets/img/group-members/joseph.jpg
 
+monseej_purkayastha:
+   first: Monseej  
+   last: Purkayastha
+   position: Research assistant
+   status: current
+   website: 
+   image_path: /assets/img/group-members/monseej.jpg
+
 obaid_rehman:
    first: Obaid
    last: Ur Rehman
