@@ -37,9 +37,7 @@ nav_order: 5
 </head>
 
 <body>
-<br>
-🚨 <span style="color:red">We currently have an open position for a postdoctoral researcher <a href="https://ri-lab.org/assets/pdfs/ri-postdoc-call-2025.pdf" target="_blank">(our call)</a>.</span> 
-<br><br>
+
 
 <p justify=align>To ensure your application receives full consideration, please carefully review the guidelines below before applying to 
 our group. Due to the high volume of applications we receive, following these guidelines will ensure efficient use of our time and 
