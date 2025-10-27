@@ -6,7 +6,7 @@ speaker_name: "Sebastian Zezulka"
 speaker_title: "Doctoral Researcher at University of Tübingen"
 date_in_string: "2025-06-18"
 time_in_string: "14:30 (CET)"
-location: '<a href="https://cispa-de.zoom-x.de/j/61708401597">Zoom</a>'
+location: '<a href="https://www.youtube.com/watch?v=YhCsBKmbpM0">Youtube Video</a>'
 keywords: Causality, Decision Making, Fair Machine Learning 
 image: "/assets/img/riss-speakers/sebastian_zezulka.JPG"
 sort_key: "2025-06-18"

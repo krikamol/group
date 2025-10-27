@@ -3,7 +3,7 @@ layout: page
 title: Vacancy
 permalink: /join/
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 <html lang="en">
@@ -67,7 +67,7 @@ research projects and will have minimal teaching responsibilities. </p>
 <button type="button" class="collapsible">How to Apply?</button>
 <div class="content">
 <br>
-To apply for a postdoc position, you will need to submit at least 
+To apply for a postdoc position, you will need to submit an application <a href="https://forms.gle/Zzw9vp5FuNgG9EdG9">here</a> including at least 
 <br><br>
 <ul>
 <li> a cover letter, </li>
@@ -106,7 +106,7 @@ new insights, discoveries, or theories. </p>
 <button type="button" class="collapsible">How to Apply?</button>
 <div class="content">
 <br>
-To apply for a PhD position, you will need to submit at least
+To apply for a PhD position, you will need to submit an application <a href="https://forms.gle/Zzw9vp5FuNgG9EdG9">here</a> including at least
 <br><br>
 <ul>
 <li> a cover letter, </li>
@@ -148,7 +148,8 @@ cutting-edge research but also to gain valuable hands-on research experience. Ty
 <p justify=align> We encourage you to first familiarize yourself with our research, such as by reviewing our recent <a 
 href="/publications">publications</a>, to ensure that our research themes align with your interests. Next, reach out to the PhD 
 students or postdoctoral researchers whose work interests you to explore potential collaboration opportunities. Your application will 
-then be discussed internally to assess whether your background and skills align with our current projects. </p>
+then be discussed internally to assess whether your background and skills align with our current projects. In addition to contacting respective
+PhD student or Post Doc you may apply <a href="https://forms.gle/Zzw9vp5FuNgG9EdG9">here</a></p>
 <p justify=align>We are particularly interested in candidates with a strong mathematical background, excellent programming skills, or 
 ideally both.</p>
 <p> {% include warning.html content="Please avoid sending unsolicited emails directly to the PI, as these are unlikely to receive a 
@@ -170,7 +171,7 @@ and support.</p>
 <button type="button" class="collapsible">How to Apply?</button>
 <div class="content">
 <br>
-<p align=justify> Please send your CV to the PI with a brief explanation as to why you’re interested in collaborating with us.</p>
+<p align=justify> Please apply <a href="https://forms.gle/Zzw9vp5FuNgG9EdG9">here</a> with a brief explanation as to why you’re interested in collaborating with us.</p>
 <p align=justify>{% include warning.html content="We rarely accept undergraduate students directly for an internship within our group. If 
 you’re interested, please apply through existing internship programs for undergraduate students." %}</p>
 </div>
@@ -182,7 +183,7 @@ you’re interested, please apply through existing internship programs for under
 <p align=justify> We welcome undergraduate and master's students to our research group. If you’re considering writing your thesis
 with us, please review our available projects <a href="/assets/pdf/ri-thesis-2025.pdf" target="_blank">here</a>. </p>
 
-<p>If a project aligns with your interests, please contact the corresponding project coordinator.</p>
+<p>If a project aligns with your interests, please contact the corresponding project coordinator. In addition you can apply <a href="https://forms.gle/Zzw9vp5FuNgG9EdG9">here</a></p>
 
 </div>
 

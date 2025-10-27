@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Rational Intelligence Seminar Series
+title: RISS
+header_title: Rational Intelligence Seminar Series (RISS)
+nav: true
+nav_order: 5
 permalink: /riss/
 description: The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results. 
 horizontal: false
 ---
 <style>
-	.riss-list {
+  .riss-list {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
@@ -20,7 +23,13 @@ html[data-theme='light'] {
 html[data-theme='dark'] {
   --riss-card-bg: #1e1e1e;
 }
+html[data-theme='light'] {
+  --riss-talk-bg: #f9f9f9;
+}
 
+html[data-theme='dark'] {
+  --riss-talk-bg: #1e1e1e;
+}
 /* Then use the variable in your component */
 .riss-card {
   background-color: var(--riss-card-bg);
@@ -70,7 +79,7 @@ html[data-theme='dark'] {
   background-color: #0056b3;
 }
 </style>
-
+Check out previous talks on our <a href="https://www.youtube.com/@ri-seminar">Youtube Channel</a>!
 <div class="riss-list">
   {% assign sorted_talks = site.riss | sort: "sort_key" | reverse %}
   {% for talk in sorted_talks %}
@@ -88,5 +97,4 @@ html[data-theme='dark'] {
   </div>
   {% endfor %}
 </div>
-
 
