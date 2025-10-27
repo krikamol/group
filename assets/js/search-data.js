@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/join/";
           },
+        },{id: "nav-riss",
+          title: "RISS",
+          description: "The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/riss/";
+          },
         },{id: "post-imprecise-learning-for-dummies-a-new-perspective-on-training-ml-models-for-real-world",
       
         title: 'Imprecise Learning for dummies: A new perspective on training ML models for real-world... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
