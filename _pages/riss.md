@@ -3,7 +3,7 @@ layout: page
 title: RISS
 header_title: Rational Intelligence Seminar Series (RISS)
 nav: true
-nav_order: 5
+nav_order: 4
 permalink: /riss/
 description: The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results. 
 horizontal: false

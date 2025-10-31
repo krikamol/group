@@ -3,7 +3,7 @@ layout: page
 title: Vacancy
 permalink: /join/
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <html lang="en">
