@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/pubs/";
           },
-        },{id: "nav-vacancy",
-          title: "Vacancy",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/join/";
-          },
         },{id: "nav-riss",
           title: "RISS",
           description: "The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/riss/";
+          },
+        },{id: "nav-vacancy",
+          title: "Vacancy",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/join/";
           },
         },{id: "post-imprecise-learning-for-dummies-a-new-perspective-on-training-ml-models-for-real-world",
       
