@@ -196,6 +196,11 @@ ninja.data = [{
           description: "",
           section: "Riss",handler: () => {
               window.location.href = "/riss/juan-perdomo/";
+            },},{id: "riss-learning-and-incentives-in-human-ai-collaboration",
+          title: 'Learning and Incentives in Human–AI Collaboration',
+          description: "",
+          section: "Riss",handler: () => {
+              window.location.href = "/riss/natalie-collina/";
             },},{id: "riss-prediction-potential-outcomes-and-performativity",
           title: 'Prediction, Potential Outcomes, and Performativity',
           description: "",
