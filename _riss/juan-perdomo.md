@@ -8,7 +8,7 @@ date_in_string: "2025-08-27"
 time_in_string: "14:30 (CET)"
 location: '<a href="https://www.youtube.com/watch?v=rAMPu0XHTpU">Youtube Video</a>'
 keywords: Performative prediction, Decision Making
-image: "/assets/img/riss-speakers/juan-perdomo.jpeg"
+image: "/assets/img/riss-speakers/juan-perdomo.webp"
 sort_key: "2025-08-27"
 ---
 ### Abstract 
