@@ -63,6 +63,14 @@ monseej_purkayastha:
    website: 
    image_path: /assets/img/group-members/monseej.jpg
 
+shaoyun_guo:
+   first: Shao-Yun
+   last: Guo
+   position: Bachelors student
+   status: current
+   website: https://www.linkedin.com/in/shao-yun-frances-guo-1aa8a1299/
+   image_path: /assets/img/group-members/shaoyun.jpeg
+
 obaid_rehman:
    first: Obaid
    last: Ur Rehman
