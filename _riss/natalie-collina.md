@@ -8,7 +8,7 @@ date_in_string: "2025-11-19"
 time_in_string: "14:30 (CET)"
 location: '<a href="https://cispa-de.zoom-x.de/j/61708401597">Zoom</a>'
 keywords: Incentive Aware ML, Human–AI Collaboration
-image: "/assets/img/riss-speakers/natalie-collina.png"
+image: "/assets/img/riss-speakers/natalie-collina.jpeg"
 sort_key: "2025-11-19"
 ---
 ### Abstract 
