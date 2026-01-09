@@ -206,6 +206,11 @@ ninja.data = [{
           description: "",
           section: "Riss",handler: () => {
               window.location.href = "/riss/sebastian-zezulka/";
+            },},{id: "riss-is-your-llm-overcharging-you",
+          title: 'Is your LLM overcharging you?',
+          description: "",
+          section: "Riss",handler: () => {
+              window.location.href = "/riss/stratis-tsirtsis/";
             },},{id: "riss-posterior-mean-matching-generative-modeling-through-online-bayesian-inference",
           title: 'Posterior Mean Matching: Generative Modeling through Online Bayesian Inference',
           description: "",

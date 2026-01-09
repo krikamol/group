@@ -17,14 +17,14 @@
   
   
     
-      RISS | Rational Intelligence Lab
+      Is your LLM overcharging you? | Rational Intelligence Lab
     
   
 </title>
 <meta name="author" content="Rational Intelligence Lab">
-<meta name="description" content="The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results.">
+<meta name="description" content="An official website of the Rational Intelligence (RI) Lab. Our group is part of CISPA–Helmholtz Center for Information Security and the ELLIS Unit Saarbrücken. ">
 
-  <meta name="keywords" content="rational-intelligence, CISPA, imprecise-probabilities, academic-website,">
+  <meta name="keywords" content="LLM Regulations and Mechanism Design, Sequential Hypothesis Testing">
 
 
 
@@ -59,7 +59,7 @@
   <link rel="shortcut icon" href="/assets/img/group_icon.ico?f87dc418bf9e1561fbeefdf992b6fa32">
 
 <link rel="stylesheet" href="/assets/css/main.css?d41d8cd98f00b204e9800998ecf8427e">
-<link rel="canonical" href="http://localhost:4000/riss/">
+<link rel="canonical" href="http://localhost:4000/riss/stratis-tsirtsis/">
 
 <!-- Dark Mode -->
 <script src="/assets/js/theme.js?9a0c749ec5240d9cda97bc72359a72c0"></script>
@@ -117,8 +117,6 @@
 
           <!-- Other pages -->
           
-          
-            
           
             
           
@@ -243,25 +241,7 @@
     <!-- Content -->
     <div class="container mt-5" role="main">
       
-        
-
-<div class="post">
-  <header class="post-header">
-    <h1 class="post-title">Rational Intelligence Seminar Series (RISS)</h1>
-    <div class="post-description">
-<p>The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results.</p>
-</div>
-  </header>
-
-  <article>
-    <style>
-  .riss-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  margin-top: 2rem;
-}
-
+        <style>
 html[data-theme='light'] {
   --riss-card-bg: #f9f9f9;
 }
@@ -269,6 +249,7 @@ html[data-theme='light'] {
 html[data-theme='dark'] {
   --riss-card-bg: #1e1e1e;
 }
+
 html[data-theme='light'] {
   --riss-talk-bg: #f9f9f9;
 }
@@ -276,134 +257,77 @@ html[data-theme='light'] {
 html[data-theme='dark'] {
   --riss-talk-bg: #1e1e1e;
 }
-/* Then use the variable in your component */
-.riss-card {
-  background-color: var(--riss-card-bg);
+
+.riss-talk {
+  margin-top: 2rem;
   display: flex;
+  background-color: var(--riss-talk-bg);
   border-radius: 1rem;
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
-  padding: 1rem;
-  align-items: center;
+  padding: 1.5rem;
   flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+.riss-image {
+  width: 200px;
+  flex-shrink: 0;
 }
 
 .riss-image img {
-  width: 150px;
-  height: 150px;
+  width: 100%;
+  height: auto;
   object-fit: cover;
   border-radius: 1rem;
-  margin-right: 1.5rem;
 }
 
 .riss-details {
   flex: 1;
 }
 
-.riss-details h2 {
-  font-size: 1.5rem;
-  font-weight: bold;
-  margin-bottom: 0.2rem;
+.riss-details h1 {
+  font-size: 1.8rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
 }
 
 .riss-details p {
-  margin: 0.25rem 0;
   font-size: 1rem;
+  margin: 0.3rem 0;
 }
 
-.riss-button {
-  display: inline-block;
-  background-color: #007bff;
-  color: white;
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
-  margin-top: 0.8rem;
-  font-weight: 500;
-}
-
-.riss-button:hover {
-  background-color: #0056b3;
-}
 </style>
+<div class="riss-header">
+  <h1>Rational Intelligence Seminar Series</h1>
+  <p class="post-description">The Rational Intelligence Seminar Series (RISS), seeks to advance the understanding of rationality, efficiency and reliability in machine learning systems. These seminars serve as a forum for discussions and quick dissemination of results.</p>
+</div>
 
-<p>Check out previous talks on our <a href="https://www.youtube.com/@ri-seminar" rel="external nofollow noopener" target="_blank">Youtube Channel</a>!</p>
-<div class="riss-list">
+<div class="riss-talk">
   
+  <div class="riss-image">
+    <img src="/assets/img/riss-speakers/stratis_tsirtsis.jpg" alt="Is your LLM overcharging you?">
+  </div>
   
-  <div class="riss-card">
-    <div class="riss-image">
-      <img src="/assets/img/riss-speakers/stratis_tsirtsis.jpg" alt="Stratis Tsirtsis">
-    </div>
-    <div class="riss-details">
-      <h2>Is your LLM overcharging you?</h2>
+
+  <div class="riss-details">
+    <h1>Is your LLM overcharging you?</h1>
+    
       <p><strong>Stratis Tsirtsis</strong> – Postdoc at Hasso Plattner Institute, Germany</p>
-      <p><i class="fa fa-calendar"></i> 2026-01-14 at 14:30 (CET)</p>
-      <p><i class="fa fa-map-marker"></i> <a href="https://cispa-de.zoom-x.de/j/61708401597" rel="external nofollow noopener" target="_blank">Zoom</a></p>
-      <a href="/riss/stratis-tsirtsis/" class="riss-button">More Info</a>
-    </div>
+    
+    <p><i class="fa fa-calendar"></i> 2026-01-14 at 14:30 (CET)</p>
+    <p><i class="fa fa-map-marker"></i> <a href="https://cispa-de.zoom-x.de/j/61708401597" rel="external nofollow noopener" target="_blank">Zoom</a></p>
+    <p><strong>Keywords:</strong> LLM Regulations and Mechanism Design, Sequential Hypothesis Testing</p>
   </div>
-  
-  <div class="riss-card">
-    <div class="riss-image">
-      <img src="/assets/img/riss-speakers/natalie-collina.png" alt="Natalie Collina">
-    </div>
-    <div class="riss-details">
-      <h2>Learning and Incentives in Human–AI Collaboration</h2>
-      <p><strong>Natalie Collina</strong> – PhD Student at The University of Pennsylvania, USA</p>
-      <p><i class="fa fa-calendar"></i> 2025-11-19 at 14:30 (CET)</p>
-      <p><i class="fa fa-map-marker"></i> <a href="https://cispa-de.zoom-x.de/j/61708401597" rel="external nofollow noopener" target="_blank">Zoom</a></p>
-      <a href="/riss/natalie-collina/" class="riss-button">More Info</a>
-    </div>
-  </div>
-  
-  <div class="riss-card">
-    <div class="riss-image">
-      <img src="/assets/img/riss-speakers/juan-perdomo.webp" alt="Juan C. Perdomo">
-    </div>
-    <div class="riss-details">
-      <h2>The relative value of prediction</h2>
-      <p><strong>Juan C. Perdomo</strong> – Postdoctoral fellow at the Harvard Center for Research on Computation and Society</p>
-      <p><i class="fa fa-calendar"></i> 2025-08-27 at 14:30 (CET)</p>
-      <p><i class="fa fa-map-marker"></i> <a href="https://www.youtube.com/watch?v=rAMPu0XHTpU" rel="external nofollow noopener" target="_blank">Youtube Video</a></p>
-      <a href="/riss/juan-perdomo/" class="riss-button">More Info</a>
-    </div>
-  </div>
-  
-  <div class="riss-card">
-    <div class="riss-image">
-      <img src="/assets/img/riss-speakers/yixin_wang.jpg" alt="Yixin Wang">
-    </div>
-    <div class="riss-details">
-      <h2>Posterior Mean Matching: Generative Modeling through Online Bayesian Inference</h2>
-      <p><strong>Yixin Wang</strong> – Assistant Professor at the University of Michigan</p>
-      <p><i class="fa fa-calendar"></i> 2025-07-30 at 14:30 (CET)</p>
-      <p><i class="fa fa-map-marker"></i> <a href="https://cispa-de.zoom-x.de/j/61708401597" rel="external nofollow noopener" target="_blank">Zoom</a></p>
-      <a href="/riss/yixin-wang/" class="riss-button">More Info</a>
-    </div>
-  </div>
-  
-  <div class="riss-card">
-    <div class="riss-image">
-      <img src="/assets/img/riss-speakers/sebastian_zezulka.JPG" alt="Sebastian Zezulka">
-    </div>
-    <div class="riss-details">
-      <h2>Prediction, Potential Outcomes, and Performativity</h2>
-      <p><strong>Sebastian Zezulka</strong> – Doctoral Researcher at University of Tübingen</p>
-      <p><i class="fa fa-calendar"></i> 2025-06-18 at 14:30 (CET)</p>
-      <p><i class="fa fa-map-marker"></i> <a href="https://www.youtube.com/watch?v=YhCsBKmbpM0" rel="external nofollow noopener" target="_blank">Youtube Video</a></p>
-      <a href="/riss/sebastian-zezulka/" class="riss-button">More Info</a>
-    </div>
-  </div>
-  
+  <div>
+  <h3 id="abstract">Abstract</h3>
+<p>State-of-the-art large language models (LLMs) offer impressive performance but come with high computational costs. This has created a market for LLMs-as-a-service, where users access models via APIs and pay a fixed price for each token in a model’s response. In this talk, I will first demonstrate that this pricing mechanism creates a financial incentive for providers to strategically misreport token counts, while users cannot prove, or even know, whether a provider is overcharging them. I will then introduce two potential solutions to foster trust in the ecosystem. First, I will show that this perverse incentive can be provably eliminated by transitioning to an alternative pricing mechanism: paying a fixed price per character rather than per token. Second, I will introduce a novel auditing framework that, under the current pricing mechanism, enables a third-party auditor to reliably detect unfaithful providers via sequential hypothesis testing. Throughout the talk, I will illustrate these concepts with experimental findings across several popular LLM families.</p>
+
+<h3 id="about-the-speaker">About the Speaker</h3>
+<p>Stratis Tsirtsis is a postdoctoral researcher at the Hasso Plattner Institute in the Technology &amp; Regulation group led by Prof. Sandra Wachter. His research focuses on algorithmic problems surrounding the social impact of artificial intelligence, bridging machine learning, game theory, causality, and optimization. Stratis completed his Ph.D. in Computer Science at the Max Planck Institute for Software Systems and has also conducted research at Stanford University and Meta (FAIR).</p>
+
+</div>
 </div>
 
-
-  </article>
-
-  
-
-  
-</div>
 
       
     </div>
