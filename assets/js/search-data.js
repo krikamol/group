@@ -191,6 +191,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Amazon-Berlin-Visit/";
+            },},{id: "news-eiml-workshop-2025-at-eurips-copenhagen-was-a-huge-success",
+          title: 'EIML Workshop 2025 at EURIPS Copenhagen was a huge success',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/eiml-workshop-eurips/";
             },},{id: "riss-the-relative-value-of-prediction",
           title: 'The relative value of prediction',
           description: "",
