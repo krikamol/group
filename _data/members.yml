@@ -47,6 +47,14 @@ rajeev_verma:
    website: https://rajevv.github.io/
    image_path: /assets/img/group-members/rajeev.jpg
 
+shakhriyor_khoshimov:
+   first: Shakhriyor
+   last: Khoshimov
+   position: Masters student
+   status: current
+   website: https://github.com/Shahriyor22
+   image_path: /assets/img/group-members/shakhriyor.jpeg
+
 joseph_sheils:
    first: Joseph C.  
    last: Sheils
@@ -71,21 +79,13 @@ shaoyun_guo:
    website: https://www.linkedin.com/in/shao-yun-frances-guo-1aa8a1299/
    image_path: /assets/img/group-members/shaoyun.jpeg
 
-obaid_rehman:
-   first: Obaid
-   last: Ur Rehman
-   position: Masters student
-   status: current
-   e-mail: obre00001@stud.uni-saarland.de
-   image_path: /assets/img/group-members/obaid.jpeg
-
-cheng_song:
-   first: Cheng
-   last: Song
-   position: Research assistant
-   status: current
-   e-mail: csong750@connect.hkust-gz.edu.cn
-   image_path: /assets/img/group-members/cheng.jpeg
+#cheng_song:
+#  first: Cheng
+#   last: Song
+#   position: Research assistant
+#   status: current
+#   e-mail: csong750@connect.hkust-gz.edu.cn
+#   image_path: /assets/img/group-members/cheng.jpeg
 
 siu_lun_chau:
    first: Siu Lun
@@ -270,7 +270,15 @@ hamed_shirzad:
    position_now: PhD student
    now_at: UBC
    website: https://sites.google.com/view/hamedshirzad/home
-   
+
+obaid_rehman:
+   first: Obaid
+   last: Ur Rehman
+   position: Masters student
+   status: alumnus
+   e-mail: obre00001@stud.uni-saarland.de
+   image_path: /assets/img/group-members/obaid.jpeg 
+
 prabhu_pradhan:
    first: Prabhu
    last: Pradhan
