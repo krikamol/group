@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - new-website
     paths:
       - "assets/**"
       - "_sass/**"
@@ -33,6 +34,7 @@ on:
     branches:
       - master
       - main
+      - new-website
     paths:
       - "assets/**"
       - "_sass/**"
