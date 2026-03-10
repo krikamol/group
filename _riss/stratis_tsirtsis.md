@@ -6,7 +6,7 @@ speaker_name: "Stratis Tsirtsis"
 speaker_title: "Postdoc at Hasso Plattner Institute, Germany"
 date_in_string: "2026-01-14"
 time_in_string: "14:30 (CET)"
-location: '<a href="https://cispa-de.zoom-x.de/j/61708401597">Zoom</a>'
+location: '<a href="https://www.youtube.com/watch?v=7SNmoejlx0M">Youtube Video</a>'
 keywords: LLM Regulations and Mechanism Design, Sequential Hypothesis Testing
 image: "/assets/img/riss-speakers/stratis_tsirtsis.jpg"
 sort_key: "2026-01-14"

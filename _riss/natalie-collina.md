@@ -6,7 +6,7 @@ speaker_name: "Natalie Collina"
 speaker_title: "PhD Student at The University of Pennsylvania, USA"
 date_in_string: "2025-11-19"
 time_in_string: "14:30 (CET)"
-location: '<a href="https://cispa-de.zoom-x.de/j/61708401597">Zoom</a>'
+location: '<a href="https://www.youtube.com/watch?v=BkgaR9mlYD0">Youtube Video</a>'
 keywords: Incentive Aware ML, Human–AI Collaboration
 image: "/assets/img/riss-speakers/natalie-collina.jpeg"
 sort_key: "2025-11-19"
