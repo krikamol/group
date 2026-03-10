@@ -206,6 +206,11 @@ ninja.data = [{
           description: "",
           section: "Riss",handler: () => {
               window.location.href = "/riss/natalie-collina/";
+            },},{id: "riss-law-of-large-numbers-accuracy-as-statistical-measure-for-compliance-and-competition",
+          title: 'Law of Large Numbers: Accuracy as Statistical Measure for Compliance and Competition',
+          description: "",
+          section: "Riss",handler: () => {
+              window.location.href = "/riss/rabanus-derr/";
             },},{id: "riss-prediction-potential-outcomes-and-performativity",
           title: 'Prediction, Potential Outcomes, and Performativity',
           description: "",
