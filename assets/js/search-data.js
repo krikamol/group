@@ -216,6 +216,11 @@ ninja.data = [{
           description: "",
           section: "Riss",handler: () => {
               window.location.href = "/riss/sebastian-zezulka/";
+            },},{id: "riss-reliable-methods-for-agent-evaluation",
+          title: 'Reliable Methods for Agent Evaluation',
+          description: "",
+          section: "Riss",handler: () => {
+              window.location.href = "/riss/shuvom-sadhuka/";
             },},{id: "riss-is-your-llm-overcharging-you",
           title: 'Is your LLM overcharging you?',
           description: "",
