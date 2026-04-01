@@ -6,7 +6,7 @@ speaker_name: "Rabanus Derr"
 speaker_title: "PhD Student at the Foundations of Machine Learning Group at University of Tübingen"
 date_in_string: "2026-03-18"
 time_in_string: "14:30 (CET)"
-location: '<a href="https://cispa-de.zoom-x.de/j/61708401597">Zoom</a>'
+location: '<a href="https://www.youtube.com/watch?v=Q-czMvfN79M">Youtube Video</a>'
 keywords: Regulation, Statistics
 image: "/assets/img/riss-speakers/rabanus-derr.webp"
 sort_key: "2026-03-18"
