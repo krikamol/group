@@ -87,6 +87,15 @@ shaoyun_guo:
    website: https://www.linkedin.com/in/shao-yun-frances-guo-1aa8a1299/
    image_path: /assets/img/group-members/shaoyun.jpeg
 
+veronika_lohmanova:
+   first: Veronika
+   last: Lohmanova
+   position: Intern
+   status: current
+   website: https://www.vlohmanova.id.lv/
+   image_path: /assets/img/group-members/veronika-lohmanova.jpeg
+
+
 #cheng_song:
 #  first: Cheng
 #   last: Song
