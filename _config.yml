@@ -23,9 +23,9 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 contact:
-  email: muandet@cispa.de
+  email: office-muandet@cispa.de
   phone: "+49 681 / 87083 2558"
-  address: "Stuhlsatzenhaus 5, 66123 Saarbrücken"
+  address: "Im Oberen Werk 1, 66386 St. Ingbert"
 
 
 domain: krikamol.github.io
