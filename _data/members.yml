@@ -6,6 +6,14 @@ krikamol_muandet:
    website: http://krikamol.org
    image_path: /assets/img/group-members/krikamol.jpg
 
+sarah_lauer:
+   first: Sarah
+   last: Lauer
+   position: Administrative Assistant 
+   status: current
+   website: https://cispa.de/de/people/c01sala
+   image_path: /assets/img/group-members/sarah-lauer.jpg
+
 julian_rodemann:
    first: Julian 
    last: Rodemann
