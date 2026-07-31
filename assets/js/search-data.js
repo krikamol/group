@@ -221,6 +221,11 @@ ninja.data = [{
           description: "",
           section: "Riss",handler: () => {
               window.location.href = "/riss/shuvom-sadhuka/";
+            },},{id: "riss-why-one-probability-is-not-enough-accounting-for-higher-order-uncertainty-in-machine-learning",
+          title: 'Why One Probability is Not Enough: Accounting for Higher-order Uncertainty in Machine Learning...',
+          description: "",
+          section: "Riss",handler: () => {
+              window.location.href = "/riss/Siu-Lun-Chau/";
             },},{id: "riss-is-your-llm-overcharging-you",
           title: 'Is your LLM overcharging you?',
           description: "",
