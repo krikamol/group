@@ -8,7 +8,7 @@ date_in_string: "2026-08-03"
 time_in_string: "11:00 (CET)"
 location: '<a href="https://cispa-de.zoom-x.de/j/61708401597">Zoom</a>'
 keywords: Uncertainty Estimation
-image: "/assets/img/riss-speakers/siulun2025.JPEG"
+image: "/assets/img/riss-speakers/siulun2025.jpeg"
 sort_key: "2026-08-03"
 ---
 ### Abstract 
