@@ -6,7 +6,7 @@ speaker_name: "Shuvom Sadhuka"
 speaker_title: "PhD Student at MIT"
 date_in_string: "2026-04-08"
 time_in_string: "14:30 (CET)"
-location: '<a href="https://cispa-de.zoom-x.de/j/61708401597">Zoom</a>'
+location: '<a href="https://www.youtube.com/watch?v=Xxlhh019cWM&t=3s">Youtube Video</a>'
 keywords: AI Agents, Sequential Hypothesis Testing
 image: "/assets/img/riss-speakers/shuvom-sadhuka.webp"
 sort_key: "2026-04-08"
