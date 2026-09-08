@@ -87,6 +87,14 @@ shaoyun_guo:
    website: https://www.linkedin.com/in/shao-yun-frances-guo-1aa8a1299/
    image_path: /assets/img/group-members/shaoyun.jpeg
 
+arian_norouzi:
+   first: Arian
+   last: Norouzi
+   position: Bachelors Student
+   status: current
+   website: https://ri-lab.org/
+   image_path: /assets/img/group-members/avatar.png
+
 veronika_lohmanova:
    first: Veronika
    last: Lohmanova
