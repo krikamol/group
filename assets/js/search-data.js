@@ -236,6 +236,11 @@ ninja.data = [{
           description: "",
           section: "Riss",handler: () => {
               window.location.href = "/riss/yixin-wang/";
+            },},{id: "riss-the-aleatoric-epistemic-dichotomy-of-uncertainty-in-machine-learning",
+          title: 'The Aleatoric-Epistemic Dichotomy of Uncertainty in Machine Learning',
+          description: "",
+          section: "Riss",handler: () => {
+              window.location.href = "/riss/yusuf-sale/";
             },},{
         id: 'social-email',
         title: 'email',
