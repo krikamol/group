@@ -7,7 +7,7 @@ first_name: Rational
 middle_name: Intelligence
 last_name: Lab
 contact_note: >
-  Reach out to us via an email to muandet@cispa.de
+  Reach out to us via an email to office-muandet@cispa.de
 description: >- # this means to ignore newlines until "baseurl:"
   An official website of the Rational Intelligence (RI) Lab. Our group is part of CISPA–Helmholtz Center for Information Security and the ELLIS Unit Saarbrücken. 
 # baseurl: "" # the subpath of your site, e.g. /blog
