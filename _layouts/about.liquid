@@ -16,6 +16,10 @@ image_sliders:
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
+{% if page.hiring_banner %}
+  <p class="hiring-banner">🚨 <span style="color:red">{{ page.hiring_banner }}</span></p>
+{% endif %}
+
 {% include slider.html selector="slider1" %}
 
   <article>

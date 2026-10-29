@@ -67,7 +67,7 @@ research projects and will have minimal teaching responsibilities. </p>
 <button type="button" class="collapsible">How to Apply?</button>
 <div class="content">
 <br>
-To apply for a postdoc position, you will need to submit an application <a href="https://forms.gle/Zzw9vp5FuNgG9EdG9">here</a> including at least 
+To apply for a postdoc position, please send your application to <a href="mailto:ri-recruitment@cispa.de">ri-recruitment@cispa.de</a> including at least 
 <br><br>
 <ul>
 <li> a cover letter, </li>
@@ -77,6 +77,8 @@ To apply for a postdoc position, you will need to submit an application <a href=
 <p align=justify> together with contact information of <b>at most three references</b> who are willing to attest your academic aptitude, 
 for example, 
 your PhD advisors, collaborators, etc. </p>
+
+<p align=justify> In addition to your email application, we encourage you to also fill out <a href="https://forms.gle/Zzw9vp5FuNgG9EdG9" target="_blank">this form</a>. </p>
 
 <p align=justify> Your cover letter should clearly articulate why you believe our group is the ideal place for the next step in your 
 career. Your research statement should be approximately 2–3 pages long and should provide a clear summary of your past research 
@@ -106,7 +108,7 @@ new insights, discoveries, or theories. </p>
 <button type="button" class="collapsible">How to Apply?</button>
 <div class="content">
 <br>
-To apply for a PhD position, you will need to submit an application <a href="https://forms.gle/Zzw9vp5FuNgG9EdG9">here</a> including at least
+To apply for a PhD position, please send your application to <a href="mailto:ri-recruitment@cispa.de">ri-recruitment@cispa.de</a> including at least
 <br><br>
 <ul>
 <li> a cover letter, </li>
@@ -115,6 +117,8 @@ To apply for a PhD position, you will need to submit an application <a href="htt
 </ul>
 <p align=justify> together with contact information of <b>at most two references</b> who are willing to attest your academic aptitude, 
 for example, your bachelor/master thesis supervisors. </p>
+
+<p align=justify> In addition to your email application, we encourage you to also fill out <a href="https://forms.gle/Zzw9vp5FuNgG9EdG9" target="_blank">this form</a>. </p>
 
 <p align=justify> Your cover letter should convey your enthusiasm for pursuing a PhD, especially within our group. In your personal 
 statement (approximately 1–2 pages), please summarize your research background and explain how it connects to the research topics you 

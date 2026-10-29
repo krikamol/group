@@ -57,6 +57,24 @@ html[data-theme='dark'] {
   margin: 0.3rem 0;
 }
 
+.riss-zoom-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #0b5cff;
+  color: white !important;
+  text-decoration: none;
+  padding: 0.5rem 1.1rem;
+  border-radius: 0.5rem;
+  margin: 0.8rem 0 0.4rem;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(11, 92, 255, 0.35);
+}
+
+.riss-zoom-button:hover {
+  background-color: #0948cc;
+}
+
 </style>
 <div class="riss-header">
   <h1>Rational Intelligence Seminar Series</h1>
@@ -76,7 +94,19 @@ html[data-theme='dark'] {
       <p><strong>{{ page.speaker_name }}</strong> – {{ page.speaker_title }}</p>
     {% endif %}
     <p><i class="fa fa-calendar"></i> {{ page.date_in_string }} at {{ page.time_in_string }}</p>
-    <p><i class="fa fa-map-marker"></i> {{ page.location }}</p>
+    {% assign today = site.time | date: "%Y-%m-%d" %}
+    {% assign zoom_url = page.zoom_url %}
+    {% if zoom_url == nil and page.location contains "zoom" %}
+      {% assign zoom_url = page.location | split: 'href="' | last | split: '"' | first %}
+    {% endif %}
+    {% if zoom_url %}
+      <p><i class="fa fa-map-marker"></i> Online</p>
+      {% if page.sort_key >= today %}
+        <a href="{{ zoom_url }}" class="riss-zoom-button" target="_blank"><i class="fa-solid fa-video"></i> Join on Zoom</a>
+      {% endif %}
+    {% else %}
+      <p><i class="fa fa-map-marker"></i> {{ page.location }}</p>
+    {% endif %}
     <p><strong>Keywords:</strong> {{ page.keywords }}</p>
   </div>
   <div>

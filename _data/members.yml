@@ -18,7 +18,7 @@ julian_rodemann:
    first: Julian 
    last: Rodemann
    position: Postdoc
-   status: current
+   status: alumnus
    website: https://rodemann.github.io/
    image_path: /assets/img/group-members/julian.jpg
 
@@ -59,7 +59,7 @@ shakhriyor_khoshimov:
    first: Shakhriyor
    last: Khoshimov
    position: Masters Student
-   status: current
+   status: alumnus
    website: https://github.com/Shahriyor22
    image_path: /assets/img/group-members/shakhriyor.jpeg
 
@@ -83,7 +83,7 @@ shaoyun_guo:
    first: Shao-Yun
    last: Guo
    position: Bachelors Student
-   status: current
+   status: alumnus
    website: https://www.linkedin.com/in/shao-yun-frances-guo-1aa8a1299/
    image_path: /assets/img/group-members/shaoyun.jpeg
 
@@ -99,7 +99,7 @@ veronika_lohmanova:
    first: Veronika
    last: Lohmanova
    position: Intern
-   status: current
+   status: alumnus
    website: https://www.vlohmanova.id.lv/
    image_path: /assets/img/group-members/veronika-lohmanova.png
 

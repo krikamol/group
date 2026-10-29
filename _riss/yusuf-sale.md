@@ -6,7 +6,7 @@ speaker_name: "Yusuf Sale"
 speaker_title: "PhD student at LMU Munich"
 date_in_string: "2026-09-30"
 time_in_string: "14:30 (CET)"
-location: '<a href="https://cispa-de.zoom-x.de/j/61708401597">Zoom</a>'
+location: '<a href="https://www.youtube.com/watch?v=9TaDc4jTYIg">Youtube Video</a>'
 keywords: Uncertainty-Aware Machine Learning
 image: "assets/img/riss-speakers/yusuf-sale.jpg"
 sort_key: "2026-09-30"

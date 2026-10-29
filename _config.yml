@@ -137,6 +137,16 @@ external_sources:
       - url: https://medium.com/@anurags.it/imprecise-learning-for-dummies-a-new-perspective-on-training-ml-models-for-real-world-0021d2ba5eb7
         published_date: 2024-05-14
 
+# YouTube playlists fetched at build time, available as site.data.youtube.<name>
+youtube_playlists:
+  riss: PLO9ap1DvGLJkyh9ervuHJbNOz2TB3hDLx
+
+# RISS seminar: default Zoom room, venue and contact address for talk proposals
+riss_seminar:
+  zoom_url: https://cispa-de.zoom-x.de/j/61708401597
+  email: riss@ri-lab.org
+  location: CISPA D2, St. Ingbert
+
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------

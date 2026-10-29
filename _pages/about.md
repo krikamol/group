@@ -6,8 +6,14 @@ subtitle: <a href='#'>CISPA Helhmholtz Center for Information Security, Saarbruc
 
 
 
+# shown in red above the image slider; remove or leave empty to hide
+hiring_banner: >-
+  We have several open PhD and postdoc positions, see our
+  <a href="/assets/pdf/ri-phd-postdoc-call-2026.pdf" target="_blank">call</a>
+  and <a href="/join/">vacancies</a>.
+
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
