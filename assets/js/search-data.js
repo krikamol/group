@@ -246,14 +246,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%75%61%6E%64%65%74@%63%69%73%70%61.%64%65", "_blank");
+          window.open("mailto:%6F%66%66%69%63%65-%6D%75%61%6E%64%65%74@%63%69%73%70%61.%64%65", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/muandet-lab", "_blank");
+          window.open("https://github.com/muandet-lab", "_blank");
         },
       },{
         id: 'social-x',
